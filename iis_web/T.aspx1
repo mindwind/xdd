@@ -1,0 +1,163 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="T.aspx.cs" Inherits="T" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>四川省政府信息公开</title>
+<link href="css/style_xxgk2010.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div align="center">
+  <table width="900" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+    <tr>
+      <td align="center"><table width="890" border="0" align="center" cellpadding="0" cellspacing="0">
+        <tr>
+          <td height="30" background="images/20100728wj_xxgk_04.jpg"><table width="98%" border="0" align="center" cellpadding="0" cellspacing="0">
+            <tr>
+              <td align="left">四川省政府门户网   &nbsp;&nbsp;繁体版   &nbsp;&nbsp;简体版</td>
+              <td align="right">2010年7月13日 &nbsp;&nbsp;星期二</td>
+            </tr>
+          </table></td>
+        </tr>
+      </table></td>
+    </tr>
+  </table>
+  <table width="900" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+    <tr>
+      <td height="160" align="right" style="background:url(images/20100728wj_xxgk_02.jpg) no-repeat center;"><table width="75%" border="0" cellpadding="0" cellspacing="0" class="xxgk_Fh">
+        <tr>
+          <td align="left" class="xxgk_Fh">四川省发展改革委</td>
+        </tr>
+        <tr>
+          <td height="80">&nbsp;</td>
+        </tr>
+      </table></td>
+    </tr>
+  </table>
+  <table width="900" border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+    <tr>
+      <td><table width="890" border="0" align="center" cellpadding="0" cellspacing="0">
+        <tr>
+          <td height="16" background="images/20100728wj_xxgk_11.jpg">&nbsp;</td>
+        </tr>
+      </table></td>
+    </tr>
+  </table>  
+  <table width="900" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+    <tr>
+      <td align="center"><table width="890" border="0" align="center" cellpadding="0" cellspacing="0">
+        <tr>
+          <td width="8" align="center" valign="top">&nbsp;</td>
+          <td align="center" valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="1" bgcolor="#b8b8b8">
+                <tr>
+                  <td height="28" align="left" background="images/20100730wj_xxgk_17.jpg" bgcolor="#FFFFFF">&nbsp;&nbsp;<span class="xxgkH12"><strong>当前位置：</strong></span>国土资源、能源</td>
+                </tr>
+                <tr>
+                  <td align="center" valign="top" bgcolor="#FFFFFF"><table width="100%" border="0" cellspacing="10" cellpadding="0">
+                    <tr>
+                      <td align="center" valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="1" bgcolor="#d9ae89">
+                        <tr>
+                          <td align="center" valign="middle" bgcolor="#ffebd6"><table width="100%" border="0" cellpadding="0" cellspacing="8" class="xxgkHg">
+                            <tr>
+                              <td width="30%" align="left"><strong>索 引 号：</strong><%=IndexNo%></td>
+                              <td width="30%" align="left"><strong>主题分类：</strong><%=CateGory %></td>
+                              <td width="30%" align="left"><strong>发布机构：</strong><%=publisher %></td>
+                            </tr>
+                            <tr>
+                              <td width="30%" align="left"><strong>发布日期：</strong><%=pubtime %></td>
+                              <td width="30%" align="left"><strong>文&nbsp;&nbsp;&nbsp;&nbsp;号：</strong><%=FileNo %></td>
+                              <td width="30%" align="left"><strong>主 题 词：</strong><%=keys %></td>
+                            </tr>
+                          </table></td>
+                        </tr>
+                      </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                          <tr>
+                            <td>&nbsp;</td>
+                          </tr>
+                        </table>  
+                        <table width="100%" border="0" cellpadding="8" cellspacing="1" bgcolor="#d9ae89">
+                          <tr>
+                            <td align="center" valign="middle" bgcolor="#fff5ea"><table width="100%" border="0" cellpadding="0" cellspacing="1" bgcolor="#ffebd5">
+                              <tr>
+                                <td align="center" bgcolor="#FFFFFF"><table width="94%" border="0" cellspacing="0" cellpadding="0">
+                                  <tr>
+                                    <td height="50" align="center" style="color:#c80000; font-size:22px; font-weight:bold;"><%=title %> </td>
+                                  </tr>
+                                  <tr>
+                                    <td height="30" align="center"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                      <tr>
+                                        <td background="images/20100728wj_xxgk_32.jpg" height="1"></td>
+                                      </tr>
+                                    </table></td>
+                                  </tr>
+                                  <tr>
+                                    <td align="left" style="line-height:14px; line-height:24px; font-size:14px;">
+                                    <%=Content %>
+                                    </td>
+                                  </tr>
+                                </table>
+                                  <table width="94%" border="0" cellpadding="0" cellspacing="1" bgcolor="#e3bf9d">
+                                    <tr>
+                                      <td height="26" align="left" bgcolor="#fff5eb" class="xxgkH12">&nbsp;<strong>附件：</strong></td>
+                                    </tr>
+                                    <tr>
+                                      <td bgcolor="#FFFFFF"><table width="100%" border="0" cellspacing="8" cellpadding="0">
+                                        <tr>
+                                          <td align="left">无</td>
+                                        </tr>
+                                      </table></td>
+                                    </tr>
+                                  </table>
+                                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                    <tr>
+                                      <td>&nbsp;</td>
+                                    </tr>
+                                  </table></td>
+                              </tr>
+                            </table></td>
+                          </tr>
+                        </table>
+                        </td>
+                    </tr>
+                  </table></td>
+                </tr>
+              </table>
+            </td>
+        </tr>
+        
+      </table></td>
+    </tr>
+  </table>
+  <table width="900" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+    <tr>
+      <td height="8"></td>
+    </tr>
+  </table>  
+  <table width="900" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+    <tr>
+      <td align="center"><table width="890" border="0" align="center" cellpadding="0" cellspacing="0">
+        <tr>
+          <td align="center" height="5" bgcolor="#d63600"></td>
+        </tr>
+        <tr>
+          <td align="center"><table width="100%" border="0" cellspacing="10" cellpadding="0">
+            <tr>
+              <td height="14" align="center" valign="middle" style="line-height:24px;">Copyright 2009 www.sc.gov.cn All Rights Reserved <br />
+                四川省人民政府网站 网站声明 | 网站地图 | 联系我们 | 主编信箱<br />
+                版权所有：四川省人民政府办公厅<br />
+                技术支持：四川电信 网站维护：四川省电子政务外网运营中心 联系电话: (028)86190174<br />
+                蜀 ICP 备05030899号</td>
+            </tr>
+          </table></td>
+        </tr>
+      </table></td>
+    </tr>
+  </table>
+</div>
+    </form>
+</body>
+</html>

@@ -1,0 +1,41 @@
+﻿using System;
+using System.Data;
+using System.Configuration;
+using System.Collections;
+using System.Web;
+using System.Web.Security;
+using System.Web.UI;
+using System.Web.UI.WebControls;
+using System.Web.UI.WebControls.WebParts;
+using System.Web.UI.HtmlControls;
+
+public partial class T : System.Web.UI.Page
+{
+    public string IndexNo = "", CateGory = "", keys = "", publisher = "", pubtime = "", FileNo = "", Content = "";
+    public string title = "";
+    protected void Page_Load(object sender, EventArgs e)
+    {
+        string i = "";
+        if (Request["i"] != null)
+            i = Request["i"].Trim();
+        GetInfo(i);
+    }
+
+    void GetInfo(string id)
+    {
+        string sql = "select d.CateGory,d.title,t.field4 as fileNo,t.field5,d.keywords,d.publisher,d.field6 as indexNo,d.pubtime,t.Field6 as content from document d inner join template01 t on t.id=d.id where d.id='" + id + "'";
+        DataTable dt = new DataTable();
+            new DataBase().GetTable(sql, ref dt);
+            if (dt != null && dt.Rows.Count > 0)
+            {
+                IndexNo = dt.Rows[0]["indexNo"].ToString();
+                CateGory = dt.Rows[0]["CateGory"].ToString();
+                keys = dt.Rows[0]["keywords"].ToString();
+                publisher = dt.Rows[0]["publisher"].ToString();
+                pubtime = Convert.ToDateTime(dt.Rows[0]["pubtime"].ToString()).ToString("yyyy年MM月dd日");
+                Content = dt.Rows[0]["content"].ToString();
+                FileNo = dt.Rows[0]["fileNo"].ToString();
+                title = dt.Rows[0]["title"].ToString();
+            }
+    }
+}

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="gb2312"?>
+<root>
+<column id="120" name="四川银监局" path="10954/gpimsg1/" level="1" gpi="101"><column id="91" name="组织机构简介" path="10954/gpimsg1/" level="2" gpi="91">
+<column id="98" name="01G政府直属事业单位" path="10954/gpimsg1/" level="3" gpi="98">
+<column id="2490" name="概况信息" path="10954/gpimsg1/" level="4" gpi="2490">
+<column id="3669" name="机构职能" path="10954/gpimsg1/" level="5" gpi="3669">
+</column>
+<column id="3800" name="领导简介及分工" path="10954/gpimsg1/" level="5" gpi="3800">
+</column>
+<column id="4193" name="其他" path="10954/gpimsg1/" level="5" gpi="4193">
+</column>
+</column>
+</column>
+</column>
+<column id="119" name="财政、金融、审计" path="10954/gpimsg1/" level="2" gpi="119">
+<column id="2397" name="04C银行" path="10954/gpimsg1/" level="3" gpi="2397">
+<column id="2659" name="政府文件" path="10954/gpimsg1/" level="4" gpi="2659">
+<column id="5148" name="通知" path="10954/gpimsg1/" level="5" gpi="5148">
+</column>
+<column id="5934" name="意见" path="10954/gpimsg1/" level="5" gpi="5934">
+</column>
+<column id="6327" name="其他" path="10954/gpimsg1/" level="5" gpi="6327">
+</column>
+</column>
+<column id="2790" name="动态信息" path="10954/gpimsg1/" level="4" gpi="2790">
+<column id="6458" name="工作动态" path="10954/gpimsg1/" level="5" gpi="6458">
+</column>
+<column id="6589" name="重要会议" path="10954/gpimsg1/" level="5" gpi="6589">
+</column>
+<column id="6851" name="统计数据" path="10954/gpimsg1/" level="5" gpi="6851">
+</column>
+<column id="6982" name="公示公告" path="10954/gpimsg1/" level="5" gpi="6982">
+</column>
+<column id="7244" name="其他" path="10954/gpimsg1/" level="5" gpi="7244">
+</column>
+</column>
+<column id="3314" name="行政权力" path="10954/gpimsg1/" level="4" gpi="3314">
+<column id="8947" name="办理情况" path="10954/gpimsg1/" level="5" gpi="8947">
+</column>
+<column id="9078" name="其他" path="10954/gpimsg1/" level="5" gpi="9078">
+</column>
+</column>
+<column id="3576" name="其他" path="10954/gpimsg1/" level="4" gpi="3576">
+</column>
+</column>
+</column>
+</column>
+</root>

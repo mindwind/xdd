@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="gb2312"?>
+<root>
+<column id="116" name="省邮政管理局" path="10954/gpimsg1/" level="1" gpi="101"><column id="91" name="组织机构简介" path="10954/gpimsg1/" level="2" gpi="91">
+<column id="99" name="01Z其他" path="10954/gpimsg1/" level="3" gpi="99">
+<column id="2491" name="概况信息" path="10954/gpimsg1/" level="4" gpi="2491">
+<column id="3670" name="机构职能" path="10954/gpimsg1/" level="5" gpi="3670">
+</column>
+<column id="3801" name="领导简介及分工" path="10954/gpimsg1/" level="5" gpi="3801">
+</column>
+</column>
+</column>
+</column>
+<column id="125" name="工业、交通" path="10954/gpimsg1/" level="2" gpi="125">
+<column id="2424" name="07L邮政" path="10954/gpimsg1/" level="3" gpi="2424">
+<column id="2686" name="政府文件" path="10954/gpimsg1/" level="4" gpi="2686">
+<column id="5568" name="报告" path="10954/gpimsg1/" level="5" gpi="5568">
+</column>
+</column>
+<column id="2817" name="动态信息" path="10954/gpimsg1/" level="4" gpi="2817">
+<column id="6485" name="工作动态" path="10954/gpimsg1/" level="5" gpi="6485">
+</column>
+<column id="6616" name="重要会议" path="10954/gpimsg1/" level="5" gpi="6616">
+</column>
+<column id="7009" name="公示公告" path="10954/gpimsg1/" level="5" gpi="7009">
+</column>
+<column id="7271" name="其他" path="10954/gpimsg1/" level="5" gpi="7271">
+</column>
+</column>
+<column id="3079" name="财政信息" path="10954/gpimsg1/" level="4" gpi="3079">
+<column id="7926" name="财政预算决算" path="10954/gpimsg1/" level="5" gpi="7926">
+</column>
+<column id="8319" name="其他" path="10954/gpimsg1/" level="5" gpi="8319">
+</column>
+</column>
+<column id="3341" name="行政权力" path="10954/gpimsg1/" level="4" gpi="3341">
+<column id="8712" name="办事指南" path="10954/gpimsg1/" level="5" gpi="8712">
+</column>
+<column id="9105" name="其他" path="10954/gpimsg1/" level="5" gpi="9105">
+</column>
+</column>
+<column id="3603" name="其他" path="10954/gpimsg1/" level="4" gpi="3603">
+</column>
+</column>
+</column>
+</column>
+</root>

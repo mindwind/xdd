@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="gb2312"?>
+<root>
+<column id="49" name="公安厅" path="10954/gpimsg1/" level="1" gpi="101"><column id="91" name="组织机构简介" path="10954/gpimsg1/" level="2" gpi="91">
+<column id="94" name="01C政府组成部门" path="10954/gpimsg1/" level="3" gpi="94">
+<column id="2486" name="概况信息" path="10954/gpimsg1/" level="4" gpi="2486">
+<column id="3665" name="机构职能" path="10954/gpimsg1/" level="5" gpi="3665">
+</column>
+<column id="3796" name="领导简介及分工" path="10954/gpimsg1/" level="5" gpi="3796">
+</column>
+<column id="3927" name="内设机构" path="10954/gpimsg1/" level="5" gpi="3927">
+</column>
+<column id="4058" name="直属机构" path="10954/gpimsg1/" level="5" gpi="4058">
+</column>
+<column id="4189" name="其他" path="10954/gpimsg1/" level="5" gpi="4189">
+</column>
+</column>
+</column>
+</column>
+<column id="143" name="公安、安全、司法" path="10954/gpimsg1/" level="2" gpi="143">
+<column id="148" name="16A公安" path="10954/gpimsg1/" level="3" gpi="148">
+<column id="2654" name="政府文件" path="10954/gpimsg1/" level="4" gpi="2654">
+<column id="4357" name="命令" path="10954/gpimsg1/" level="5" gpi="4357">
+</column>
+<column id="4488" name="决定" path="10954/gpimsg1/" level="5" gpi="4488">
+</column>
+<column id="4619" name="公告" path="10954/gpimsg1/" level="5" gpi="4619">
+</column>
+<column id="5012" name="通告" path="10954/gpimsg1/" level="5" gpi="5012">
+</column>
+<column id="5143" name="通知" path="10954/gpimsg1/" level="5" gpi="5143">
+</column>
+<column id="5274" name="通报" path="10954/gpimsg1/" level="5" gpi="5274">
+</column>
+<column id="5536" name="报告" path="10954/gpimsg1/" level="5" gpi="5536">
+</column>
+<column id="5667" name="请示" path="10954/gpimsg1/" level="5" gpi="5667">
+</column>
+<column id="5798" name="批复" path="10954/gpimsg1/" level="5" gpi="5798">
+</column>
+<column id="5929" name="意见" path="10954/gpimsg1/" level="5" gpi="5929">
+</column>
+<column id="6060" name="函" path="10954/gpimsg1/" level="5" gpi="6060">
+</column>
+<column id="6191" name="会议纪要" path="10954/gpimsg1/" level="5" gpi="6191">
+</column>
+</column>
+<column id="2785" name="动态信息" path="10954/gpimsg1/" level="4" gpi="2785">
+<column id="6453" name="工作动态" path="10954/gpimsg1/" level="5" gpi="6453">
+</column>
+<column id="6584" name="重要会议" path="10954/gpimsg1/" level="5" gpi="6584">
+</column>
+<column id="6846" name="统计数据" path="10954/gpimsg1/" level="5" gpi="6846">
+</column>
+<column id="6977" name="公示公告" path="10954/gpimsg1/" level="5" gpi="6977">
+</column>
+<column id="7108" name="政策解读" path="10954/gpimsg1/" level="5" gpi="7108">
+</column>
+<column id="7239" name="其他" path="10954/gpimsg1/" level="5" gpi="7239">
+</column>
+</column>
+<column id="2916" name="突发公共事件" path="10954/gpimsg1/" level="4" gpi="2916">
+<column id="7370" name="应急预案" path="10954/gpimsg1/" level="5" gpi="7370">
+</column>
+<column id="7501" name="应急预警" path="10954/gpimsg1/" level="5" gpi="7501">
+</column>
+<column id="7632" name="应对情况" path="10954/gpimsg1/" level="5" gpi="7632">
+</column>
+<column id="7763" name="其他" path="10954/gpimsg1/" level="5" gpi="7763">
+</column>
+</column>
+<column id="3047" name="财政信息" path="10954/gpimsg1/" level="4" gpi="3047">
+<column id="7894" name="财政预算决算" path="10954/gpimsg1/" level="5" gpi="7894">
+</column>
+<column id="8025" name="专项资金" path="10954/gpimsg1/" level="5" gpi="8025">
+</column>
+<column id="8156" name="政府采购与招投标" path="10954/gpimsg1/" level="5" gpi="8156">
+</column>
+<column id="8287" name="其他" path="10954/gpimsg1/" level="5" gpi="8287">
+</column>
+</column>
+<column id="3178" name="重大项目" path="10954/gpimsg1/" level="4" gpi="3178">
+<column id="8418" name="项目审批及实施情况" path="10954/gpimsg1/" level="5" gpi="8418">
+</column>
+<column id="8549" name="其他" path="10954/gpimsg1/" level="5" gpi="8549">
+</column>
+</column>
+<column id="3309" name="行政权力" path="10954/gpimsg1/" level="4" gpi="3309">
+<column id="8680" name="办事指南" path="10954/gpimsg1/" level="5" gpi="8680">
+</column>
+<column id="8811" name="行政事业性收费" path="10954/gpimsg1/" level="5" gpi="8811">
+</column>
+<column id="8942" name="办理情况" path="10954/gpimsg1/" level="5" gpi="8942">
+</column>
+<column id="9073" name="其他" path="10954/gpimsg1/" level="5" gpi="9073">
+</column>
+</column>
+<column id="3440" name="便民服务" path="10954/gpimsg1/" level="4" gpi="3440">
+</column>
+<column id="3571" name="其他" path="10954/gpimsg1/" level="4" gpi="3571">
+</column>
+</column>
+</column>
+</column>
+</root>

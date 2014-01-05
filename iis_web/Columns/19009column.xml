@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="gb2312"?>
+<root>
+<column id="51" name="民政厅" path="10954/gpimsg1/" level="1" gpi="101"><column id="91" name="组织机构简介" path="10954/gpimsg1/" level="2" gpi="91">
+<column id="94" name="01C政府组成部门" path="10954/gpimsg1/" level="3" gpi="94">
+<column id="2486" name="概况信息" path="10954/gpimsg1/" level="4" gpi="2486">
+<column id="3665" name="机构职能" path="10954/gpimsg1/" level="5" gpi="3665">
+</column>
+<column id="3796" name="领导简介及分工" path="10954/gpimsg1/" level="5" gpi="3796">
+</column>
+<column id="3927" name="内设机构" path="10954/gpimsg1/" level="5" gpi="3927">
+</column>
+<column id="4058" name="直属机构" path="10954/gpimsg1/" level="5" gpi="4058">
+</column>
+<column id="4189" name="其他" path="10954/gpimsg1/" level="5" gpi="4189">
+</column>
+</column>
+</column>
+</column>
+<column id="144" name="民政、扶贫、救灾" path="10954/gpimsg1/" level="2" gpi="144">
+<column id="147" name="17A减灾救灾" path="10954/gpimsg1/" level="3" gpi="147">
+<column id="2653" name="政府文件" path="10954/gpimsg1/" level="4" gpi="2653">
+<column id="4356" name="命令" path="10954/gpimsg1/" level="5" gpi="4356">
+</column>
+<column id="4487" name="决定" path="10954/gpimsg1/" level="5" gpi="4487">
+</column>
+<column id="4618" name="公告" path="10954/gpimsg1/" level="5" gpi="4618">
+</column>
+<column id="5011" name="通告" path="10954/gpimsg1/" level="5" gpi="5011">
+</column>
+<column id="5142" name="通知" path="10954/gpimsg1/" level="5" gpi="5142">
+</column>
+<column id="5273" name="通报" path="10954/gpimsg1/" level="5" gpi="5273">
+</column>
+<column id="5404" name="议案" path="10954/gpimsg1/" level="5" gpi="5404">
+</column>
+<column id="5535" name="报告" path="10954/gpimsg1/" level="5" gpi="5535">
+</column>
+<column id="5666" name="请示" path="10954/gpimsg1/" level="5" gpi="5666">
+</column>
+<column id="5797" name="批复" path="10954/gpimsg1/" level="5" gpi="5797">
+</column>
+<column id="5928" name="意见" path="10954/gpimsg1/" level="5" gpi="5928">
+</column>
+<column id="6059" name="函" path="10954/gpimsg1/" level="5" gpi="6059">
+</column>
+<column id="6190" name="会议纪要" path="10954/gpimsg1/" level="5" gpi="6190">
+</column>
+</column>
+<column id="2784" name="动态信息" path="10954/gpimsg1/" level="4" gpi="2784">
+<column id="6452" name="工作动态" path="10954/gpimsg1/" level="5" gpi="6452">
+</column>
+<column id="6583" name="重要会议" path="10954/gpimsg1/" level="5" gpi="6583">
+</column>
+<column id="6976" name="公示公告" path="10954/gpimsg1/" level="5" gpi="6976">
+</column>
+<column id="7238" name="其他" path="10954/gpimsg1/" level="5" gpi="7238">
+</column>
+</column>
+<column id="3046" name="财政信息" path="10954/gpimsg1/" level="4" gpi="3046">
+<column id="7893" name="财政预算决算" path="10954/gpimsg1/" level="5" gpi="7893">
+</column>
+<column id="8286" name="其他" path="10954/gpimsg1/" level="5" gpi="8286">
+</column>
+</column>
+</column>
+<column id="2469" name="17B优抚安置" path="10954/gpimsg1/" level="3" gpi="2469">
+<column id="2731" name="政府文件" path="10954/gpimsg1/" level="4" gpi="2731">
+<column id="4434" name="命令" path="10954/gpimsg1/" level="5" gpi="4434">
+</column>
+<column id="4565" name="决定" path="10954/gpimsg1/" level="5" gpi="4565">
+</column>
+<column id="4696" name="公告" path="10954/gpimsg1/" level="5" gpi="4696">
+</column>
+<column id="5089" name="通告" path="10954/gpimsg1/" level="5" gpi="5089">
+</column>
+<column id="5220" name="通知" path="10954/gpimsg1/" level="5" gpi="5220">
+</column>
+<column id="5351" name="通报" path="10954/gpimsg1/" level="5" gpi="5351">
+</column>
+<column id="5482" name="议案" path="10954/gpimsg1/" level="5" gpi="5482">
+</column>
+<column id="5613" name="报告" path="10954/gpimsg1/" level="5" gpi="5613">
+</column>
+<column id="5744" name="请示" path="10954/gpimsg1/" level="5" gpi="5744">
+</column>
+<column id="5875" name="批复" path="10954/gpimsg1/" level="5" gpi="5875">
+</column>
+<column id="6006" name="意见" path="10954/gpimsg1/" level="5" gpi="6006">
+</column>
+<column id="6137" name="函" path="10954/gpimsg1/" level="5" gpi="6137">
+</column>
+<column id="6268" name="会议纪要" path="10954/gpimsg1/" level="5" gpi="6268">
+</column>
+</column>
+<column id="2862" name="动态信息" path="10954/gpimsg1/" level="4" gpi="2862">
+<column id="6530" name="工作动态" path="10954/gpimsg1/" level="5" gpi="6530">
+</column>
+<column id="6661" name="重要会议" path="10954/gpimsg1/" level="5" gpi="6661">
+</column>
+<column id="7054" name="公示公告" path="10954/gpimsg1/" level="5" gpi="7054">
+</column>
+<column id="7316" name="其他" path="10954/gpimsg1/" level="5" gpi="7316">
+</column>
+</column>
+</column>
+<column id="2470" name="17C社会福利与慈善事业" path="10954/gpimsg1/" level="3" gpi="2470">
+<column id="2732" name="政府文件" path="10954/gpimsg1/" level="4" gpi="2732">
+<column id="4435" name="命令" path="10954/gpimsg1/" level="5" gpi="4435">
+</column>
+<column id="4566" name="决定" path="10954/gpimsg1/" level="5" gpi="4566">
+</column>
+<column id="4697" name="公告" path="10954/gpimsg1/" level="5" gpi="4697">
+</column>
+<column id="5090" name="通告" path="10954/gpimsg1/" level="5" gpi="5090">
+</column>
+<column id="5221" name="通知" path="10954/gpimsg1/" level="5" gpi="5221">
+</column>
+<column id="5352" name="通报" path="10954/gpimsg1/" level="5" gpi="5352">
+</column>
+<column id="5483" name="议案" path="10954/gpimsg1/" level="5" gpi="5483">
+</column>
+<column id="5614" name="报告" path="10954/gpimsg1/" level="5" gpi="5614">
+</column>
+<column id="5745" name="请示" path="10954/gpimsg1/" level="5" gpi="5745">
+</column>
+<column id="5876" name="批复" path="10954/gpimsg1/" level="5" gpi="5876">
+</column>
+<column id="6007" name="意见" path="10954/gpimsg1/" level="5" gpi="6007">
+</column>
+<column id="6138" name="函" path="10954/gpimsg1/" level="5" gpi="6138">
+</column>
+<column id="6269" name="会议纪要" path="10954/gpimsg1/" level="5" gpi="6269">
+</column>
+</column>
+<column id="2863" name="动态信息" path="10954/gpimsg1/" level="4" gpi="2863">
+<column id="6531" name="工作动态" path="10954/gpimsg1/" level="5" gpi="6531">
+</column>
+<column id="6662" name="重要会议" path="10954/gpimsg1/" level="5" gpi="6662">
+</column>
+<column id="7055" name="公示公告" path="10954/gpimsg1/" level="5" gpi="7055">
+</column>
+<column id="7317" name="其他" path="10954/gpimsg1/" level="5" gpi="7317">
+</column>
+</column>
+<column id="3387" name="行政权力" path="10954/gpimsg1/" level="4" gpi="3387">
+<column id="8758" name="办事指南" path="10954/gpimsg1/" level="5" gpi="8758">
+</column>
+<column id="8889" name="行政事业性收费" path="10954/gpimsg1/" level="5" gpi="8889">
+</column>
+<column id="9020" name="办理情况" path="10954/gpimsg1/" level="5" gpi="9020">
+</column>
+<column id="9151" name="其他" path="10954/gpimsg1/" level="5" gpi="9151">
+</column>
+</column>
+</column>
+<column id="2471" name="17D行政区划与地名" path="10954/gpimsg1/" level="3" gpi="2471">
+<column id="2733" name="政府文件" path="10954/gpimsg1/" level="4" gpi="2733">
+<column id="4436" name="命令" path="10954/gpimsg1/" level="5" gpi="4436">
+</column>
+<column id="4567" name="决定" path="10954/gpimsg1/" level="5" gpi="4567">
+</column>
+<column id="4698" name="公告" path="10954/gpimsg1/" level="5" gpi="4698">
+</column>
+<column id="5091" name="通告" path="10954/gpimsg1/" level="5" gpi="5091">
+</column>
+<column id="5222" name="通知" path="10954/gpimsg1/" level="5" gpi="5222">
+</column>
+<column id="5353" name="通报" path="10954/gpimsg1/" level="5" gpi="5353">
+</column>
+<column id="5484" name="议案" path="10954/gpimsg1/" level="5" gpi="5484">
+</column>
+<column id="5615" name="报告" path="10954/gpimsg1/" level="5" gpi="5615">
+</column>
+<column id="5746" name="请示" path="10954/gpimsg1/" level="5" gpi="5746">
+</column>
+<column id="5877" name="批复" path="10954/gpimsg1/" level="5" gpi="5877">
+</column>
+<column id="6008" name="意见" path="10954/gpimsg1/" level="5" gpi="6008">
+</column>
+<column id="6139" name="函" path="10954/gpimsg1/" level="5" gpi="6139">
+</column>
+<column id="6270" name="会议纪要" path="10954/gpimsg1/" level="5" gpi="6270">
+</column>
+</column>
+<column id="2864" name="动态信息" path="10954/gpimsg1/" level="4" gpi="2864">
+<column id="6532" name="工作动态" path="10954/gpimsg1/" level="5" gpi="6532">
+</column>
+<column id="6663" name="重要会议" path="10954/gpimsg1/" level="5" gpi="6663">
+</column>
+<column id="7056" name="公示公告" path="10954/gpimsg1/" level="5" gpi="7056">
+</column>
+<column id="7318" name="其他" path="10954/gpimsg1/" level="5" gpi="7318">
+</column>
+</column>
+</column>
+<column id="2472" name="17E民间组织管理" path="10954/gpimsg1/" level="3" gpi="2472">
+<column id="2734" name="政府文件" path="10954/gpimsg1/" level="4" gpi="2734">
+<column id="4437" name="命令" path="10954/gpimsg1/" level="5" gpi="4437">
+</column>
+<column id="4568" name="决定" path="10954/gpimsg1/" level="5" gpi="4568">
+</column>
+<column id="4699" name="公告" path="10954/gpimsg1/" level="5" gpi="4699">
+</column>
+<column id="5092" name="通告" path="10954/gpimsg1/" level="5" gpi="5092">
+</column>
+<column id="5223" name="通知" path="10954/gpimsg1/" level="5" gpi="5223">
+</column>
+<column id="5354" name="通报" path="10954/gpimsg1/" level="5" gpi="5354">
+</column>
+<column id="5485" name="议案" path="10954/gpimsg1/" level="5" gpi="5485">
+</column>
+<column id="5616" name="报告" path="10954/gpimsg1/" level="5" gpi="5616">
+</column>
+<column id="5747" name="请示" path="10954/gpimsg1/" level="5" gpi="5747">
+</column>
+<column id="5878" name="批复" path="10954/gpimsg1/" level="5" gpi="5878">
+</column>
+<column id="6009" name="意见" path="10954/gpimsg1/" level="5" gpi="6009">
+</column>
+<column id="6140" name="函" path="10954/gpimsg1/" level="5" gpi="6140">
+</column>
+<column id="6271" name="会议纪要" path="10954/gpimsg1/" level="5" gpi="6271">
+</column>
+</column>
+<column id="2865" name="动态信息" path="10954/gpimsg1/" level="4" gpi="2865">
+<column id="6533" name="工作动态" path="10954/gpimsg1/" level="5" gpi="6533">
+</column>
+<column id="6664" name="重要会议" path="10954/gpimsg1/" level="5" gpi="6664">
+</column>
+<column id="7057" name="公示公告" path="10954/gpimsg1/" level="5" gpi="7057">
+</column>
+<column id="7319" name="其他" path="10954/gpimsg1/" level="5" gpi="7319">
+</column>
+</column>
+</column>
+<column id="9510" name="17G社会救助" path="10954/gpimsg1/" level="3" gpi="9510">
+<column id="9511" name="政府文件" path="10954/gpimsg1/" level="4" gpi="9511">
+<column id="9519" name="命令" path="10954/gpimsg1/" level="5" gpi="9519">
+</column>
+<column id="9520" name="决定" path="10954/gpimsg1/" level="5" gpi="9520">
+</column>
+<column id="9521" name="公告" path="10954/gpimsg1/" level="5" gpi="9521">
+</column>
+<column id="9522" name="通告" path="10954/gpimsg1/" level="5" gpi="9522">
+</column>
+<column id="9523" name="通知" path="10954/gpimsg1/" level="5" gpi="9523">
+</column>
+<column id="9524" name="通报" path="10954/gpimsg1/" level="5" gpi="9524">
+</column>
+<column id="9525" name="议案" path="10954/gpimsg1/" level="5" gpi="9525">
+</column>
+<column id="9526" name="报告" path="10954/gpimsg1/" level="5" gpi="9526">
+</column>
+<column id="9527" name="请示" path="10954/gpimsg1/" level="5" gpi="9527">
+</column>
+<column id="9528" name="批复" path="10954/gpimsg1/" level="5" gpi="9528">
+</column>
+<column id="9529" name="意见" path="10954/gpimsg1/" level="5" gpi="9529">
+</column>
+<column id="9530" name="函" path="10954/gpimsg1/" level="5" gpi="9530">
+</column>
+<column id="9531" name="会议纪要" path="10954/gpimsg1/" level="5" gpi="9531">
+</column>
+</column>
+<column id="9512" name="动态信息" path="10954/gpimsg1/" level="4" gpi="9512">
+<column id="9532" name="工作动态" path="10954/gpimsg1/" level="5" gpi="9532">
+</column>
+<column id="9533" name="重要会议" path="10954/gpimsg1/" level="5" gpi="9533">
+</column>
+<column id="9536" name="公示公告" path="10954/gpimsg1/" level="5" gpi="9536">
+</column>
+<column id="9538" name="其他" path="10954/gpimsg1/" level="5" gpi="9538">
+</column>
+</column>
+</column>
+<column id="9553" name="17H基层政权与社区建设" path="10954/gpimsg1/" level="3" gpi="9553">
+<column id="9554" name="政府文件" path="10954/gpimsg1/" level="4" gpi="9554">
+<column id="9562" name="命令" path="10954/gpimsg1/" level="5" gpi="9562">
+</column>
+<column id="9563" name="决定" path="10954/gpimsg1/" level="5" gpi="9563">
+</column>
+<column id="9564" name="公告" path="10954/gpimsg1/" level="5" gpi="9564">
+</column>
+<column id="9565" name="通告" path="10954/gpimsg1/" level="5" gpi="9565">
+</column>
+<column id="9566" name="通知" path="10954/gpimsg1/" level="5" gpi="9566">
+</column>
+<column id="9567" name="通报" path="10954/gpimsg1/" level="5" gpi="9567">
+</column>
+<column id="9568" name="议案" path="10954/gpimsg1/" level="5" gpi="9568">
+</column>
+<column id="9569" name="报告" path="10954/gpimsg1/" level="5" gpi="9569">
+</column>
+<column id="9570" name="请示" path="10954/gpimsg1/" level="5" gpi="9570">
+</column>
+<column id="9571" name="批复" path="10954/gpimsg1/" level="5" gpi="9571">
+</column>
+<column id="9572" name="意见" path="10954/gpimsg1/" level="5" gpi="9572">
+</column>
+<column id="9573" name="函" path="10954/gpimsg1/" level="5" gpi="9573">
+</column>
+<column id="9574" name="会议纪要" path="10954/gpimsg1/" level="5" gpi="9574">
+</column>
+</column>
+<column id="9555" name="动态信息" path="10954/gpimsg1/" level="4" gpi="9555">
+<column id="9575" name="工作动态" path="10954/gpimsg1/" level="5" gpi="9575">
+</column>
+<column id="9576" name="重要会议" path="10954/gpimsg1/" level="5" gpi="9576">
+</column>
+<column id="9579" name="公示公告" path="10954/gpimsg1/" level="5" gpi="9579">
+</column>
+<column id="9581" name="其他" path="10954/gpimsg1/" level="5" gpi="9581">
+</column>
+</column>
+</column>
+<column id="9596" name="17J社会事务管理" path="10954/gpimsg1/" level="3" gpi="9596">
+<column id="9597" name="政府文件" path="10954/gpimsg1/" level="4" gpi="9597">
+<column id="9605" name="命令" path="10954/gpimsg1/" level="5" gpi="9605">
+</column>
+<column id="9606" name="决定" path="10954/gpimsg1/" level="5" gpi="9606">
+</column>
+<column id="9607" name="公告" path="10954/gpimsg1/" level="5" gpi="9607">
+</column>
+<column id="9608" name="通告" path="10954/gpimsg1/" level="5" gpi="9608">
+</column>
+<column id="9609" name="通知" path="10954/gpimsg1/" level="5" gpi="9609">
+</column>
+<column id="9610" name="通报" path="10954/gpimsg1/" level="5" gpi="9610">
+</column>
+<column id="9611" name="议案" path="10954/gpimsg1/" level="5" gpi="9611">
+</column>
+<column id="9612" name="报告" path="10954/gpimsg1/" level="5" gpi="9612">
+</column>
+<column id="9613" name="请示" path="10954/gpimsg1/" level="5" gpi="9613">
+</column>
+<column id="9614" name="批复" path="10954/gpimsg1/" level="5" gpi="9614">
+</column>
+<column id="9615" name="意见" path="10954/gpimsg1/" level="5" gpi="9615">
+</column>
+<column id="9616" name="函" path="10954/gpimsg1/" level="5" gpi="9616">
+</column>
+<column id="9617" name="会议纪要" path="10954/gpimsg1/" level="5" gpi="9617">
+</column>
+</column>
+<column id="9598" name="动态信息" path="10954/gpimsg1/" level="4" gpi="9598">
+<column id="9618" name="工作动态" path="10954/gpimsg1/" level="5" gpi="9618">
+</column>
+<column id="9619" name="重要会议" path="10954/gpimsg1/" level="5" gpi="9619">
+</column>
+<column id="9622" name="公示公告" path="10954/gpimsg1/" level="5" gpi="9622">
+</column>
+<column id="9624" name="其他" path="10954/gpimsg1/" level="5" gpi="9624">
+</column>
+</column>
+<column id="9602" name="行政权力" path="10954/gpimsg1/" level="4" gpi="9602">
+<column id="9635" name="办事指南" path="10954/gpimsg1/" level="5" gpi="9635">
+</column>
+<column id="9636" name="行政事业性收费" path="10954/gpimsg1/" level="5" gpi="9636">
+</column>
+<column id="9637" name="办理情况" path="10954/gpimsg1/" level="5" gpi="9637">
+</column>
+<column id="9638" name="其他" path="10954/gpimsg1/" level="5" gpi="9638">
+</column>
+</column>
+<column id="9603" name="便民服务" path="10954/gpimsg1/" level="4" gpi="9603">
+</column>
+</column>
+</column>
+</column>
+</root>

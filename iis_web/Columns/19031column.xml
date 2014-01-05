@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="gb2312"?>
+<root>
+<column id="79" name="省旅游局" path="10954/gpimsg1/" level="1" gpi="101"><column id="91" name="组织机构简介" path="10954/gpimsg1/" level="2" gpi="91">
+<column id="96" name="01E政府直属机构" path="10954/gpimsg1/" level="3" gpi="96">
+<column id="2488" name="概况信息" path="10954/gpimsg1/" level="4" gpi="2488">
+<column id="3667" name="机构职能" path="10954/gpimsg1/" level="5" gpi="3667">
+</column>
+<column id="3798" name="领导简介及分工" path="10954/gpimsg1/" level="5" gpi="3798">
+</column>
+<column id="3929" name="内设机构" path="10954/gpimsg1/" level="5" gpi="3929">
+</column>
+<column id="4060" name="直属机构" path="10954/gpimsg1/" level="5" gpi="4060">
+</column>
+<column id="4191" name="其他" path="10954/gpimsg1/" level="5" gpi="4191">
+</column>
+</column>
+</column>
+</column>
+<column id="127" name="商贸、海关、旅游" path="10954/gpimsg1/" level="2" gpi="127">
+<column id="2429" name="08E旅游、服务业" path="10954/gpimsg1/" level="3" gpi="2429">
+<column id="2691" name="政府文件" path="10954/gpimsg1/" level="4" gpi="2691">
+<column id="4525" name="决定" path="10954/gpimsg1/" level="5" gpi="4525">
+</column>
+<column id="4656" name="公告" path="10954/gpimsg1/" level="5" gpi="4656">
+</column>
+<column id="5049" name="通告" path="10954/gpimsg1/" level="5" gpi="5049">
+</column>
+<column id="5180" name="通知" path="10954/gpimsg1/" level="5" gpi="5180">
+</column>
+<column id="5311" name="通报" path="10954/gpimsg1/" level="5" gpi="5311">
+</column>
+<column id="5573" name="报告" path="10954/gpimsg1/" level="5" gpi="5573">
+</column>
+<column id="5704" name="请示" path="10954/gpimsg1/" level="5" gpi="5704">
+</column>
+<column id="5835" name="批复" path="10954/gpimsg1/" level="5" gpi="5835">
+</column>
+<column id="5966" name="意见" path="10954/gpimsg1/" level="5" gpi="5966">
+</column>
+<column id="6097" name="函" path="10954/gpimsg1/" level="5" gpi="6097">
+</column>
+<column id="6228" name="会议纪要" path="10954/gpimsg1/" level="5" gpi="6228">
+</column>
+<column id="6359" name="其他" path="10954/gpimsg1/" level="5" gpi="6359">
+</column>
+</column>
+<column id="2822" name="动态信息" path="10954/gpimsg1/" level="4" gpi="2822">
+<column id="6490" name="工作动态" path="10954/gpimsg1/" level="5" gpi="6490">
+</column>
+<column id="6621" name="重要会议" path="10954/gpimsg1/" level="5" gpi="6621">
+</column>
+<column id="6752" name="执法监督" path="10954/gpimsg1/" level="5" gpi="6752">
+</column>
+<column id="6883" name="统计数据" path="10954/gpimsg1/" level="5" gpi="6883">
+</column>
+<column id="7014" name="公示公告" path="10954/gpimsg1/" level="5" gpi="7014">
+</column>
+<column id="7276" name="其他" path="10954/gpimsg1/" level="5" gpi="7276">
+</column>
+</column>
+<column id="2953" name="突发公共事件" path="10954/gpimsg1/" level="4" gpi="2953">
+<column id="7669" name="应对情况" path="10954/gpimsg1/" level="5" gpi="7669">
+</column>
+<column id="7800" name="其他" path="10954/gpimsg1/" level="5" gpi="7800">
+</column>
+</column>
+<column id="3084" name="财政信息" path="10954/gpimsg1/" level="4" gpi="3084">
+<column id="7931" name="财政预算决算" path="10954/gpimsg1/" level="5" gpi="7931">
+</column>
+<column id="8324" name="其他" path="10954/gpimsg1/" level="5" gpi="8324">
+</column>
+</column>
+<column id="3346" name="行政权力" path="10954/gpimsg1/" level="4" gpi="3346">
+<column id="8717" name="办事指南" path="10954/gpimsg1/" level="5" gpi="8717">
+</column>
+<column id="9110" name="其他" path="10954/gpimsg1/" level="5" gpi="9110">
+</column>
+</column>
+<column id="3477" name="便民服务" path="10954/gpimsg1/" level="4" gpi="3477">
+</column>
+<column id="3608" name="其他" path="10954/gpimsg1/" level="4" gpi="3608">
+</column>
+</column>
+</column>
+</column>
+</root>

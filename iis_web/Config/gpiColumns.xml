@@ -1,0 +1,6328 @@
+<?xml version="1.0" encoding="gb2312"?>
+<root>
+<column id="1" name="主动公开政府信息" >
+<column id="91" name="组织机构简介" >
+<column id="92" name="01A政府" >
+<column id="2484" name="概况信息" >
+<column id="3663" name="机构职能" />
+<column id="3794" name="领导简介及分工" />
+<column id="3925" name="内设机构" />
+<column id="4056" name="直属机构" />
+<column id="4187" name="其他" />
+</column>
+</column>
+<column id="93" name="01B政府办公厅（室）" >
+<column id="2485" name="概况信息" >
+<column id="3664" name="机构职能" />
+<column id="3795" name="领导简介及分工" />
+<column id="3926" name="内设机构" />
+<column id="4057" name="直属机构" />
+<column id="4188" name="其他" />
+</column>
+</column>
+<column id="94" name="01C政府组成部门" >
+<column id="2486" name="概况信息" >
+<column id="3665" name="机构职能" />
+<column id="3796" name="领导简介及分工" />
+<column id="3927" name="内设机构" />
+<column id="4058" name="直属机构" />
+<column id="4189" name="其他" />
+</column>
+</column>
+<column id="95" name="01D政府直属特设机构" >
+<column id="2487" name="概况信息" >
+<column id="3666" name="机构职能" />
+<column id="3797" name="领导简介及分工" />
+<column id="3928" name="内设机构" />
+<column id="4059" name="直属机构" />
+<column id="4190" name="其他" />
+</column>
+</column>
+<column id="96" name="01E政府直属机构" >
+<column id="2488" name="概况信息" >
+<column id="3667" name="机构职能" />
+<column id="3798" name="领导简介及分工" />
+<column id="3929" name="内设机构" />
+<column id="4060" name="直属机构" />
+<column id="4191" name="其他" />
+</column>
+</column>
+<column id="97" name="01F政府办事机构" >
+<column id="2489" name="概况信息" >
+<column id="3668" name="机构职能" />
+<column id="3799" name="领导简介及分工" />
+<column id="3930" name="内设机构" />
+<column id="4061" name="直属机构" />
+<column id="4192" name="其他" />
+</column>
+</column>
+<column id="98" name="01G政府直属事业单位" >
+<column id="2490" name="概况信息" >
+<column id="3669" name="机构职能" />
+<column id="3800" name="领导简介及分工" />
+<column id="3931" name="内设机构" />
+<column id="4062" name="直属机构" />
+<column id="4193" name="其他" />
+</column>
+</column>
+<column id="99" name="01Z其他" >
+<column id="2491" name="概况信息" >
+<column id="3670" name="机构职能" />
+<column id="3801" name="领导简介及分工" />
+<column id="3932" name="内设机构" />
+<column id="4063" name="直属机构" />
+<column id="4194" name="其他" />
+</column>
+</column>
+<column id="9165" name="01H政府部门管理的局" >
+<column id="9166" name="概况信息" >
+<column id="9174" name="机构职能" />
+<column id="9175" name="领导简介及分工" />
+<column id="9176" name="内设机构" />
+<column id="9177" name="直属机构" />
+<column id="9178" name="其他" />
+</column>
+</column>
+</column>
+<column id="100" name="综合政务" >
+<column id="101" name="02A文秘工作" >
+<column id="2623" name="政府文件" >
+<column id="4326" name="命令" />
+<column id="4457" name="决定" />
+<column id="4588" name="公告" />
+<column id="4981" name="通告" />
+<column id="5112" name="通知" />
+<column id="5243" name="通报" />
+<column id="5374" name="议案" />
+<column id="5505" name="报告" />
+<column id="5636" name="请示" />
+<column id="5767" name="批复" />
+<column id="5898" name="意见" />
+<column id="6029" name="函" />
+<column id="6160" name="会议纪要" />
+</column>
+<column id="2754" name="动态信息" >
+<column id="6422" name="工作动态" />
+<column id="6553" name="重要会议" />
+<column id="6684" name="执法监督" />
+<column id="6815" name="统计数据" />
+<column id="6946" name="公示公告" />
+<column id="7077" name="政策解读" />
+<column id="7208" name="其他" />
+</column>
+<column id="2885" name="突发公共事件" >
+<column id="7339" name="应急预案" />
+<column id="7470" name="应急预警" />
+<column id="7601" name="应对情况" />
+<column id="7732" name="其他" />
+</column>
+<column id="3016" name="财政信息" >
+<column id="7863" name="财政预算决算" />
+<column id="7994" name="专项资金" />
+<column id="8125" name="政府采购与招投标" />
+<column id="8256" name="其他" />
+</column>
+<column id="3147" name="重大项目" >
+<column id="8387" name="项目审批及实施情况" />
+<column id="8518" name="其他" />
+</column>
+<column id="3278" name="行政权力" >
+<column id="8649" name="办事指南" />
+<column id="8780" name="行政事业性收费" />
+<column id="8911" name="办理情况" />
+<column id="9042" name="其他" />
+</column>
+<column id="3409" name="便民服务" />
+<column id="3540" name="其他" />
+</column>
+<column id="102" name="02B应急管理" >
+<column id="2624" name="政府文件" >
+<column id="4327" name="命令" />
+<column id="4458" name="决定" />
+<column id="4589" name="公告" />
+<column id="4982" name="通告" />
+<column id="5113" name="通知" />
+<column id="5244" name="通报" />
+<column id="5375" name="议案" />
+<column id="5506" name="报告" />
+<column id="5637" name="请示" />
+<column id="5768" name="批复" />
+<column id="5899" name="意见" />
+<column id="6030" name="函" />
+<column id="6161" name="会议纪要" />
+</column>
+<column id="2755" name="动态信息" >
+<column id="6423" name="工作动态" />
+<column id="6554" name="重要会议" />
+<column id="6685" name="执法监督" />
+<column id="6816" name="统计数据" />
+<column id="6947" name="公示公告" />
+<column id="7078" name="政策解读" />
+<column id="7209" name="其他" />
+</column>
+<column id="2886" name="突发公共事件" >
+<column id="7340" name="应急预案" />
+<column id="7471" name="应急预警" />
+<column id="7602" name="应对情况" />
+<column id="7733" name="其他" />
+</column>
+<column id="3017" name="财政信息" >
+<column id="7864" name="财政预算决算" />
+<column id="7995" name="专项资金" />
+<column id="8126" name="政府采购与招投标" />
+<column id="8257" name="其他" />
+</column>
+<column id="3148" name="重大项目" >
+<column id="8388" name="项目审批及实施情况" />
+<column id="8519" name="其他" />
+</column>
+<column id="3279" name="行政权力" >
+<column id="8650" name="办事指南" />
+<column id="8781" name="行政事业性收费" />
+<column id="8912" name="办理情况" />
+<column id="9043" name="其他" />
+</column>
+<column id="3410" name="便民服务" />
+<column id="3541" name="其他" />
+</column>
+<column id="103" name="02C政务督查" >
+<column id="2625" name="政府文件" >
+<column id="4328" name="命令" />
+<column id="4459" name="决定" />
+<column id="4590" name="公告" />
+<column id="4983" name="通告" />
+<column id="5114" name="通知" />
+<column id="5245" name="通报" />
+<column id="5376" name="议案" />
+<column id="5507" name="报告" />
+<column id="5638" name="请示" />
+<column id="5769" name="批复" />
+<column id="5900" name="意见" />
+<column id="6031" name="函" />
+<column id="6162" name="会议纪要" />
+</column>
+<column id="2756" name="动态信息" >
+<column id="6424" name="工作动态" />
+<column id="6555" name="重要会议" />
+<column id="6686" name="执法监督" />
+<column id="6817" name="统计数据" />
+<column id="6948" name="公示公告" />
+<column id="7079" name="政策解读" />
+<column id="7210" name="其他" />
+</column>
+<column id="2887" name="突发公共事件" >
+<column id="7341" name="应急预案" />
+<column id="7472" name="应急预警" />
+<column id="7603" name="应对情况" />
+<column id="7734" name="其他" />
+</column>
+<column id="3018" name="财政信息" >
+<column id="7865" name="财政预算决算" />
+<column id="7996" name="专项资金" />
+<column id="8127" name="政府采购与招投标" />
+<column id="8258" name="其他" />
+</column>
+<column id="3149" name="重大项目" >
+<column id="8389" name="项目审批及实施情况" />
+<column id="8520" name="其他" />
+</column>
+<column id="3280" name="行政权力" >
+<column id="8651" name="办事指南" />
+<column id="8782" name="行政事业性收费" />
+<column id="8913" name="办理情况" />
+<column id="9044" name="其他" />
+</column>
+<column id="3411" name="便民服务" />
+<column id="3542" name="其他" />
+</column>
+<column id="104" name="02D电子政务" >
+<column id="2626" name="政府文件" >
+<column id="4329" name="命令" />
+<column id="4460" name="决定" />
+<column id="4591" name="公告" />
+<column id="4984" name="通告" />
+<column id="5115" name="通知" />
+<column id="5246" name="通报" />
+<column id="5377" name="议案" />
+<column id="5508" name="报告" />
+<column id="5639" name="请示" />
+<column id="5770" name="批复" />
+<column id="5901" name="意见" />
+<column id="6032" name="函" />
+<column id="6163" name="会议纪要" />
+</column>
+<column id="2757" name="动态信息" >
+<column id="6425" name="工作动态" />
+<column id="6556" name="重要会议" />
+<column id="6687" name="执法监督" />
+<column id="6818" name="统计数据" />
+<column id="6949" name="公示公告" />
+<column id="7080" name="政策解读" />
+<column id="7211" name="其他" />
+</column>
+<column id="2888" name="突发公共事件" >
+<column id="7342" name="应急预案" />
+<column id="7473" name="应急预警" />
+<column id="7604" name="应对情况" />
+<column id="7735" name="其他" />
+</column>
+<column id="3019" name="财政信息" >
+<column id="7866" name="财政预算决算" />
+<column id="7997" name="专项资金" />
+<column id="8128" name="政府采购与招投标" />
+<column id="8259" name="其他" />
+</column>
+<column id="3150" name="重大项目" >
+<column id="8390" name="项目审批及实施情况" />
+<column id="8521" name="其他" />
+</column>
+<column id="3281" name="行政权力" >
+<column id="8652" name="办事指南" />
+<column id="8783" name="行政事业性收费" />
+<column id="8914" name="办理情况" />
+<column id="9045" name="其他" />
+</column>
+<column id="3412" name="便民服务" />
+<column id="3543" name="其他" />
+</column>
+<column id="105" name="02E保密工作" >
+<column id="2627" name="政府文件" >
+<column id="4330" name="命令" />
+<column id="4461" name="决定" />
+<column id="4592" name="公告" />
+<column id="4985" name="通告" />
+<column id="5116" name="通知" />
+<column id="5247" name="通报" />
+<column id="5378" name="议案" />
+<column id="5509" name="报告" />
+<column id="5640" name="请示" />
+<column id="5771" name="批复" />
+<column id="5902" name="意见" />
+<column id="6033" name="函" />
+<column id="6164" name="会议纪要" />
+</column>
+<column id="2758" name="动态信息" >
+<column id="6426" name="工作动态" />
+<column id="6557" name="重要会议" />
+<column id="6688" name="执法监督" />
+<column id="6819" name="统计数据" />
+<column id="6950" name="公示公告" />
+<column id="7081" name="政策解读" />
+<column id="7212" name="其他" />
+</column>
+<column id="2889" name="突发公共事件" >
+<column id="7343" name="应急预案" />
+<column id="7474" name="应急预警" />
+<column id="7605" name="应对情况" />
+<column id="7736" name="其他" />
+</column>
+<column id="3020" name="财政信息" >
+<column id="7867" name="财政预算决算" />
+<column id="7998" name="专项资金" />
+<column id="8129" name="政府采购与招投标" />
+<column id="8260" name="其他" />
+</column>
+<column id="3151" name="重大项目" >
+<column id="8391" name="项目审批及实施情况" />
+<column id="8522" name="其他" />
+</column>
+<column id="3282" name="行政权力" >
+<column id="8653" name="办事指南" />
+<column id="8784" name="行政事业性收费" />
+<column id="8915" name="办理情况" />
+<column id="9046" name="其他" />
+</column>
+<column id="3413" name="便民服务" />
+<column id="3544" name="其他" />
+</column>
+<column id="106" name="02F信访" >
+<column id="2628" name="政府文件" >
+<column id="4331" name="命令" />
+<column id="4462" name="决定" />
+<column id="4593" name="公告" />
+<column id="4986" name="通告" />
+<column id="5117" name="通知" />
+<column id="5248" name="通报" />
+<column id="5379" name="议案" />
+<column id="5510" name="报告" />
+<column id="5641" name="请示" />
+<column id="5772" name="批复" />
+<column id="5903" name="意见" />
+<column id="6034" name="函" />
+<column id="6165" name="会议纪要" />
+</column>
+<column id="2759" name="动态信息" >
+<column id="6427" name="工作动态" />
+<column id="6558" name="重要会议" />
+<column id="6689" name="执法监督" />
+<column id="6820" name="统计数据" />
+<column id="6951" name="公示公告" />
+<column id="7082" name="政策解读" />
+<column id="7213" name="其他" />
+</column>
+<column id="2890" name="突发公共事件" >
+<column id="7344" name="应急预案" />
+<column id="7475" name="应急预警" />
+<column id="7606" name="应对情况" />
+<column id="7737" name="其他" />
+</column>
+<column id="3021" name="财政信息" >
+<column id="7868" name="财政预算决算" />
+<column id="7999" name="专项资金" />
+<column id="8130" name="政府采购与招投标" />
+<column id="8261" name="其他" />
+</column>
+<column id="3152" name="重大项目" >
+<column id="8392" name="项目审批及实施情况" />
+<column id="8523" name="其他" />
+</column>
+<column id="3283" name="行政权力" >
+<column id="8654" name="办事指南" />
+<column id="8785" name="行政事业性收费" />
+<column id="8916" name="办理情况" />
+<column id="9047" name="其他" />
+</column>
+<column id="3414" name="便民服务" />
+<column id="3545" name="其他" />
+</column>
+<column id="107" name="02G参事、文史" >
+<column id="2629" name="政府文件" >
+<column id="4332" name="命令" />
+<column id="4463" name="决定" />
+<column id="4594" name="公告" />
+<column id="4987" name="通告" />
+<column id="5118" name="通知" />
+<column id="5249" name="通报" />
+<column id="5380" name="议案" />
+<column id="5511" name="报告" />
+<column id="5642" name="请示" />
+<column id="5773" name="批复" />
+<column id="5904" name="意见" />
+<column id="6035" name="函" />
+<column id="6166" name="会议纪要" />
+</column>
+<column id="2760" name="动态信息" >
+<column id="6428" name="工作动态" />
+<column id="6559" name="重要会议" />
+<column id="6690" name="执法监督" />
+<column id="6821" name="统计数据" />
+<column id="6952" name="公示公告" />
+<column id="7083" name="政策解读" />
+<column id="7214" name="其他" />
+</column>
+<column id="2891" name="突发公共事件" >
+<column id="7345" name="应急预案" />
+<column id="7476" name="应急预警" />
+<column id="7607" name="应对情况" />
+<column id="7738" name="其他" />
+</column>
+<column id="3022" name="财政信息" >
+<column id="7869" name="财政预算决算" />
+<column id="8000" name="专项资金" />
+<column id="8131" name="政府采购与招投标" />
+<column id="8262" name="其他" />
+</column>
+<column id="3153" name="重大项目" >
+<column id="8393" name="项目审批及实施情况" />
+<column id="8524" name="其他" />
+</column>
+<column id="3284" name="行政权力" >
+<column id="8655" name="办事指南" />
+<column id="8786" name="行政事业性收费" />
+<column id="8917" name="办理情况" />
+<column id="9048" name="其他" />
+</column>
+<column id="3415" name="便民服务" />
+<column id="3546" name="其他" />
+</column>
+<column id="108" name="02H机关事务" >
+<column id="2630" name="政府文件" >
+<column id="4333" name="命令" />
+<column id="4464" name="决定" />
+<column id="4595" name="公告" />
+<column id="4988" name="通告" />
+<column id="5119" name="通知" />
+<column id="5250" name="通报" />
+<column id="5381" name="议案" />
+<column id="5512" name="报告" />
+<column id="5643" name="请示" />
+<column id="5774" name="批复" />
+<column id="5905" name="意见" />
+<column id="6036" name="函" />
+<column id="6167" name="会议纪要" />
+</column>
+<column id="2761" name="动态信息" >
+<column id="6429" name="工作动态" />
+<column id="6560" name="重要会议" />
+<column id="6691" name="执法监督" />
+<column id="6822" name="统计数据" />
+<column id="6953" name="公示公告" />
+<column id="7084" name="政策解读" />
+<column id="7215" name="其他" />
+</column>
+<column id="2892" name="突发公共事件" >
+<column id="7346" name="应急预案" />
+<column id="7477" name="应急预警" />
+<column id="7608" name="应对情况" />
+<column id="7739" name="其他" />
+</column>
+<column id="3023" name="财政信息" >
+<column id="7870" name="财政预算决算" />
+<column id="8001" name="专项资金" />
+<column id="8132" name="政府采购与招投标" />
+<column id="8263" name="其他" />
+</column>
+<column id="3154" name="重大项目" >
+<column id="8394" name="项目审批及实施情况" />
+<column id="8525" name="其他" />
+</column>
+<column id="3285" name="行政权力" >
+<column id="8656" name="办事指南" />
+<column id="8787" name="行政事业性收费" />
+<column id="8918" name="办理情况" />
+<column id="9049" name="其他" />
+</column>
+<column id="3416" name="便民服务" />
+<column id="3547" name="其他" />
+</column>
+<column id="109" name="02Z其他" >
+<column id="2631" name="政府文件" >
+<column id="4334" name="命令" />
+<column id="4465" name="决定" />
+<column id="4596" name="公告" />
+<column id="4989" name="通告" />
+<column id="5120" name="通知" />
+<column id="5251" name="通报" />
+<column id="5382" name="议案" />
+<column id="5513" name="报告" />
+<column id="5644" name="请示" />
+<column id="5775" name="批复" />
+<column id="5906" name="意见" />
+<column id="6037" name="函" />
+<column id="6168" name="会议纪要" />
+</column>
+<column id="2762" name="动态信息" >
+<column id="6430" name="工作动态" />
+<column id="6561" name="重要会议" />
+<column id="6692" name="执法监督" />
+<column id="6823" name="统计数据" />
+<column id="6954" name="公示公告" />
+<column id="7085" name="政策解读" />
+<column id="7216" name="其他" />
+</column>
+<column id="2893" name="突发公共事件" >
+<column id="7347" name="应急预案" />
+<column id="7478" name="应急预警" />
+<column id="7609" name="应对情况" />
+<column id="7740" name="其他" />
+</column>
+<column id="3024" name="财政信息" >
+<column id="7871" name="财政预算决算" />
+<column id="8002" name="专项资金" />
+<column id="8133" name="政府采购与招投标" />
+<column id="8264" name="其他" />
+</column>
+<column id="3155" name="重大项目" >
+<column id="8395" name="项目审批及实施情况" />
+<column id="8526" name="其他" />
+</column>
+<column id="3286" name="行政权力" >
+<column id="8657" name="办事指南" />
+<column id="8788" name="行政事业性收费" />
+<column id="8919" name="办理情况" />
+<column id="9050" name="其他" />
+</column>
+<column id="3417" name="便民服务" />
+<column id="3548" name="其他" />
+</column>
+<column id="9208" name="02J地方志" >
+<column id="9209" name="政府文件" >
+<column id="9217" name="命令" />
+<column id="9218" name="决定" />
+<column id="9219" name="公告" />
+<column id="9220" name="通告" />
+<column id="9221" name="通知" />
+<column id="9222" name="通报" />
+<column id="9223" name="议案" />
+<column id="9224" name="报告" />
+<column id="9225" name="请示" />
+<column id="9226" name="批复" />
+<column id="9227" name="意见" />
+<column id="9228" name="函" />
+<column id="9229" name="会议纪要" />
+</column>
+<column id="9210" name="动态信息" >
+<column id="9230" name="工作动态" />
+<column id="9231" name="重要会议" />
+<column id="9232" name="执法监督" />
+<column id="9233" name="统计数据" />
+<column id="9234" name="公示公告" />
+<column id="9235" name="政策解读" />
+<column id="9236" name="其他" />
+</column>
+<column id="9211" name="突发公共事件" >
+<column id="9237" name="应急预案" />
+<column id="9238" name="应急预警" />
+<column id="9239" name="应对情况" />
+<column id="9240" name="其他" />
+</column>
+<column id="9212" name="财政信息" >
+<column id="9241" name="财政预算决算" />
+<column id="9242" name="专项资金" />
+<column id="9243" name="政府采购与招投标" />
+<column id="9244" name="其他" />
+</column>
+<column id="9213" name="重大项目" >
+<column id="9245" name="项目审批及实施情况" />
+<column id="9246" name="其他" />
+</column>
+<column id="9214" name="行政权力" >
+<column id="9247" name="办事指南" />
+<column id="9248" name="行政事业性收费" />
+<column id="9249" name="办理情况" />
+<column id="9250" name="其他" />
+</column>
+<column id="9215" name="便民服务" />
+<column id="9216" name="其他" />
+</column>
+</column>
+<column id="110" name="国民经济管理、国有资产监管" >
+<column id="111" name="03A国民经济发展规划、计划" >
+<column id="2632" name="政府文件" >
+<column id="4335" name="命令" />
+<column id="4466" name="决定" />
+<column id="4597" name="公告" />
+<column id="4990" name="通告" />
+<column id="5121" name="通知" />
+<column id="5252" name="通报" />
+<column id="5383" name="议案" />
+<column id="5514" name="报告" />
+<column id="5645" name="请示" />
+<column id="5776" name="批复" />
+<column id="5907" name="意见" />
+<column id="6038" name="函" />
+<column id="6169" name="会议纪要" />
+</column>
+<column id="2763" name="动态信息" >
+<column id="6431" name="工作动态" />
+<column id="6562" name="重要会议" />
+<column id="6693" name="执法监督" />
+<column id="6824" name="统计数据" />
+<column id="6955" name="公示公告" />
+<column id="7086" name="政策解读" />
+<column id="7217" name="其他" />
+</column>
+<column id="2894" name="突发公共事件" >
+<column id="7348" name="应急预案" />
+<column id="7479" name="应急预警" />
+<column id="7610" name="应对情况" />
+<column id="7741" name="其他" />
+</column>
+<column id="3025" name="财政信息" >
+<column id="7872" name="财政预算决算" />
+<column id="8003" name="专项资金" />
+<column id="8134" name="政府采购与招投标" />
+<column id="8265" name="其他" />
+</column>
+<column id="3156" name="重大项目" >
+<column id="8396" name="项目审批及实施情况" />
+<column id="8527" name="其他" />
+</column>
+<column id="3287" name="行政权力" >
+<column id="8658" name="办事指南" />
+<column id="8789" name="行政事业性收费" />
+<column id="8920" name="办理情况" />
+<column id="9051" name="其他" />
+</column>
+<column id="3418" name="便民服务" />
+<column id="3549" name="其他" />
+</column>
+<column id="112" name="03B宏观经济运行" >
+<column id="2633" name="政府文件" >
+<column id="4336" name="命令" />
+<column id="4467" name="决定" />
+<column id="4598" name="公告" />
+<column id="4991" name="通告" />
+<column id="5122" name="通知" />
+<column id="5253" name="通报" />
+<column id="5384" name="议案" />
+<column id="5515" name="报告" />
+<column id="5646" name="请示" />
+<column id="5777" name="批复" />
+<column id="5908" name="意见" />
+<column id="6039" name="函" />
+<column id="6170" name="会议纪要" />
+</column>
+<column id="2764" name="动态信息" >
+<column id="6432" name="工作动态" />
+<column id="6563" name="重要会议" />
+<column id="6694" name="执法监督" />
+<column id="6825" name="统计数据" />
+<column id="6956" name="公示公告" />
+<column id="7087" name="政策解读" />
+<column id="7218" name="其他" />
+</column>
+<column id="2895" name="突发公共事件" >
+<column id="7349" name="应急预案" />
+<column id="7480" name="应急预警" />
+<column id="7611" name="应对情况" />
+<column id="7742" name="其他" />
+</column>
+<column id="3026" name="财政信息" >
+<column id="7873" name="财政预算决算" />
+<column id="8004" name="专项资金" />
+<column id="8135" name="政府采购与招投标" />
+<column id="8266" name="其他" />
+</column>
+<column id="3157" name="重大项目" >
+<column id="8397" name="项目审批及实施情况" />
+<column id="8528" name="其他" />
+</column>
+<column id="3288" name="行政权力" >
+<column id="8659" name="办事指南" />
+<column id="8790" name="行政事业性收费" />
+<column id="8921" name="办理情况" />
+<column id="9052" name="其他" />
+</column>
+<column id="3419" name="便民服务" />
+<column id="3550" name="其他" />
+</column>
+<column id="113" name="03C经济体制改革" >
+<column id="2634" name="政府文件" >
+<column id="4337" name="命令" />
+<column id="4468" name="决定" />
+<column id="4599" name="公告" />
+<column id="4992" name="通告" />
+<column id="5123" name="通知" />
+<column id="5254" name="通报" />
+<column id="5385" name="议案" />
+<column id="5516" name="报告" />
+<column id="5647" name="请示" />
+<column id="5778" name="批复" />
+<column id="5909" name="意见" />
+<column id="6040" name="函" />
+<column id="6171" name="会议纪要" />
+</column>
+<column id="2765" name="动态信息" >
+<column id="6433" name="工作动态" />
+<column id="6564" name="重要会议" />
+<column id="6695" name="执法监督" />
+<column id="6826" name="统计数据" />
+<column id="6957" name="公示公告" />
+<column id="7088" name="政策解读" />
+<column id="7219" name="其他" />
+</column>
+<column id="2896" name="突发公共事件" >
+<column id="7350" name="应急预案" />
+<column id="7481" name="应急预警" />
+<column id="7612" name="应对情况" />
+<column id="7743" name="其他" />
+</column>
+<column id="3027" name="财政信息" >
+<column id="7874" name="财政预算决算" />
+<column id="8005" name="专项资金" />
+<column id="8136" name="政府采购与招投标" />
+<column id="8267" name="其他" />
+</column>
+<column id="3158" name="重大项目" >
+<column id="8398" name="项目审批及实施情况" />
+<column id="8529" name="其他" />
+</column>
+<column id="3289" name="行政权力" >
+<column id="8660" name="办事指南" />
+<column id="8791" name="行政事业性收费" />
+<column id="8922" name="办理情况" />
+<column id="9053" name="其他" />
+</column>
+<column id="3420" name="便民服务" />
+<column id="3551" name="其他" />
+</column>
+<column id="114" name="03D重大项目建设" >
+<column id="2635" name="政府文件" >
+<column id="4338" name="命令" />
+<column id="4469" name="决定" />
+<column id="4600" name="公告" />
+<column id="4993" name="通告" />
+<column id="5124" name="通知" />
+<column id="5255" name="通报" />
+<column id="5386" name="议案" />
+<column id="5517" name="报告" />
+<column id="5648" name="请示" />
+<column id="5779" name="批复" />
+<column id="5910" name="意见" />
+<column id="6041" name="函" />
+<column id="6172" name="会议纪要" />
+</column>
+<column id="2766" name="动态信息" >
+<column id="6434" name="工作动态" />
+<column id="6565" name="重要会议" />
+<column id="6696" name="执法监督" />
+<column id="6827" name="统计数据" />
+<column id="6958" name="公示公告" />
+<column id="7089" name="政策解读" />
+<column id="7220" name="其他" />
+</column>
+<column id="2897" name="突发公共事件" >
+<column id="7351" name="应急预案" />
+<column id="7482" name="应急预警" />
+<column id="7613" name="应对情况" />
+<column id="7744" name="其他" />
+</column>
+<column id="3028" name="财政信息" >
+<column id="7875" name="财政预算决算" />
+<column id="8006" name="专项资金" />
+<column id="8137" name="政府采购与招投标" />
+<column id="8268" name="其他" />
+</column>
+<column id="3159" name="重大项目" >
+<column id="8399" name="项目审批及实施情况" />
+<column id="8530" name="其他" />
+</column>
+<column id="3290" name="行政权力" >
+<column id="8661" name="办事指南" />
+<column id="8792" name="行政事业性收费" />
+<column id="8923" name="办理情况" />
+<column id="9054" name="其他" />
+</column>
+<column id="3421" name="便民服务" />
+<column id="3552" name="其他" />
+</column>
+<column id="115" name="03E国有资产监督管理" >
+<column id="2636" name="政府文件" >
+<column id="4339" name="命令" />
+<column id="4470" name="决定" />
+<column id="4601" name="公告" />
+<column id="4994" name="通告" />
+<column id="5125" name="通知" />
+<column id="5256" name="通报" />
+<column id="5387" name="议案" />
+<column id="5518" name="报告" />
+<column id="5649" name="请示" />
+<column id="5780" name="批复" />
+<column id="5911" name="意见" />
+<column id="6042" name="函" />
+<column id="6173" name="会议纪要" />
+</column>
+<column id="2767" name="动态信息" >
+<column id="6435" name="工作动态" />
+<column id="6566" name="重要会议" />
+<column id="6697" name="执法监督" />
+<column id="6828" name="统计数据" />
+<column id="6959" name="公示公告" />
+<column id="7090" name="政策解读" />
+<column id="7221" name="其他" />
+</column>
+<column id="2898" name="突发公共事件" >
+<column id="7352" name="应急预案" />
+<column id="7483" name="应急预警" />
+<column id="7614" name="应对情况" />
+<column id="7745" name="其他" />
+</column>
+<column id="3029" name="财政信息" >
+<column id="7876" name="财政预算决算" />
+<column id="8007" name="专项资金" />
+<column id="8138" name="政府采购与招投标" />
+<column id="8269" name="其他" />
+</column>
+<column id="3160" name="重大项目" >
+<column id="8400" name="项目审批及实施情况" />
+<column id="8531" name="其他" />
+</column>
+<column id="3291" name="行政权力" >
+<column id="8662" name="办事指南" />
+<column id="8793" name="行政事业性收费" />
+<column id="8924" name="办理情况" />
+<column id="9055" name="其他" />
+</column>
+<column id="3422" name="便民服务" />
+<column id="3553" name="其他" />
+</column>
+<column id="116" name="03F统计" >
+<column id="2637" name="政府文件" >
+<column id="4340" name="命令" />
+<column id="4471" name="决定" />
+<column id="4602" name="公告" />
+<column id="4995" name="通告" />
+<column id="5126" name="通知" />
+<column id="5257" name="通报" />
+<column id="5388" name="议案" />
+<column id="5519" name="报告" />
+<column id="5650" name="请示" />
+<column id="5781" name="批复" />
+<column id="5912" name="意见" />
+<column id="6043" name="函" />
+<column id="6174" name="会议纪要" />
+</column>
+<column id="2768" name="动态信息" >
+<column id="6436" name="工作动态" />
+<column id="6567" name="重要会议" />
+<column id="6698" name="执法监督" />
+<column id="6829" name="统计数据" />
+<column id="6960" name="公示公告" />
+<column id="7091" name="政策解读" />
+<column id="7222" name="其他" />
+</column>
+<column id="2899" name="突发公共事件" >
+<column id="7353" name="应急预案" />
+<column id="7484" name="应急预警" />
+<column id="7615" name="应对情况" />
+<column id="7746" name="其他" />
+</column>
+<column id="3030" name="财政信息" >
+<column id="7877" name="财政预算决算" />
+<column id="8008" name="专项资金" />
+<column id="8139" name="政府采购与招投标" />
+<column id="8270" name="其他" />
+</column>
+<column id="3161" name="重大项目" >
+<column id="8401" name="项目审批及实施情况" />
+<column id="8532" name="其他" />
+</column>
+<column id="3292" name="行政权力" >
+<column id="8663" name="办事指南" />
+<column id="8794" name="行政事业性收费" />
+<column id="8925" name="办理情况" />
+<column id="9056" name="其他" />
+</column>
+<column id="3423" name="便民服务" />
+<column id="3554" name="其他" />
+</column>
+<column id="117" name="03G物价" >
+<column id="2638" name="政府文件" >
+<column id="4341" name="命令" />
+<column id="4472" name="决定" />
+<column id="4603" name="公告" />
+<column id="4996" name="通告" />
+<column id="5127" name="通知" />
+<column id="5258" name="通报" />
+<column id="5389" name="议案" />
+<column id="5520" name="报告" />
+<column id="5651" name="请示" />
+<column id="5782" name="批复" />
+<column id="5913" name="意见" />
+<column id="6044" name="函" />
+<column id="6175" name="会议纪要" />
+</column>
+<column id="2769" name="动态信息" >
+<column id="6437" name="工作动态" />
+<column id="6568" name="重要会议" />
+<column id="6699" name="执法监督" />
+<column id="6830" name="统计数据" />
+<column id="6961" name="公示公告" />
+<column id="7092" name="政策解读" />
+<column id="7223" name="其他" />
+</column>
+<column id="2900" name="突发公共事件" >
+<column id="7354" name="应急预案" />
+<column id="7485" name="应急预警" />
+<column id="7616" name="应对情况" />
+<column id="7747" name="其他" />
+</column>
+<column id="3031" name="财政信息" >
+<column id="7878" name="财政预算决算" />
+<column id="8009" name="专项资金" />
+<column id="8140" name="政府采购与招投标" />
+<column id="8271" name="其他" />
+</column>
+<column id="3162" name="重大项目" >
+<column id="8402" name="项目审批及实施情况" />
+<column id="8533" name="其他" />
+</column>
+<column id="3293" name="行政权力" >
+<column id="8664" name="办事指南" />
+<column id="8795" name="行政事业性收费" />
+<column id="8926" name="办理情况" />
+<column id="9057" name="其他" />
+</column>
+<column id="3424" name="便民服务" />
+<column id="3555" name="其他" />
+</column>
+<column id="118" name="03Z其他" >
+<column id="2639" name="政府文件" >
+<column id="4342" name="命令" />
+<column id="4473" name="决定" />
+<column id="4604" name="公告" />
+<column id="4997" name="通告" />
+<column id="5128" name="通知" />
+<column id="5259" name="通报" />
+<column id="5390" name="议案" />
+<column id="5521" name="报告" />
+<column id="5652" name="请示" />
+<column id="5783" name="批复" />
+<column id="5914" name="意见" />
+<column id="6045" name="函" />
+<column id="6176" name="会议纪要" />
+</column>
+<column id="2770" name="动态信息" >
+<column id="6438" name="工作动态" />
+<column id="6569" name="重要会议" />
+<column id="6700" name="执法监督" />
+<column id="6831" name="统计数据" />
+<column id="6962" name="公示公告" />
+<column id="7093" name="政策解读" />
+<column id="7224" name="其他" />
+</column>
+<column id="2901" name="突发公共事件" >
+<column id="7355" name="应急预案" />
+<column id="7486" name="应急预警" />
+<column id="7617" name="应对情况" />
+<column id="7748" name="其他" />
+</column>
+<column id="3032" name="财政信息" >
+<column id="7879" name="财政预算决算" />
+<column id="8010" name="专项资金" />
+<column id="8141" name="政府采购与招投标" />
+<column id="8272" name="其他" />
+</column>
+<column id="3163" name="重大项目" >
+<column id="8403" name="项目审批及实施情况" />
+<column id="8534" name="其他" />
+</column>
+<column id="3294" name="行政权力" >
+<column id="8665" name="办事指南" />
+<column id="8796" name="行政事业性收费" />
+<column id="8927" name="办理情况" />
+<column id="9058" name="其他" />
+</column>
+<column id="3425" name="便民服务" />
+<column id="3556" name="其他" />
+</column>
+<column id="9639" name="03H产业园区建设" >
+<column id="9640" name="政府文件" >
+<column id="9648" name="命令" />
+<column id="9649" name="决定" />
+<column id="9650" name="公告" />
+<column id="9651" name="通告" />
+<column id="9652" name="通知" />
+<column id="9653" name="通报" />
+<column id="9654" name="议案" />
+<column id="9655" name="报告" />
+<column id="9656" name="请示" />
+<column id="9657" name="批复" />
+<column id="9658" name="意见" />
+<column id="9659" name="函" />
+<column id="9660" name="会议纪要" />
+</column>
+<column id="9641" name="动态信息" >
+<column id="9661" name="工作动态" />
+<column id="9662" name="重要会议" />
+<column id="9663" name="执法监督" />
+<column id="9664" name="统计数据" />
+<column id="9665" name="公示公告" />
+<column id="9666" name="政策解读" />
+<column id="9667" name="其他" />
+</column>
+<column id="9642" name="突发公共事件" >
+<column id="9668" name="应急预案" />
+<column id="9669" name="应急预警" />
+<column id="9670" name="应对情况" />
+<column id="9671" name="其他" />
+</column>
+<column id="9643" name="财政信息" >
+<column id="9672" name="财政预算决算" />
+<column id="9673" name="专项资金" />
+<column id="9674" name="政府采购与招投标" />
+<column id="9675" name="其他" />
+</column>
+<column id="9644" name="重大项目" >
+<column id="9676" name="项目审批及实施情况" />
+<column id="9677" name="其他" />
+</column>
+<column id="9645" name="行政权力" >
+<column id="9678" name="办事指南" />
+<column id="9679" name="行政事业性收费" />
+<column id="9680" name="办理情况" />
+<column id="9681" name="其他" />
+</column>
+<column id="9646" name="便民服务" />
+<column id="9647" name="其他" />
+</column>
+<column id="9682" name="03J技改投资" >
+<column id="9683" name="政府文件" >
+<column id="9691" name="命令" />
+<column id="9692" name="决定" />
+<column id="9693" name="公告" />
+<column id="9694" name="通告" />
+<column id="9695" name="通知" />
+<column id="9696" name="通报" />
+<column id="9697" name="议案" />
+<column id="9698" name="报告" />
+<column id="9699" name="请示" />
+<column id="9700" name="批复" />
+<column id="9701" name="意见" />
+<column id="9702" name="函" />
+<column id="9703" name="会议纪要" />
+</column>
+<column id="9684" name="动态信息" >
+<column id="9704" name="工作动态" />
+<column id="9705" name="重要会议" />
+<column id="9706" name="执法监督" />
+<column id="9707" name="统计数据" />
+<column id="9708" name="公示公告" />
+<column id="9709" name="政策解读" />
+<column id="9710" name="其他" />
+</column>
+<column id="9685" name="突发公共事件" >
+<column id="9711" name="应急预案" />
+<column id="9712" name="应急预警" />
+<column id="9713" name="应对情况" />
+<column id="9714" name="其他" />
+</column>
+<column id="9686" name="财政信息" >
+<column id="9715" name="财政预算决算" />
+<column id="9716" name="专项资金" />
+<column id="9717" name="政府采购与招投标" />
+<column id="9718" name="其他" />
+</column>
+<column id="9687" name="重大项目" >
+<column id="9719" name="项目审批及实施情况" />
+<column id="9720" name="其他" />
+</column>
+<column id="9688" name="行政权力" >
+<column id="9721" name="办事指南" />
+<column id="9722" name="行政事业性收费" />
+<column id="9723" name="办理情况" />
+<column id="9724" name="其他" />
+</column>
+<column id="9689" name="便民服务" />
+<column id="9690" name="其他" />
+</column>
+<column id="9725" name="03K技术创新" >
+<column id="9726" name="政府文件" >
+<column id="9734" name="命令" />
+<column id="9735" name="决定" />
+<column id="9736" name="公告" />
+<column id="9737" name="通告" />
+<column id="9738" name="通知" />
+<column id="9739" name="通报" />
+<column id="9740" name="议案" />
+<column id="9741" name="报告" />
+<column id="9742" name="请示" />
+<column id="9743" name="批复" />
+<column id="9744" name="意见" />
+<column id="9745" name="函" />
+<column id="9746" name="会议纪要" />
+</column>
+<column id="9727" name="动态信息" >
+<column id="9747" name="工作动态" />
+<column id="9748" name="重要会议" />
+<column id="9749" name="执法监督" />
+<column id="9750" name="统计数据" />
+<column id="9751" name="公示公告" />
+<column id="9752" name="政策解读" />
+<column id="9753" name="其他" />
+</column>
+<column id="9728" name="突发公共事件" >
+<column id="9754" name="应急预案" />
+<column id="9755" name="应急预警" />
+<column id="9756" name="应对情况" />
+<column id="9757" name="其他" />
+</column>
+<column id="9729" name="财政信息" >
+<column id="9758" name="财政预算决算" />
+<column id="9759" name="专项资金" />
+<column id="9760" name="政府采购与招投标" />
+<column id="9761" name="其他" />
+</column>
+<column id="9730" name="重大项目" >
+<column id="9762" name="项目审批及实施情况" />
+<column id="9763" name="其他" />
+</column>
+<column id="9731" name="行政权力" >
+<column id="9764" name="办事指南" />
+<column id="9765" name="行政事业性收费" />
+<column id="9766" name="办理情况" />
+<column id="9767" name="其他" />
+</column>
+<column id="9732" name="便民服务" />
+<column id="9733" name="其他" />
+</column>
+</column>
+<column id="119" name="财政、金融、审计" >
+<column id="120" name="04A财政" >
+<column id="2640" name="政府文件" >
+<column id="4343" name="命令" />
+<column id="4474" name="决定" />
+<column id="4605" name="公告" />
+<column id="4998" name="通告" />
+<column id="5129" name="通知" />
+<column id="5260" name="通报" />
+<column id="5391" name="议案" />
+<column id="5522" name="报告" />
+<column id="5653" name="请示" />
+<column id="5784" name="批复" />
+<column id="5915" name="意见" />
+<column id="6046" name="函" />
+<column id="6177" name="会议纪要" />
+</column>
+<column id="2771" name="动态信息" >
+<column id="6439" name="工作动态" />
+<column id="6570" name="重要会议" />
+<column id="6701" name="执法监督" />
+<column id="6832" name="统计数据" />
+<column id="6963" name="公示公告" />
+<column id="7094" name="政策解读" />
+<column id="7225" name="其他" />
+</column>
+<column id="2902" name="突发公共事件" >
+<column id="7356" name="应急预案" />
+<column id="7487" name="应急预警" />
+<column id="7618" name="应对情况" />
+<column id="7749" name="其他" />
+</column>
+<column id="3033" name="财政信息" >
+<column id="7880" name="财政预算决算" />
+<column id="8011" name="专项资金" />
+<column id="8142" name="政府采购与招投标" />
+<column id="8273" name="其他" />
+</column>
+<column id="3164" name="重大项目" >
+<column id="8404" name="项目审批及实施情况" />
+<column id="8535" name="其他" />
+</column>
+<column id="3295" name="行政权力" >
+<column id="8666" name="办事指南" />
+<column id="8797" name="行政事业性收费" />
+<column id="8928" name="办理情况" />
+<column id="9059" name="其他" />
+</column>
+<column id="3426" name="便民服务" />
+<column id="3557" name="其他" />
+</column>
+<column id="2396" name="04B税务" >
+<column id="2658" name="政府文件" >
+<column id="4361" name="命令" />
+<column id="4492" name="决定" />
+<column id="4623" name="公告" />
+<column id="5016" name="通告" />
+<column id="5147" name="通知" />
+<column id="5278" name="通报" />
+<column id="5409" name="议案" />
+<column id="5540" name="报告" />
+<column id="5671" name="请示" />
+<column id="5802" name="批复" />
+<column id="5933" name="意见" />
+<column id="6064" name="函" />
+<column id="6195" name="会议纪要" />
+</column>
+<column id="2789" name="动态信息" >
+<column id="6457" name="工作动态" />
+<column id="6588" name="重要会议" />
+<column id="6719" name="执法监督" />
+<column id="6850" name="统计数据" />
+<column id="6981" name="公示公告" />
+<column id="7112" name="政策解读" />
+<column id="7243" name="其他" />
+</column>
+<column id="2920" name="突发公共事件" >
+<column id="7374" name="应急预案" />
+<column id="7505" name="应急预警" />
+<column id="7636" name="应对情况" />
+<column id="7767" name="其他" />
+</column>
+<column id="3051" name="财政信息" >
+<column id="7898" name="财政预算决算" />
+<column id="8029" name="专项资金" />
+<column id="8160" name="政府采购与招投标" />
+<column id="8291" name="其他" />
+</column>
+<column id="3182" name="重大项目" >
+<column id="8422" name="项目审批及实施情况" />
+<column id="8553" name="其他" />
+</column>
+<column id="3313" name="行政权力" >
+<column id="8684" name="办事指南" />
+<column id="8815" name="行政事业性收费" />
+<column id="8946" name="办理情况" />
+<column id="9077" name="其他" />
+</column>
+<column id="3444" name="便民服务" />
+<column id="3575" name="其他" />
+</column>
+<column id="2397" name="04C银行" >
+<column id="2659" name="政府文件" >
+<column id="4362" name="命令" />
+<column id="4493" name="决定" />
+<column id="4624" name="公告" />
+<column id="5017" name="通告" />
+<column id="5148" name="通知" />
+<column id="5279" name="通报" />
+<column id="5410" name="议案" />
+<column id="5541" name="报告" />
+<column id="5672" name="请示" />
+<column id="5803" name="批复" />
+<column id="5934" name="意见" />
+<column id="6065" name="函" />
+<column id="6196" name="会议纪要" />
+</column>
+<column id="2790" name="动态信息" >
+<column id="6458" name="工作动态" />
+<column id="6589" name="重要会议" />
+<column id="6720" name="执法监督" />
+<column id="6851" name="统计数据" />
+<column id="6982" name="公示公告" />
+<column id="7113" name="政策解读" />
+<column id="7244" name="其他" />
+</column>
+<column id="2921" name="突发公共事件" >
+<column id="7375" name="应急预案" />
+<column id="7506" name="应急预警" />
+<column id="7637" name="应对情况" />
+<column id="7768" name="其他" />
+</column>
+<column id="3052" name="财政信息" >
+<column id="7899" name="财政预算决算" />
+<column id="8030" name="专项资金" />
+<column id="8161" name="政府采购与招投标" />
+<column id="8292" name="其他" />
+</column>
+<column id="3183" name="重大项目" >
+<column id="8423" name="项目审批及实施情况" />
+<column id="8554" name="其他" />
+</column>
+<column id="3314" name="行政权力" >
+<column id="8685" name="办事指南" />
+<column id="8816" name="行政事业性收费" />
+<column id="8947" name="办理情况" />
+<column id="9078" name="其他" />
+</column>
+<column id="3445" name="便民服务" />
+<column id="3576" name="其他" />
+</column>
+<column id="2398" name="04D货币（含外汇）" >
+<column id="2660" name="政府文件" >
+<column id="4363" name="命令" />
+<column id="4494" name="决定" />
+<column id="4625" name="公告" />
+<column id="5018" name="通告" />
+<column id="5149" name="通知" />
+<column id="5280" name="通报" />
+<column id="5411" name="议案" />
+<column id="5542" name="报告" />
+<column id="5673" name="请示" />
+<column id="5804" name="批复" />
+<column id="5935" name="意见" />
+<column id="6066" name="函" />
+<column id="6197" name="会议纪要" />
+</column>
+<column id="2791" name="动态信息" >
+<column id="6459" name="工作动态" />
+<column id="6590" name="重要会议" />
+<column id="6721" name="执法监督" />
+<column id="6852" name="统计数据" />
+<column id="6983" name="公示公告" />
+<column id="7114" name="政策解读" />
+<column id="7245" name="其他" />
+</column>
+<column id="2922" name="突发公共事件" >
+<column id="7376" name="应急预案" />
+<column id="7507" name="应急预警" />
+<column id="7638" name="应对情况" />
+<column id="7769" name="其他" />
+</column>
+<column id="3053" name="财政信息" >
+<column id="7900" name="财政预算决算" />
+<column id="8031" name="专项资金" />
+<column id="8162" name="政府采购与招投标" />
+<column id="8293" name="其他" />
+</column>
+<column id="3184" name="重大项目" >
+<column id="8424" name="项目审批及实施情况" />
+<column id="8555" name="其他" />
+</column>
+<column id="3315" name="行政权力" >
+<column id="8686" name="办事指南" />
+<column id="8817" name="行政事业性收费" />
+<column id="8948" name="办理情况" />
+<column id="9079" name="其他" />
+</column>
+<column id="3446" name="便民服务" />
+<column id="3577" name="其他" />
+</column>
+<column id="2399" name="04E证券" >
+<column id="2661" name="政府文件" >
+<column id="4364" name="命令" />
+<column id="4495" name="决定" />
+<column id="4626" name="公告" />
+<column id="5019" name="通告" />
+<column id="5150" name="通知" />
+<column id="5281" name="通报" />
+<column id="5412" name="议案" />
+<column id="5543" name="报告" />
+<column id="5674" name="请示" />
+<column id="5805" name="批复" />
+<column id="5936" name="意见" />
+<column id="6067" name="函" />
+<column id="6198" name="会议纪要" />
+</column>
+<column id="2792" name="动态信息" >
+<column id="6460" name="工作动态" />
+<column id="6591" name="重要会议" />
+<column id="6722" name="执法监督" />
+<column id="6853" name="统计数据" />
+<column id="6984" name="公示公告" />
+<column id="7115" name="政策解读" />
+<column id="7246" name="其他" />
+</column>
+<column id="2923" name="突发公共事件" >
+<column id="7377" name="应急预案" />
+<column id="7508" name="应急预警" />
+<column id="7639" name="应对情况" />
+<column id="7770" name="其他" />
+</column>
+<column id="3054" name="财政信息" >
+<column id="7901" name="财政预算决算" />
+<column id="8032" name="专项资金" />
+<column id="8163" name="政府采购与招投标" />
+<column id="8294" name="其他" />
+</column>
+<column id="3185" name="重大项目" >
+<column id="8425" name="项目审批及实施情况" />
+<column id="8556" name="其他" />
+</column>
+<column id="3316" name="行政权力" >
+<column id="8687" name="办事指南" />
+<column id="8818" name="行政事业性收费" />
+<column id="8949" name="办理情况" />
+<column id="9080" name="其他" />
+</column>
+<column id="3447" name="便民服务" />
+<column id="3578" name="其他" />
+</column>
+<column id="2400" name="04F保险" >
+<column id="2662" name="政府文件" >
+<column id="4365" name="命令" />
+<column id="4496" name="决定" />
+<column id="4627" name="公告" />
+<column id="5020" name="通告" />
+<column id="5151" name="通知" />
+<column id="5282" name="通报" />
+<column id="5413" name="议案" />
+<column id="5544" name="报告" />
+<column id="5675" name="请示" />
+<column id="5806" name="批复" />
+<column id="5937" name="意见" />
+<column id="6068" name="函" />
+<column id="6199" name="会议纪要" />
+</column>
+<column id="2793" name="动态信息" >
+<column id="6461" name="工作动态" />
+<column id="6592" name="重要会议" />
+<column id="6723" name="执法监督" />
+<column id="6854" name="统计数据" />
+<column id="6985" name="公示公告" />
+<column id="7116" name="政策解读" />
+<column id="7247" name="其他" />
+</column>
+<column id="2924" name="突发公共事件" >
+<column id="7378" name="应急预案" />
+<column id="7509" name="应急预警" />
+<column id="7640" name="应对情况" />
+<column id="7771" name="其他" />
+</column>
+<column id="3055" name="财政信息" >
+<column id="7902" name="财政预算决算" />
+<column id="8033" name="专项资金" />
+<column id="8164" name="政府采购与招投标" />
+<column id="8295" name="其他" />
+</column>
+<column id="3186" name="重大项目" >
+<column id="8426" name="项目审批及实施情况" />
+<column id="8557" name="其他" />
+</column>
+<column id="3317" name="行政权力" >
+<column id="8688" name="办事指南" />
+<column id="8819" name="行政事业性收费" />
+<column id="8950" name="办理情况" />
+<column id="9081" name="其他" />
+</column>
+<column id="3448" name="便民服务" />
+<column id="3579" name="其他" />
+</column>
+<column id="2401" name="04G信用" >
+<column id="2663" name="政府文件" >
+<column id="4366" name="命令" />
+<column id="4497" name="决定" />
+<column id="4628" name="公告" />
+<column id="5021" name="通告" />
+<column id="5152" name="通知" />
+<column id="5283" name="通报" />
+<column id="5414" name="议案" />
+<column id="5545" name="报告" />
+<column id="5676" name="请示" />
+<column id="5807" name="批复" />
+<column id="5938" name="意见" />
+<column id="6069" name="函" />
+<column id="6200" name="会议纪要" />
+</column>
+<column id="2794" name="动态信息" >
+<column id="6462" name="工作动态" />
+<column id="6593" name="重要会议" />
+<column id="6724" name="执法监督" />
+<column id="6855" name="统计数据" />
+<column id="6986" name="公示公告" />
+<column id="7117" name="政策解读" />
+<column id="7248" name="其他" />
+</column>
+<column id="2925" name="突发公共事件" >
+<column id="7379" name="应急预案" />
+<column id="7510" name="应急预警" />
+<column id="7641" name="应对情况" />
+<column id="7772" name="其他" />
+</column>
+<column id="3056" name="财政信息" >
+<column id="7903" name="财政预算决算" />
+<column id="8034" name="专项资金" />
+<column id="8165" name="政府采购与招投标" />
+<column id="8296" name="其他" />
+</column>
+<column id="3187" name="重大项目" >
+<column id="8427" name="项目审批及实施情况" />
+<column id="8558" name="其他" />
+</column>
+<column id="3318" name="行政权力" >
+<column id="8689" name="办事指南" />
+<column id="8820" name="行政事业性收费" />
+<column id="8951" name="办理情况" />
+<column id="9082" name="其他" />
+</column>
+<column id="3449" name="便民服务" />
+<column id="3580" name="其他" />
+</column>
+<column id="2402" name="04H审计" >
+<column id="2664" name="政府文件" >
+<column id="4367" name="命令" />
+<column id="4498" name="决定" />
+<column id="4629" name="公告" />
+<column id="5022" name="通告" />
+<column id="5153" name="通知" />
+<column id="5284" name="通报" />
+<column id="5415" name="议案" />
+<column id="5546" name="报告" />
+<column id="5677" name="请示" />
+<column id="5808" name="批复" />
+<column id="5939" name="意见" />
+<column id="6070" name="函" />
+<column id="6201" name="会议纪要" />
+</column>
+<column id="2795" name="动态信息" >
+<column id="6463" name="工作动态" />
+<column id="6594" name="重要会议" />
+<column id="6725" name="执法监督" />
+<column id="6856" name="统计数据" />
+<column id="6987" name="公示公告" />
+<column id="7118" name="政策解读" />
+<column id="7249" name="其他" />
+</column>
+<column id="2926" name="突发公共事件" >
+<column id="7380" name="应急预案" />
+<column id="7511" name="应急预警" />
+<column id="7642" name="应对情况" />
+<column id="7773" name="其他" />
+</column>
+<column id="3057" name="财政信息" >
+<column id="7904" name="财政预算决算" />
+<column id="8035" name="专项资金" />
+<column id="8166" name="政府采购与招投标" />
+<column id="8297" name="其他" />
+</column>
+<column id="3188" name="重大项目" >
+<column id="8428" name="项目审批及实施情况" />
+<column id="8559" name="其他" />
+</column>
+<column id="3319" name="行政权力" >
+<column id="8690" name="办事指南" />
+<column id="8821" name="行政事业性收费" />
+<column id="8952" name="办理情况" />
+<column id="9083" name="其他" />
+</column>
+<column id="3450" name="便民服务" />
+<column id="3581" name="其他" />
+</column>
+<column id="2403" name="04Z其他" >
+<column id="2665" name="政府文件" >
+<column id="4368" name="命令" />
+<column id="4499" name="决定" />
+<column id="4630" name="公告" />
+<column id="5023" name="通告" />
+<column id="5154" name="通知" />
+<column id="5285" name="通报" />
+<column id="5416" name="议案" />
+<column id="5547" name="报告" />
+<column id="5678" name="请示" />
+<column id="5809" name="批复" />
+<column id="5940" name="意见" />
+<column id="6071" name="函" />
+<column id="6202" name="会议纪要" />
+</column>
+<column id="2796" name="动态信息" >
+<column id="6464" name="工作动态" />
+<column id="6595" name="重要会议" />
+<column id="6726" name="执法监督" />
+<column id="6857" name="统计数据" />
+<column id="6988" name="公示公告" />
+<column id="7119" name="政策解读" />
+<column id="7250" name="其他" />
+</column>
+<column id="2927" name="突发公共事件" >
+<column id="7381" name="应急预案" />
+<column id="7512" name="应急预警" />
+<column id="7643" name="应对情况" />
+<column id="7774" name="其他" />
+</column>
+<column id="3058" name="财政信息" >
+<column id="7905" name="财政预算决算" />
+<column id="8036" name="专项资金" />
+<column id="8167" name="政府采购与招投标" />
+<column id="8298" name="其他" />
+</column>
+<column id="3189" name="重大项目" >
+<column id="8429" name="项目审批及实施情况" />
+<column id="8560" name="其他" />
+</column>
+<column id="3320" name="行政权力" >
+<column id="8691" name="办事指南" />
+<column id="8822" name="行政事业性收费" />
+<column id="8953" name="办理情况" />
+<column id="9084" name="其他" />
+</column>
+<column id="3451" name="便民服务" />
+<column id="3582" name="其他" />
+</column>
+</column>
+<column id="121" name="国土资源、能源" >
+<column id="122" name="05A土地" >
+<column id="2641" name="政府文件" >
+<column id="4344" name="命令" />
+<column id="4475" name="决定" />
+<column id="4606" name="公告" />
+<column id="4999" name="通告" />
+<column id="5130" name="通知" />
+<column id="5261" name="通报" />
+<column id="5392" name="议案" />
+<column id="5523" name="报告" />
+<column id="5654" name="请示" />
+<column id="5785" name="批复" />
+<column id="5916" name="意见" />
+<column id="6047" name="函" />
+<column id="6178" name="会议纪要" />
+</column>
+<column id="2772" name="动态信息" >
+<column id="6440" name="工作动态" />
+<column id="6571" name="重要会议" />
+<column id="6702" name="执法监督" />
+<column id="6833" name="统计数据" />
+<column id="6964" name="公示公告" />
+<column id="7095" name="政策解读" />
+<column id="7226" name="其他" />
+</column>
+<column id="2903" name="突发公共事件" >
+<column id="7357" name="应急预案" />
+<column id="7488" name="应急预警" />
+<column id="7619" name="应对情况" />
+<column id="7750" name="其他" />
+</column>
+<column id="3034" name="财政信息" >
+<column id="7881" name="财政预算决算" />
+<column id="8012" name="专项资金" />
+<column id="8143" name="政府采购与招投标" />
+<column id="8274" name="其他" />
+</column>
+<column id="3165" name="重大项目" >
+<column id="8405" name="项目审批及实施情况" />
+<column id="8536" name="其他" />
+</column>
+<column id="3296" name="行政权力" >
+<column id="8667" name="办事指南" />
+<column id="8798" name="行政事业性收费" />
+<column id="8929" name="办理情况" />
+<column id="9060" name="其他" />
+</column>
+<column id="3427" name="便民服务" />
+<column id="3558" name="其他" />
+</column>
+<column id="2404" name="05B矿产" >
+<column id="2666" name="政府文件" >
+<column id="4369" name="命令" />
+<column id="4500" name="决定" />
+<column id="4631" name="公告" />
+<column id="5024" name="通告" />
+<column id="5155" name="通知" />
+<column id="5286" name="通报" />
+<column id="5417" name="议案" />
+<column id="5548" name="报告" />
+<column id="5679" name="请示" />
+<column id="5810" name="批复" />
+<column id="5941" name="意见" />
+<column id="6072" name="函" />
+<column id="6203" name="会议纪要" />
+</column>
+<column id="2797" name="动态信息" >
+<column id="6465" name="工作动态" />
+<column id="6596" name="重要会议" />
+<column id="6727" name="执法监督" />
+<column id="6858" name="统计数据" />
+<column id="6989" name="公示公告" />
+<column id="7120" name="政策解读" />
+<column id="7251" name="其他" />
+</column>
+<column id="2928" name="突发公共事件" >
+<column id="7382" name="应急预案" />
+<column id="7513" name="应急预警" />
+<column id="7644" name="应对情况" />
+<column id="7775" name="其他" />
+</column>
+<column id="3059" name="财政信息" >
+<column id="7906" name="财政预算决算" />
+<column id="8037" name="专项资金" />
+<column id="8168" name="政府采购与招投标" />
+<column id="8299" name="其他" />
+</column>
+<column id="3190" name="重大项目" >
+<column id="8430" name="项目审批及实施情况" />
+<column id="8561" name="其他" />
+</column>
+<column id="3321" name="行政权力" >
+<column id="8692" name="办事指南" />
+<column id="8823" name="行政事业性收费" />
+<column id="8954" name="办理情况" />
+<column id="9085" name="其他" />
+</column>
+<column id="3452" name="便民服务" />
+<column id="3583" name="其他" />
+</column>
+<column id="2405" name="05C水资源" >
+<column id="2667" name="政府文件" >
+<column id="4370" name="命令" />
+<column id="4501" name="决定" />
+<column id="4632" name="公告" />
+<column id="5025" name="通告" />
+<column id="5156" name="通知" />
+<column id="5287" name="通报" />
+<column id="5418" name="议案" />
+<column id="5549" name="报告" />
+<column id="5680" name="请示" />
+<column id="5811" name="批复" />
+<column id="5942" name="意见" />
+<column id="6073" name="函" />
+<column id="6204" name="会议纪要" />
+</column>
+<column id="2798" name="动态信息" >
+<column id="6466" name="工作动态" />
+<column id="6597" name="重要会议" />
+<column id="6728" name="执法监督" />
+<column id="6859" name="统计数据" />
+<column id="6990" name="公示公告" />
+<column id="7121" name="政策解读" />
+<column id="7252" name="其他" />
+</column>
+<column id="2929" name="突发公共事件" >
+<column id="7383" name="应急预案" />
+<column id="7514" name="应急预警" />
+<column id="7645" name="应对情况" />
+<column id="7776" name="其他" />
+</column>
+<column id="3060" name="财政信息" >
+<column id="7907" name="财政预算决算" />
+<column id="8038" name="专项资金" />
+<column id="8169" name="政府采购与招投标" />
+<column id="8300" name="其他" />
+</column>
+<column id="3191" name="重大项目" >
+<column id="8431" name="项目审批及实施情况" />
+<column id="8562" name="其他" />
+</column>
+<column id="3322" name="行政权力" >
+<column id="8693" name="办事指南" />
+<column id="8824" name="行政事业性收费" />
+<column id="8955" name="办理情况" />
+<column id="9086" name="其他" />
+</column>
+<column id="3453" name="便民服务" />
+<column id="3584" name="其他" />
+</column>
+<column id="2407" name="05E煤炭" >
+<column id="2669" name="政府文件" >
+<column id="4372" name="命令" />
+<column id="4503" name="决定" />
+<column id="4634" name="公告" />
+<column id="5027" name="通告" />
+<column id="5158" name="通知" />
+<column id="5289" name="通报" />
+<column id="5420" name="议案" />
+<column id="5551" name="报告" />
+<column id="5682" name="请示" />
+<column id="5813" name="批复" />
+<column id="5944" name="意见" />
+<column id="6075" name="函" />
+<column id="6206" name="会议纪要" />
+</column>
+<column id="2800" name="动态信息" >
+<column id="6468" name="工作动态" />
+<column id="6599" name="重要会议" />
+<column id="6730" name="执法监督" />
+<column id="6861" name="统计数据" />
+<column id="6992" name="公示公告" />
+<column id="7123" name="政策解读" />
+<column id="7254" name="其他" />
+</column>
+<column id="2931" name="突发公共事件" >
+<column id="7385" name="应急预案" />
+<column id="7516" name="应急预警" />
+<column id="7647" name="应对情况" />
+<column id="7778" name="其他" />
+</column>
+<column id="3062" name="财政信息" >
+<column id="7909" name="财政预算决算" />
+<column id="8040" name="专项资金" />
+<column id="8171" name="政府采购与招投标" />
+<column id="8302" name="其他" />
+</column>
+<column id="3193" name="重大项目" >
+<column id="8433" name="项目审批及实施情况" />
+<column id="8564" name="其他" />
+</column>
+<column id="3324" name="行政权力" >
+<column id="8695" name="办事指南" />
+<column id="8826" name="行政事业性收费" />
+<column id="8957" name="办理情况" />
+<column id="9088" name="其他" />
+</column>
+<column id="3455" name="便民服务" />
+<column id="3586" name="其他" />
+</column>
+<column id="2408" name="05F石油与天然气" >
+<column id="2670" name="政府文件" >
+<column id="4373" name="命令" />
+<column id="4504" name="决定" />
+<column id="4635" name="公告" />
+<column id="5028" name="通告" />
+<column id="5159" name="通知" />
+<column id="5290" name="通报" />
+<column id="5421" name="议案" />
+<column id="5552" name="报告" />
+<column id="5683" name="请示" />
+<column id="5814" name="批复" />
+<column id="5945" name="意见" />
+<column id="6076" name="函" />
+<column id="6207" name="会议纪要" />
+</column>
+<column id="2801" name="动态信息" >
+<column id="6469" name="工作动态" />
+<column id="6600" name="重要会议" />
+<column id="6731" name="执法监督" />
+<column id="6862" name="统计数据" />
+<column id="6993" name="公示公告" />
+<column id="7124" name="政策解读" />
+<column id="7255" name="其他" />
+</column>
+<column id="2932" name="突发公共事件" >
+<column id="7386" name="应急预案" />
+<column id="7517" name="应急预警" />
+<column id="7648" name="应对情况" />
+<column id="7779" name="其他" />
+</column>
+<column id="3063" name="财政信息" >
+<column id="7910" name="财政预算决算" />
+<column id="8041" name="专项资金" />
+<column id="8172" name="政府采购与招投标" />
+<column id="8303" name="其他" />
+</column>
+<column id="3194" name="重大项目" >
+<column id="8434" name="项目审批及实施情况" />
+<column id="8565" name="其他" />
+</column>
+<column id="3325" name="行政权力" >
+<column id="8696" name="办事指南" />
+<column id="8827" name="行政事业性收费" />
+<column id="8958" name="办理情况" />
+<column id="9089" name="其他" />
+</column>
+<column id="3456" name="便民服务" />
+<column id="3587" name="其他" />
+</column>
+<column id="2409" name="05G电力" >
+<column id="2671" name="政府文件" >
+<column id="4374" name="命令" />
+<column id="4505" name="决定" />
+<column id="4636" name="公告" />
+<column id="5029" name="通告" />
+<column id="5160" name="通知" />
+<column id="5291" name="通报" />
+<column id="5422" name="议案" />
+<column id="5553" name="报告" />
+<column id="5684" name="请示" />
+<column id="5815" name="批复" />
+<column id="5946" name="意见" />
+<column id="6077" name="函" />
+<column id="6208" name="会议纪要" />
+</column>
+<column id="2802" name="动态信息" >
+<column id="6470" name="工作动态" />
+<column id="6601" name="重要会议" />
+<column id="6732" name="执法监督" />
+<column id="6863" name="统计数据" />
+<column id="6994" name="公示公告" />
+<column id="7125" name="政策解读" />
+<column id="7256" name="其他" />
+</column>
+<column id="2933" name="突发公共事件" >
+<column id="7387" name="应急预案" />
+<column id="7518" name="应急预警" />
+<column id="7649" name="应对情况" />
+<column id="7780" name="其他" />
+</column>
+<column id="3064" name="财政信息" >
+<column id="7911" name="财政预算决算" />
+<column id="8042" name="专项资金" />
+<column id="8173" name="政府采购与招投标" />
+<column id="8304" name="其他" />
+</column>
+<column id="3195" name="重大项目" >
+<column id="8435" name="项目审批及实施情况" />
+<column id="8566" name="其他" />
+</column>
+<column id="3326" name="行政权力" >
+<column id="8697" name="办事指南" />
+<column id="8828" name="行政事业性收费" />
+<column id="8959" name="办理情况" />
+<column id="9090" name="其他" />
+</column>
+<column id="3457" name="便民服务" />
+<column id="3588" name="其他" />
+</column>
+<column id="2410" name="05Z其他" >
+<column id="2672" name="政府文件" >
+<column id="4375" name="命令" />
+<column id="4506" name="决定" />
+<column id="4637" name="公告" />
+<column id="5030" name="通告" />
+<column id="5161" name="通知" />
+<column id="5292" name="通报" />
+<column id="5423" name="议案" />
+<column id="5554" name="报告" />
+<column id="5685" name="请示" />
+<column id="5816" name="批复" />
+<column id="5947" name="意见" />
+<column id="6078" name="函" />
+<column id="6209" name="会议纪要" />
+</column>
+<column id="2803" name="动态信息" >
+<column id="6471" name="工作动态" />
+<column id="6602" name="重要会议" />
+<column id="6733" name="执法监督" />
+<column id="6864" name="统计数据" />
+<column id="6995" name="公示公告" />
+<column id="7126" name="政策解读" />
+<column id="7257" name="其他" />
+</column>
+<column id="2934" name="突发公共事件" >
+<column id="7388" name="应急预案" />
+<column id="7519" name="应急预警" />
+<column id="7650" name="应对情况" />
+<column id="7781" name="其他" />
+</column>
+<column id="3065" name="财政信息" >
+<column id="7912" name="财政预算决算" />
+<column id="8043" name="专项资金" />
+<column id="8174" name="政府采购与招投标" />
+<column id="8305" name="其他" />
+</column>
+<column id="3196" name="重大项目" >
+<column id="8436" name="项目审批及实施情况" />
+<column id="8567" name="其他" />
+</column>
+<column id="3327" name="行政权力" >
+<column id="8698" name="办事指南" />
+<column id="8829" name="行政事业性收费" />
+<column id="8960" name="办理情况" />
+<column id="9091" name="其他" />
+</column>
+<column id="3458" name="便民服务" />
+<column id="3589" name="其他" />
+</column>
+</column>
+<column id="123" name="农业、林业、水利" >
+<column id="124" name="06A农业、畜牧业、渔业" >
+<column id="2642" name="政府文件" >
+<column id="4345" name="命令" />
+<column id="4476" name="决定" />
+<column id="4607" name="公告" />
+<column id="5000" name="通告" />
+<column id="5131" name="通知" />
+<column id="5262" name="通报" />
+<column id="5393" name="议案" />
+<column id="5524" name="报告" />
+<column id="5655" name="请示" />
+<column id="5786" name="批复" />
+<column id="5917" name="意见" />
+<column id="6048" name="函" />
+<column id="6179" name="会议纪要" />
+</column>
+<column id="2773" name="动态信息" >
+<column id="6441" name="工作动态" />
+<column id="6572" name="重要会议" />
+<column id="6703" name="执法监督" />
+<column id="6834" name="统计数据" />
+<column id="6965" name="公示公告" />
+<column id="7096" name="政策解读" />
+<column id="7227" name="其他" />
+</column>
+<column id="2904" name="突发公共事件" >
+<column id="7358" name="应急预案" />
+<column id="7489" name="应急预警" />
+<column id="7620" name="应对情况" />
+<column id="7751" name="其他" />
+</column>
+<column id="3035" name="财政信息" >
+<column id="7882" name="财政预算决算" />
+<column id="8013" name="专项资金" />
+<column id="8144" name="政府采购与招投标" />
+<column id="8275" name="其他" />
+</column>
+<column id="3166" name="重大项目" >
+<column id="8406" name="项目审批及实施情况" />
+<column id="8537" name="其他" />
+</column>
+<column id="3297" name="行政权力" >
+<column id="8668" name="办事指南" />
+<column id="8799" name="行政事业性收费" />
+<column id="8930" name="办理情况" />
+<column id="9061" name="其他" />
+</column>
+<column id="3428" name="便民服务" />
+<column id="3559" name="其他" />
+</column>
+<column id="2412" name="06B林业" >
+<column id="2674" name="政府文件" >
+<column id="4377" name="命令" />
+<column id="4508" name="决定" />
+<column id="4639" name="公告" />
+<column id="5032" name="通告" />
+<column id="5163" name="通知" />
+<column id="5294" name="通报" />
+<column id="5425" name="议案" />
+<column id="5556" name="报告" />
+<column id="5687" name="请示" />
+<column id="5818" name="批复" />
+<column id="5949" name="意见" />
+<column id="6080" name="函" />
+<column id="6211" name="会议纪要" />
+</column>
+<column id="2805" name="动态信息" >
+<column id="6473" name="工作动态" />
+<column id="6604" name="重要会议" />
+<column id="6735" name="执法监督" />
+<column id="6866" name="统计数据" />
+<column id="6997" name="公示公告" />
+<column id="7128" name="政策解读" />
+<column id="7259" name="其他" />
+</column>
+<column id="2936" name="突发公共事件" >
+<column id="7390" name="应急预案" />
+<column id="7521" name="应急预警" />
+<column id="7652" name="应对情况" />
+<column id="7783" name="其他" />
+</column>
+<column id="3067" name="财政信息" >
+<column id="7914" name="财政预算决算" />
+<column id="8045" name="专项资金" />
+<column id="8176" name="政府采购与招投标" />
+<column id="8307" name="其他" />
+</column>
+<column id="3198" name="重大项目" >
+<column id="8438" name="项目审批及实施情况" />
+<column id="8569" name="其他" />
+</column>
+<column id="3329" name="行政权力" >
+<column id="8700" name="办事指南" />
+<column id="8831" name="行政事业性收费" />
+<column id="8962" name="办理情况" />
+<column id="9093" name="其他" />
+</column>
+<column id="3460" name="便民服务" />
+<column id="3591" name="其他" />
+</column>
+<column id="2413" name="06C水利、水务" >
+<column id="2675" name="政府文件" >
+<column id="4378" name="命令" />
+<column id="4509" name="决定" />
+<column id="4640" name="公告" />
+<column id="5033" name="通告" />
+<column id="5164" name="通知" />
+<column id="5295" name="通报" />
+<column id="5426" name="议案" />
+<column id="5557" name="报告" />
+<column id="5688" name="请示" />
+<column id="5819" name="批复" />
+<column id="5950" name="意见" />
+<column id="6081" name="函" />
+<column id="6212" name="会议纪要" />
+</column>
+<column id="2806" name="动态信息" >
+<column id="6474" name="工作动态" />
+<column id="6605" name="重要会议" />
+<column id="6736" name="执法监督" />
+<column id="6867" name="统计数据" />
+<column id="6998" name="公示公告" />
+<column id="7129" name="政策解读" />
+<column id="7260" name="其他" />
+</column>
+<column id="2937" name="突发公共事件" >
+<column id="7391" name="应急预案" />
+<column id="7522" name="应急预警" />
+<column id="7653" name="应对情况" />
+<column id="7784" name="其他" />
+</column>
+<column id="3068" name="财政信息" >
+<column id="7915" name="财政预算决算" />
+<column id="8046" name="专项资金" />
+<column id="8177" name="政府采购与招投标" />
+<column id="8308" name="其他" />
+</column>
+<column id="3199" name="重大项目" >
+<column id="8439" name="项目审批及实施情况" />
+<column id="8570" name="其他" />
+</column>
+<column id="3330" name="行政权力" >
+<column id="8701" name="办事指南" />
+<column id="8832" name="行政事业性收费" />
+<column id="8963" name="办理情况" />
+<column id="9094" name="其他" />
+</column>
+<column id="3461" name="便民服务" />
+<column id="3592" name="其他" />
+</column>
+<column id="2414" name="06Z其他" >
+<column id="2676" name="政府文件" >
+<column id="4379" name="命令" />
+<column id="4510" name="决定" />
+<column id="4641" name="公告" />
+<column id="5034" name="通告" />
+<column id="5165" name="通知" />
+<column id="5296" name="通报" />
+<column id="5427" name="议案" />
+<column id="5558" name="报告" />
+<column id="5689" name="请示" />
+<column id="5820" name="批复" />
+<column id="5951" name="意见" />
+<column id="6082" name="函" />
+<column id="6213" name="会议纪要" />
+</column>
+<column id="2807" name="动态信息" >
+<column id="6475" name="工作动态" />
+<column id="6606" name="重要会议" />
+<column id="6737" name="执法监督" />
+<column id="6868" name="统计数据" />
+<column id="6999" name="公示公告" />
+<column id="7130" name="政策解读" />
+<column id="7261" name="其他" />
+</column>
+<column id="2938" name="突发公共事件" >
+<column id="7392" name="应急预案" />
+<column id="7523" name="应急预警" />
+<column id="7654" name="应对情况" />
+<column id="7785" name="其他" />
+</column>
+<column id="3069" name="财政信息" >
+<column id="7916" name="财政预算决算" />
+<column id="8047" name="专项资金" />
+<column id="8178" name="政府采购与招投标" />
+<column id="8309" name="其他" />
+</column>
+<column id="3200" name="重大项目" >
+<column id="8440" name="项目审批及实施情况" />
+<column id="8571" name="其他" />
+</column>
+<column id="3331" name="行政权力" >
+<column id="8702" name="办事指南" />
+<column id="8833" name="行政事业性收费" />
+<column id="8964" name="办理情况" />
+<column id="9095" name="其他" />
+</column>
+<column id="3462" name="便民服务" />
+<column id="3593" name="其他" />
+</column>
+</column>
+<column id="125" name="工业、交通" >
+<column id="126" name="07A机械制造与重工业" >
+<column id="2643" name="政府文件" >
+<column id="4346" name="命令" />
+<column id="4477" name="决定" />
+<column id="4608" name="公告" />
+<column id="5001" name="通告" />
+<column id="5132" name="通知" />
+<column id="5263" name="通报" />
+<column id="5394" name="议案" />
+<column id="5525" name="报告" />
+<column id="5656" name="请示" />
+<column id="5787" name="批复" />
+<column id="5918" name="意见" />
+<column id="6049" name="函" />
+<column id="6180" name="会议纪要" />
+</column>
+<column id="2774" name="动态信息" >
+<column id="6442" name="工作动态" />
+<column id="6573" name="重要会议" />
+<column id="6704" name="执法监督" />
+<column id="6835" name="统计数据" />
+<column id="6966" name="公示公告" />
+<column id="7097" name="政策解读" />
+<column id="7228" name="其他" />
+</column>
+<column id="2905" name="突发公共事件" >
+<column id="7359" name="应急预案" />
+<column id="7490" name="应急预警" />
+<column id="7621" name="应对情况" />
+<column id="7752" name="其他" />
+</column>
+<column id="3036" name="财政信息" >
+<column id="7883" name="财政预算决算" />
+<column id="8014" name="专项资金" />
+<column id="8145" name="政府采购与招投标" />
+<column id="8276" name="其他" />
+</column>
+<column id="3167" name="重大项目" >
+<column id="8407" name="项目审批及实施情况" />
+<column id="8538" name="其他" />
+</column>
+<column id="3298" name="行政权力" >
+<column id="8669" name="办事指南" />
+<column id="8800" name="行政事业性收费" />
+<column id="8931" name="办理情况" />
+<column id="9062" name="其他" />
+</column>
+<column id="3429" name="便民服务" />
+<column id="3560" name="其他" />
+</column>
+<column id="2415" name="07B轻工纺织" >
+<column id="2677" name="政府文件" >
+<column id="4380" name="命令" />
+<column id="4511" name="决定" />
+<column id="4642" name="公告" />
+<column id="5035" name="通告" />
+<column id="5166" name="通知" />
+<column id="5297" name="通报" />
+<column id="5428" name="议案" />
+<column id="5559" name="报告" />
+<column id="5690" name="请示" />
+<column id="5821" name="批复" />
+<column id="5952" name="意见" />
+<column id="6083" name="函" />
+<column id="6214" name="会议纪要" />
+</column>
+<column id="2808" name="动态信息" >
+<column id="6476" name="工作动态" />
+<column id="6607" name="重要会议" />
+<column id="6738" name="执法监督" />
+<column id="6869" name="统计数据" />
+<column id="7000" name="公示公告" />
+<column id="7131" name="政策解读" />
+<column id="7262" name="其他" />
+</column>
+<column id="2939" name="突发公共事件" >
+<column id="7393" name="应急预案" />
+<column id="7524" name="应急预警" />
+<column id="7655" name="应对情况" />
+<column id="7786" name="其他" />
+</column>
+<column id="3070" name="财政信息" >
+<column id="7917" name="财政预算决算" />
+<column id="8048" name="专项资金" />
+<column id="8179" name="政府采购与招投标" />
+<column id="8310" name="其他" />
+</column>
+<column id="3201" name="重大项目" >
+<column id="8441" name="项目审批及实施情况" />
+<column id="8572" name="其他" />
+</column>
+<column id="3332" name="行政权力" >
+<column id="8703" name="办事指南" />
+<column id="8834" name="行政事业性收费" />
+<column id="8965" name="办理情况" />
+<column id="9096" name="其他" />
+</column>
+<column id="3463" name="便民服务" />
+<column id="3594" name="其他" />
+</column>
+<column id="2416" name="07C化工" >
+<column id="2678" name="政府文件" >
+<column id="4381" name="命令" />
+<column id="4512" name="决定" />
+<column id="4643" name="公告" />
+<column id="5036" name="通告" />
+<column id="5167" name="通知" />
+<column id="5298" name="通报" />
+<column id="5429" name="议案" />
+<column id="5560" name="报告" />
+<column id="5691" name="请示" />
+<column id="5822" name="批复" />
+<column id="5953" name="意见" />
+<column id="6084" name="函" />
+<column id="6215" name="会议纪要" />
+</column>
+<column id="2809" name="动态信息" >
+<column id="6477" name="工作动态" />
+<column id="6608" name="重要会议" />
+<column id="6739" name="执法监督" />
+<column id="6870" name="统计数据" />
+<column id="7001" name="公示公告" />
+<column id="7132" name="政策解读" />
+<column id="7263" name="其他" />
+</column>
+<column id="2940" name="突发公共事件" >
+<column id="7394" name="应急预案" />
+<column id="7525" name="应急预警" />
+<column id="7656" name="应对情况" />
+<column id="7787" name="其他" />
+</column>
+<column id="3071" name="财政信息" >
+<column id="7918" name="财政预算决算" />
+<column id="8049" name="专项资金" />
+<column id="8180" name="政府采购与招投标" />
+<column id="8311" name="其他" />
+</column>
+<column id="3202" name="重大项目" >
+<column id="8442" name="项目审批及实施情况" />
+<column id="8573" name="其他" />
+</column>
+<column id="3333" name="行政权力" >
+<column id="8704" name="办事指南" />
+<column id="8835" name="行政事业性收费" />
+<column id="8966" name="办理情况" />
+<column id="9097" name="其他" />
+</column>
+<column id="3464" name="便民服务" />
+<column id="3595" name="其他" />
+</column>
+<column id="2417" name="07D国防工业" >
+<column id="2679" name="政府文件" >
+<column id="4382" name="命令" />
+<column id="4513" name="决定" />
+<column id="4644" name="公告" />
+<column id="5037" name="通告" />
+<column id="5168" name="通知" />
+<column id="5299" name="通报" />
+<column id="5430" name="议案" />
+<column id="5561" name="报告" />
+<column id="5692" name="请示" />
+<column id="5823" name="批复" />
+<column id="5954" name="意见" />
+<column id="6085" name="函" />
+<column id="6216" name="会议纪要" />
+</column>
+<column id="2810" name="动态信息" >
+<column id="6478" name="工作动态" />
+<column id="6609" name="重要会议" />
+<column id="6740" name="执法监督" />
+<column id="6871" name="统计数据" />
+<column id="7002" name="公示公告" />
+<column id="7133" name="政策解读" />
+<column id="7264" name="其他" />
+</column>
+<column id="2941" name="突发公共事件" >
+<column id="7395" name="应急预案" />
+<column id="7526" name="应急预警" />
+<column id="7657" name="应对情况" />
+<column id="7788" name="其他" />
+</column>
+<column id="3072" name="财政信息" >
+<column id="7919" name="财政预算决算" />
+<column id="8050" name="专项资金" />
+<column id="8181" name="政府采购与招投标" />
+<column id="8312" name="其他" />
+</column>
+<column id="3203" name="重大项目" >
+<column id="8443" name="项目审批及实施情况" />
+<column id="8574" name="其他" />
+</column>
+<column id="3334" name="行政权力" >
+<column id="8705" name="办事指南" />
+<column id="8836" name="行政事业性收费" />
+<column id="8967" name="办理情况" />
+<column id="9098" name="其他" />
+</column>
+<column id="3465" name="便民服务" />
+<column id="3596" name="其他" />
+</column>
+<column id="2418" name="07E航天、航空" >
+<column id="2680" name="政府文件" >
+<column id="4383" name="命令" />
+<column id="4514" name="决定" />
+<column id="4645" name="公告" />
+<column id="5038" name="通告" />
+<column id="5169" name="通知" />
+<column id="5300" name="通报" />
+<column id="5431" name="议案" />
+<column id="5562" name="报告" />
+<column id="5693" name="请示" />
+<column id="5824" name="批复" />
+<column id="5955" name="意见" />
+<column id="6086" name="函" />
+<column id="6217" name="会议纪要" />
+</column>
+<column id="2811" name="动态信息" >
+<column id="6479" name="工作动态" />
+<column id="6610" name="重要会议" />
+<column id="6741" name="执法监督" />
+<column id="6872" name="统计数据" />
+<column id="7003" name="公示公告" />
+<column id="7134" name="政策解读" />
+<column id="7265" name="其他" />
+</column>
+<column id="2942" name="突发公共事件" >
+<column id="7396" name="应急预案" />
+<column id="7527" name="应急预警" />
+<column id="7658" name="应对情况" />
+<column id="7789" name="其他" />
+</column>
+<column id="3073" name="财政信息" >
+<column id="7920" name="财政预算决算" />
+<column id="8051" name="专项资金" />
+<column id="8182" name="政府采购与招投标" />
+<column id="8313" name="其他" />
+</column>
+<column id="3204" name="重大项目" >
+<column id="8444" name="项目审批及实施情况" />
+<column id="8575" name="其他" />
+</column>
+<column id="3335" name="行政权力" >
+<column id="8706" name="办事指南" />
+<column id="8837" name="行政事业性收费" />
+<column id="8968" name="办理情况" />
+<column id="9099" name="其他" />
+</column>
+<column id="3466" name="便民服务" />
+<column id="3597" name="其他" />
+</column>
+<column id="2419" name="07F信息产业（含电信）" >
+<column id="2681" name="政府文件" >
+<column id="4384" name="命令" />
+<column id="4515" name="决定" />
+<column id="4646" name="公告" />
+<column id="5039" name="通告" />
+<column id="5170" name="通知" />
+<column id="5301" name="通报" />
+<column id="5432" name="议案" />
+<column id="5563" name="报告" />
+<column id="5694" name="请示" />
+<column id="5825" name="批复" />
+<column id="5956" name="意见" />
+<column id="6087" name="函" />
+<column id="6218" name="会议纪要" />
+</column>
+<column id="2812" name="动态信息" >
+<column id="6480" name="工作动态" />
+<column id="6611" name="重要会议" />
+<column id="6742" name="执法监督" />
+<column id="6873" name="统计数据" />
+<column id="7004" name="公示公告" />
+<column id="7135" name="政策解读" />
+<column id="7266" name="其他" />
+</column>
+<column id="2943" name="突发公共事件" >
+<column id="7397" name="应急预案" />
+<column id="7528" name="应急预警" />
+<column id="7659" name="应对情况" />
+<column id="7790" name="其他" />
+</column>
+<column id="3074" name="财政信息" >
+<column id="7921" name="财政预算决算" />
+<column id="8052" name="专项资金" />
+<column id="8183" name="政府采购与招投标" />
+<column id="8314" name="其他" />
+</column>
+<column id="3205" name="重大项目" >
+<column id="8445" name="项目审批及实施情况" />
+<column id="8576" name="其他" />
+</column>
+<column id="3336" name="行政权力" >
+<column id="8707" name="办事指南" />
+<column id="8838" name="行政事业性收费" />
+<column id="8969" name="办理情况" />
+<column id="9100" name="其他" />
+</column>
+<column id="3467" name="便民服务" />
+<column id="3598" name="其他" />
+</column>
+<column id="2420" name="07G公路" >
+<column id="2682" name="政府文件" >
+<column id="4385" name="命令" />
+<column id="4516" name="决定" />
+<column id="4647" name="公告" />
+<column id="5040" name="通告" />
+<column id="5171" name="通知" />
+<column id="5302" name="通报" />
+<column id="5433" name="议案" />
+<column id="5564" name="报告" />
+<column id="5695" name="请示" />
+<column id="5826" name="批复" />
+<column id="5957" name="意见" />
+<column id="6088" name="函" />
+<column id="6219" name="会议纪要" />
+</column>
+<column id="2813" name="动态信息" >
+<column id="6481" name="工作动态" />
+<column id="6612" name="重要会议" />
+<column id="6743" name="执法监督" />
+<column id="6874" name="统计数据" />
+<column id="7005" name="公示公告" />
+<column id="7136" name="政策解读" />
+<column id="7267" name="其他" />
+</column>
+<column id="2944" name="突发公共事件" >
+<column id="7398" name="应急预案" />
+<column id="7529" name="应急预警" />
+<column id="7660" name="应对情况" />
+<column id="7791" name="其他" />
+</column>
+<column id="3075" name="财政信息" >
+<column id="7922" name="财政预算决算" />
+<column id="8053" name="专项资金" />
+<column id="8184" name="政府采购与招投标" />
+<column id="8315" name="其他" />
+</column>
+<column id="3206" name="重大项目" >
+<column id="8446" name="项目审批及实施情况" />
+<column id="8577" name="其他" />
+</column>
+<column id="3337" name="行政权力" >
+<column id="8708" name="办事指南" />
+<column id="8839" name="行政事业性收费" />
+<column id="8970" name="办理情况" />
+<column id="9101" name="其他" />
+</column>
+<column id="3468" name="便民服务" />
+<column id="3599" name="其他" />
+</column>
+<column id="2421" name="07H水运" >
+<column id="2683" name="政府文件" >
+<column id="4386" name="命令" />
+<column id="4517" name="决定" />
+<column id="4648" name="公告" />
+<column id="5041" name="通告" />
+<column id="5172" name="通知" />
+<column id="5303" name="通报" />
+<column id="5434" name="议案" />
+<column id="5565" name="报告" />
+<column id="5696" name="请示" />
+<column id="5827" name="批复" />
+<column id="5958" name="意见" />
+<column id="6089" name="函" />
+<column id="6220" name="会议纪要" />
+</column>
+<column id="2814" name="动态信息" >
+<column id="6482" name="工作动态" />
+<column id="6613" name="重要会议" />
+<column id="6744" name="执法监督" />
+<column id="6875" name="统计数据" />
+<column id="7006" name="公示公告" />
+<column id="7137" name="政策解读" />
+<column id="7268" name="其他" />
+</column>
+<column id="2945" name="突发公共事件" >
+<column id="7399" name="应急预案" />
+<column id="7530" name="应急预警" />
+<column id="7661" name="应对情况" />
+<column id="7792" name="其他" />
+</column>
+<column id="3076" name="财政信息" >
+<column id="7923" name="财政预算决算" />
+<column id="8054" name="专项资金" />
+<column id="8185" name="政府采购与招投标" />
+<column id="8316" name="其他" />
+</column>
+<column id="3207" name="重大项目" >
+<column id="8447" name="项目审批及实施情况" />
+<column id="8578" name="其他" />
+</column>
+<column id="3338" name="行政权力" >
+<column id="8709" name="办事指南" />
+<column id="8840" name="行政事业性收费" />
+<column id="8971" name="办理情况" />
+<column id="9102" name="其他" />
+</column>
+<column id="3469" name="便民服务" />
+<column id="3600" name="其他" />
+</column>
+<column id="2422" name="07J铁路" >
+<column id="2684" name="政府文件" >
+<column id="4387" name="命令" />
+<column id="4518" name="决定" />
+<column id="4649" name="公告" />
+<column id="5042" name="通告" />
+<column id="5173" name="通知" />
+<column id="5304" name="通报" />
+<column id="5435" name="议案" />
+<column id="5566" name="报告" />
+<column id="5697" name="请示" />
+<column id="5828" name="批复" />
+<column id="5959" name="意见" />
+<column id="6090" name="函" />
+<column id="6221" name="会议纪要" />
+</column>
+<column id="2815" name="动态信息" >
+<column id="6483" name="工作动态" />
+<column id="6614" name="重要会议" />
+<column id="6745" name="执法监督" />
+<column id="6876" name="统计数据" />
+<column id="7007" name="公示公告" />
+<column id="7138" name="政策解读" />
+<column id="7269" name="其他" />
+</column>
+<column id="2946" name="突发公共事件" >
+<column id="7400" name="应急预案" />
+<column id="7531" name="应急预警" />
+<column id="7662" name="应对情况" />
+<column id="7793" name="其他" />
+</column>
+<column id="3077" name="财政信息" >
+<column id="7924" name="财政预算决算" />
+<column id="8055" name="专项资金" />
+<column id="8186" name="政府采购与招投标" />
+<column id="8317" name="其他" />
+</column>
+<column id="3208" name="重大项目" >
+<column id="8448" name="项目审批及实施情况" />
+<column id="8579" name="其他" />
+</column>
+<column id="3339" name="行政权力" >
+<column id="8710" name="办事指南" />
+<column id="8841" name="行政事业性收费" />
+<column id="8972" name="办理情况" />
+<column id="9103" name="其他" />
+</column>
+<column id="3470" name="便民服务" />
+<column id="3601" name="其他" />
+</column>
+<column id="2423" name="07K民航" >
+<column id="2685" name="政府文件" >
+<column id="4388" name="命令" />
+<column id="4519" name="决定" />
+<column id="4650" name="公告" />
+<column id="5043" name="通告" />
+<column id="5174" name="通知" />
+<column id="5305" name="通报" />
+<column id="5436" name="议案" />
+<column id="5567" name="报告" />
+<column id="5698" name="请示" />
+<column id="5829" name="批复" />
+<column id="5960" name="意见" />
+<column id="6091" name="函" />
+<column id="6222" name="会议纪要" />
+</column>
+<column id="2816" name="动态信息" >
+<column id="6484" name="工作动态" />
+<column id="6615" name="重要会议" />
+<column id="6746" name="执法监督" />
+<column id="6877" name="统计数据" />
+<column id="7008" name="公示公告" />
+<column id="7139" name="政策解读" />
+<column id="7270" name="其他" />
+</column>
+<column id="2947" name="突发公共事件" >
+<column id="7401" name="应急预案" />
+<column id="7532" name="应急预警" />
+<column id="7663" name="应对情况" />
+<column id="7794" name="其他" />
+</column>
+<column id="3078" name="财政信息" >
+<column id="7925" name="财政预算决算" />
+<column id="8056" name="专项资金" />
+<column id="8187" name="政府采购与招投标" />
+<column id="8318" name="其他" />
+</column>
+<column id="3209" name="重大项目" >
+<column id="8449" name="项目审批及实施情况" />
+<column id="8580" name="其他" />
+</column>
+<column id="3340" name="行政权力" >
+<column id="8711" name="办事指南" />
+<column id="8842" name="行政事业性收费" />
+<column id="8973" name="办理情况" />
+<column id="9104" name="其他" />
+</column>
+<column id="3471" name="便民服务" />
+<column id="3602" name="其他" />
+</column>
+<column id="2424" name="07L邮政" >
+<column id="2686" name="政府文件" >
+<column id="4389" name="命令" />
+<column id="4520" name="决定" />
+<column id="4651" name="公告" />
+<column id="5044" name="通告" />
+<column id="5175" name="通知" />
+<column id="5306" name="通报" />
+<column id="5437" name="议案" />
+<column id="5568" name="报告" />
+<column id="5699" name="请示" />
+<column id="5830" name="批复" />
+<column id="5961" name="意见" />
+<column id="6092" name="函" />
+<column id="6223" name="会议纪要" />
+</column>
+<column id="2817" name="动态信息" >
+<column id="6485" name="工作动态" />
+<column id="6616" name="重要会议" />
+<column id="6747" name="执法监督" />
+<column id="6878" name="统计数据" />
+<column id="7009" name="公示公告" />
+<column id="7140" name="政策解读" />
+<column id="7271" name="其他" />
+</column>
+<column id="2948" name="突发公共事件" >
+<column id="7402" name="应急预案" />
+<column id="7533" name="应急预警" />
+<column id="7664" name="应对情况" />
+<column id="7795" name="其他" />
+</column>
+<column id="3079" name="财政信息" >
+<column id="7926" name="财政预算决算" />
+<column id="8057" name="专项资金" />
+<column id="8188" name="政府采购与招投标" />
+<column id="8319" name="其他" />
+</column>
+<column id="3210" name="重大项目" >
+<column id="8450" name="项目审批及实施情况" />
+<column id="8581" name="其他" />
+</column>
+<column id="3341" name="行政权力" >
+<column id="8712" name="办事指南" />
+<column id="8843" name="行政事业性收费" />
+<column id="8974" name="办理情况" />
+<column id="9105" name="其他" />
+</column>
+<column id="3472" name="便民服务" />
+<column id="3603" name="其他" />
+</column>
+<column id="2425" name="07Z其他" >
+<column id="2687" name="政府文件" >
+<column id="4390" name="命令" />
+<column id="4521" name="决定" />
+<column id="4652" name="公告" />
+<column id="5045" name="通告" />
+<column id="5176" name="通知" />
+<column id="5307" name="通报" />
+<column id="5438" name="议案" />
+<column id="5569" name="报告" />
+<column id="5700" name="请示" />
+<column id="5831" name="批复" />
+<column id="5962" name="意见" />
+<column id="6093" name="函" />
+<column id="6224" name="会议纪要" />
+</column>
+<column id="2818" name="动态信息" >
+<column id="6486" name="工作动态" />
+<column id="6617" name="重要会议" />
+<column id="6748" name="执法监督" />
+<column id="6879" name="统计数据" />
+<column id="7010" name="公示公告" />
+<column id="7141" name="政策解读" />
+<column id="7272" name="其他" />
+</column>
+<column id="2949" name="突发公共事件" >
+<column id="7403" name="应急预案" />
+<column id="7534" name="应急预警" />
+<column id="7665" name="应对情况" />
+<column id="7796" name="其他" />
+</column>
+<column id="3080" name="财政信息" >
+<column id="7927" name="财政预算决算" />
+<column id="8058" name="专项资金" />
+<column id="8189" name="政府采购与招投标" />
+<column id="8320" name="其他" />
+</column>
+<column id="3211" name="重大项目" >
+<column id="8451" name="项目审批及实施情况" />
+<column id="8582" name="其他" />
+</column>
+<column id="3342" name="行政权力" >
+<column id="8713" name="办事指南" />
+<column id="8844" name="行政事业性收费" />
+<column id="8975" name="办理情况" />
+<column id="9106" name="其他" />
+</column>
+<column id="3473" name="便民服务" />
+<column id="3604" name="其他" />
+</column>
+<column id="9768" name="07M无线电管理" >
+<column id="9769" name="政府文件" >
+<column id="9777" name="命令" />
+<column id="9778" name="决定" />
+<column id="9779" name="公告" />
+<column id="9780" name="通告" />
+<column id="9781" name="通知" />
+<column id="9782" name="通报" />
+<column id="9783" name="议案" />
+<column id="9784" name="报告" />
+<column id="9785" name="请示" />
+<column id="9786" name="批复" />
+<column id="9787" name="意见" />
+<column id="9788" name="函" />
+<column id="9789" name="会议纪要" />
+</column>
+<column id="9770" name="动态信息" >
+<column id="9790" name="工作动态" />
+<column id="9791" name="重要会议" />
+<column id="9792" name="执法监督" />
+<column id="9793" name="统计数据" />
+<column id="9794" name="公示公告" />
+<column id="9795" name="政策解读" />
+<column id="9796" name="其他" />
+</column>
+<column id="9771" name="突发公共事件" >
+<column id="9797" name="应急预案" />
+<column id="9798" name="应急预警" />
+<column id="9799" name="应对情况" />
+<column id="9800" name="其他" />
+</column>
+<column id="9772" name="财政信息" >
+<column id="9801" name="财政预算决算" />
+<column id="9802" name="专项资金" />
+<column id="9803" name="政府采购与招投标" />
+<column id="9804" name="其他" />
+</column>
+<column id="9773" name="重大项目" >
+<column id="9805" name="项目审批及实施情况" />
+<column id="9806" name="其他" />
+</column>
+<column id="9774" name="行政权力" >
+<column id="9807" name="办事指南" />
+<column id="9808" name="行政事业性收费" />
+<column id="9809" name="办理情况" />
+<column id="9810" name="其他" />
+</column>
+<column id="9775" name="便民服务" />
+<column id="9776" name="其他" />
+</column>
+<column id="9811" name="07N生产性服务业" >
+<column id="9812" name="政府文件" >
+<column id="9820" name="命令" />
+<column id="9821" name="决定" />
+<column id="9822" name="公告" />
+<column id="9823" name="通告" />
+<column id="9824" name="通知" />
+<column id="9825" name="通报" />
+<column id="9826" name="议案" />
+<column id="9827" name="报告" />
+<column id="9828" name="请示" />
+<column id="9829" name="批复" />
+<column id="9830" name="意见" />
+<column id="9831" name="函" />
+<column id="9832" name="会议纪要" />
+</column>
+<column id="9813" name="动态信息" >
+<column id="9833" name="工作动态" />
+<column id="9834" name="重要会议" />
+<column id="9835" name="执法监督" />
+<column id="9836" name="统计数据" />
+<column id="9837" name="公示公告" />
+<column id="9838" name="政策解读" />
+<column id="9839" name="其他" />
+</column>
+<column id="9814" name="突发公共事件" >
+<column id="9840" name="应急预案" />
+<column id="9841" name="应急预警" />
+<column id="9842" name="应对情况" />
+<column id="9843" name="其他" />
+</column>
+<column id="9815" name="财政信息" >
+<column id="9844" name="财政预算决算" />
+<column id="9845" name="专项资金" />
+<column id="9846" name="政府采购与招投标" />
+<column id="9847" name="其他" />
+</column>
+<column id="9816" name="重大项目" >
+<column id="9848" name="项目审批及实施情况" />
+<column id="9849" name="其他" />
+</column>
+<column id="9817" name="行政权力" >
+<column id="9850" name="办事指南" />
+<column id="9851" name="行政事业性收费" />
+<column id="9852" name="办理情况" />
+<column id="9853" name="其他" />
+</column>
+<column id="9818" name="便民服务" />
+<column id="9819" name="其他" />
+</column>
+<column id="9854" name="07P冶金建材" >
+<column id="9855" name="政府文件" >
+<column id="9863" name="命令" />
+<column id="9864" name="决定" />
+<column id="9865" name="公告" />
+<column id="9866" name="通告" />
+<column id="9867" name="通知" />
+<column id="9868" name="通报" />
+<column id="9869" name="议案" />
+<column id="9870" name="报告" />
+<column id="9871" name="请示" />
+<column id="9872" name="批复" />
+<column id="9873" name="意见" />
+<column id="9874" name="函" />
+<column id="9875" name="会议纪要" />
+</column>
+<column id="9856" name="动态信息" >
+<column id="9876" name="工作动态" />
+<column id="9877" name="重要会议" />
+<column id="9878" name="执法监督" />
+<column id="9879" name="统计数据" />
+<column id="9880" name="公示公告" />
+<column id="9881" name="政策解读" />
+<column id="9882" name="其他" />
+</column>
+<column id="9857" name="突发公共事件" >
+<column id="9883" name="应急预案" />
+<column id="9884" name="应急预警" />
+<column id="9885" name="应对情况" />
+<column id="9886" name="其他" />
+</column>
+<column id="9858" name="财政信息" >
+<column id="9887" name="财政预算决算" />
+<column id="9888" name="专项资金" />
+<column id="9889" name="政府采购与招投标" />
+<column id="9890" name="其他" />
+</column>
+<column id="9859" name="重大项目" >
+<column id="9891" name="项目审批及实施情况" />
+<column id="9892" name="其他" />
+</column>
+<column id="9860" name="行政权力" >
+<column id="9893" name="办事指南" />
+<column id="9894" name="行政事业性收费" />
+<column id="9895" name="办理情况" />
+<column id="9896" name="其他" />
+</column>
+<column id="9861" name="便民服务" />
+<column id="9862" name="其他" />
+</column>
+<column id="9897" name="07Q农产品加工" >
+<column id="9898" name="政府文件" >
+<column id="9906" name="命令" />
+<column id="9907" name="决定" />
+<column id="9908" name="公告" />
+<column id="9909" name="通告" />
+<column id="9910" name="通知" />
+<column id="9911" name="通报" />
+<column id="9912" name="议案" />
+<column id="9913" name="报告" />
+<column id="9914" name="请示" />
+<column id="9915" name="批复" />
+<column id="9916" name="意见" />
+<column id="9917" name="函" />
+<column id="9918" name="会议纪要" />
+</column>
+<column id="9899" name="动态信息" >
+<column id="9919" name="工作动态" />
+<column id="9920" name="重要会议" />
+<column id="9921" name="执法监督" />
+<column id="9922" name="统计数据" />
+<column id="9923" name="公示公告" />
+<column id="9924" name="政策解读" />
+<column id="9925" name="其他" />
+</column>
+<column id="9900" name="突发公共事件" >
+<column id="9926" name="应急预案" />
+<column id="9927" name="应急预警" />
+<column id="9928" name="应对情况" />
+<column id="9929" name="其他" />
+</column>
+<column id="9901" name="财政信息" >
+<column id="9930" name="财政预算决算" />
+<column id="9931" name="专项资金" />
+<column id="9932" name="政府采购与招投标" />
+<column id="9933" name="其他" />
+</column>
+<column id="9902" name="重大项目" >
+<column id="9934" name="项目审批及实施情况" />
+<column id="9935" name="其他" />
+</column>
+<column id="9903" name="行政权力" >
+<column id="9936" name="办事指南" />
+<column id="9937" name="行政事业性收费" />
+<column id="9938" name="办理情况" />
+<column id="9939" name="其他" />
+</column>
+<column id="9904" name="便民服务" />
+<column id="9905" name="其他" />
+</column>
+<column id="9940" name="07R创业促进与企业服务" >
+<column id="9941" name="政府文件" >
+<column id="9949" name="命令" />
+<column id="9950" name="决定" />
+<column id="9951" name="公告" />
+<column id="9952" name="通告" />
+<column id="9953" name="通知" />
+<column id="9954" name="通报" />
+<column id="9955" name="议案" />
+<column id="9956" name="报告" />
+<column id="9957" name="请示" />
+<column id="9958" name="批复" />
+<column id="9959" name="意见" />
+<column id="9960" name="函" />
+<column id="9961" name="会议纪要" />
+</column>
+<column id="9942" name="动态信息" >
+<column id="9962" name="工作动态" />
+<column id="9963" name="重要会议" />
+<column id="9964" name="执法监督" />
+<column id="9965" name="统计数据" />
+<column id="9966" name="公示公告" />
+<column id="9967" name="政策解读" />
+<column id="9968" name="其他" />
+</column>
+<column id="9943" name="突发公共事件" >
+<column id="9969" name="应急预案" />
+<column id="9970" name="应急预警" />
+<column id="9971" name="应对情况" />
+<column id="9972" name="其他" />
+</column>
+<column id="9944" name="财政信息" >
+<column id="9973" name="财政预算决算" />
+<column id="9974" name="专项资金" />
+<column id="9975" name="政府采购与招投标" />
+<column id="9976" name="其他" />
+</column>
+<column id="9945" name="重大项目" >
+<column id="9977" name="项目审批及实施情况" />
+<column id="9978" name="其他" />
+</column>
+<column id="9946" name="行政权力" >
+<column id="9979" name="办事指南" />
+<column id="9980" name="行政事业性收费" />
+<column id="9981" name="办理情况" />
+<column id="9982" name="其他" />
+</column>
+<column id="9947" name="便民服务" />
+<column id="9948" name="其他" />
+</column>
+</column>
+<column id="127" name="商贸、海关、旅游" >
+<column id="128" name="08A对外经贸合作" >
+<column id="2644" name="政府文件" >
+<column id="4347" name="命令" />
+<column id="4478" name="决定" />
+<column id="4609" name="公告" />
+<column id="5002" name="通告" />
+<column id="5133" name="通知" />
+<column id="5264" name="通报" />
+<column id="5395" name="议案" />
+<column id="5526" name="报告" />
+<column id="5657" name="请示" />
+<column id="5788" name="批复" />
+<column id="5919" name="意见" />
+<column id="6050" name="函" />
+<column id="6181" name="会议纪要" />
+</column>
+<column id="2775" name="动态信息" >
+<column id="6443" name="工作动态" />
+<column id="6574" name="重要会议" />
+<column id="6705" name="执法监督" />
+<column id="6836" name="统计数据" />
+<column id="6967" name="公示公告" />
+<column id="7098" name="政策解读" />
+<column id="7229" name="其他" />
+</column>
+<column id="2906" name="突发公共事件" >
+<column id="7360" name="应急预案" />
+<column id="7491" name="应急预警" />
+<column id="7622" name="应对情况" />
+<column id="7753" name="其他" />
+</column>
+<column id="3037" name="财政信息" >
+<column id="7884" name="财政预算决算" />
+<column id="8015" name="专项资金" />
+<column id="8146" name="政府采购与招投标" />
+<column id="8277" name="其他" />
+</column>
+<column id="3168" name="重大项目" >
+<column id="8408" name="项目审批及实施情况" />
+<column id="8539" name="其他" />
+</column>
+<column id="3299" name="行政权力" >
+<column id="8670" name="办事指南" />
+<column id="8801" name="行政事业性收费" />
+<column id="8932" name="办理情况" />
+<column id="9063" name="其他" />
+</column>
+<column id="3430" name="便民服务" />
+<column id="3561" name="其他" />
+</column>
+<column id="2426" name="08B国内贸易（含供销）" >
+<column id="2688" name="政府文件" >
+<column id="4391" name="命令" />
+<column id="4522" name="决定" />
+<column id="4653" name="公告" />
+<column id="5046" name="通告" />
+<column id="5177" name="通知" />
+<column id="5308" name="通报" />
+<column id="5439" name="议案" />
+<column id="5570" name="报告" />
+<column id="5701" name="请示" />
+<column id="5832" name="批复" />
+<column id="5963" name="意见" />
+<column id="6094" name="函" />
+<column id="6225" name="会议纪要" />
+</column>
+<column id="2819" name="动态信息" >
+<column id="6487" name="工作动态" />
+<column id="6618" name="重要会议" />
+<column id="6749" name="执法监督" />
+<column id="6880" name="统计数据" />
+<column id="7011" name="公示公告" />
+<column id="7142" name="政策解读" />
+<column id="7273" name="其他" />
+</column>
+<column id="2950" name="突发公共事件" >
+<column id="7404" name="应急预案" />
+<column id="7535" name="应急预警" />
+<column id="7666" name="应对情况" />
+<column id="7797" name="其他" />
+</column>
+<column id="3081" name="财政信息" >
+<column id="7928" name="财政预算决算" />
+<column id="8059" name="专项资金" />
+<column id="8190" name="政府采购与招投标" />
+<column id="8321" name="其他" />
+</column>
+<column id="3212" name="重大项目" >
+<column id="8452" name="项目审批及实施情况" />
+<column id="8583" name="其他" />
+</column>
+<column id="3343" name="行政权力" >
+<column id="8714" name="办事指南" />
+<column id="8845" name="行政事业性收费" />
+<column id="8976" name="办理情况" />
+<column id="9107" name="其他" />
+</column>
+<column id="3474" name="便民服务" />
+<column id="3605" name="其他" />
+</column>
+<column id="2427" name="08C海关" >
+<column id="2689" name="政府文件" >
+<column id="4392" name="命令" />
+<column id="4523" name="决定" />
+<column id="4654" name="公告" />
+<column id="5047" name="通告" />
+<column id="5178" name="通知" />
+<column id="5309" name="通报" />
+<column id="5440" name="议案" />
+<column id="5571" name="报告" />
+<column id="5702" name="请示" />
+<column id="5833" name="批复" />
+<column id="5964" name="意见" />
+<column id="6095" name="函" />
+<column id="6226" name="会议纪要" />
+</column>
+<column id="2820" name="动态信息" >
+<column id="6488" name="工作动态" />
+<column id="6619" name="重要会议" />
+<column id="6750" name="执法监督" />
+<column id="6881" name="统计数据" />
+<column id="7012" name="公示公告" />
+<column id="7143" name="政策解读" />
+<column id="7274" name="其他" />
+</column>
+<column id="2951" name="突发公共事件" >
+<column id="7405" name="应急预案" />
+<column id="7536" name="应急预警" />
+<column id="7667" name="应对情况" />
+<column id="7798" name="其他" />
+</column>
+<column id="3082" name="财政信息" >
+<column id="7929" name="财政预算决算" />
+<column id="8060" name="专项资金" />
+<column id="8191" name="政府采购与招投标" />
+<column id="8322" name="其他" />
+</column>
+<column id="3213" name="重大项目" >
+<column id="8453" name="项目审批及实施情况" />
+<column id="8584" name="其他" />
+</column>
+<column id="3344" name="行政权力" >
+<column id="8715" name="办事指南" />
+<column id="8846" name="行政事业性收费" />
+<column id="8977" name="办理情况" />
+<column id="9108" name="其他" />
+</column>
+<column id="3475" name="便民服务" />
+<column id="3606" name="其他" />
+</column>
+<column id="2428" name="08D检验、检疫" >
+<column id="2690" name="政府文件" >
+<column id="4393" name="命令" />
+<column id="4524" name="决定" />
+<column id="4655" name="公告" />
+<column id="5048" name="通告" />
+<column id="5179" name="通知" />
+<column id="5310" name="通报" />
+<column id="5441" name="议案" />
+<column id="5572" name="报告" />
+<column id="5703" name="请示" />
+<column id="5834" name="批复" />
+<column id="5965" name="意见" />
+<column id="6096" name="函" />
+<column id="6227" name="会议纪要" />
+</column>
+<column id="2821" name="动态信息" >
+<column id="6489" name="工作动态" />
+<column id="6620" name="重要会议" />
+<column id="6751" name="执法监督" />
+<column id="6882" name="统计数据" />
+<column id="7013" name="公示公告" />
+<column id="7144" name="政策解读" />
+<column id="7275" name="其他" />
+</column>
+<column id="2952" name="突发公共事件" >
+<column id="7406" name="应急预案" />
+<column id="7537" name="应急预警" />
+<column id="7668" name="应对情况" />
+<column id="7799" name="其他" />
+</column>
+<column id="3083" name="财政信息" >
+<column id="7930" name="财政预算决算" />
+<column id="8061" name="专项资金" />
+<column id="8192" name="政府采购与招投标" />
+<column id="8323" name="其他" />
+</column>
+<column id="3214" name="重大项目" >
+<column id="8454" name="项目审批及实施情况" />
+<column id="8585" name="其他" />
+</column>
+<column id="3345" name="行政权力" >
+<column id="8716" name="办事指南" />
+<column id="8847" name="行政事业性收费" />
+<column id="8978" name="办理情况" />
+<column id="9109" name="其他" />
+</column>
+<column id="3476" name="便民服务" />
+<column id="3607" name="其他" />
+</column>
+<column id="2429" name="08E旅游、服务业" >
+<column id="2691" name="政府文件" >
+<column id="4394" name="命令" />
+<column id="4525" name="决定" />
+<column id="4656" name="公告" />
+<column id="5049" name="通告" />
+<column id="5180" name="通知" />
+<column id="5311" name="通报" />
+<column id="5442" name="议案" />
+<column id="5573" name="报告" />
+<column id="5704" name="请示" />
+<column id="5835" name="批复" />
+<column id="5966" name="意见" />
+<column id="6097" name="函" />
+<column id="6228" name="会议纪要" />
+</column>
+<column id="2822" name="动态信息" >
+<column id="6490" name="工作动态" />
+<column id="6621" name="重要会议" />
+<column id="6752" name="执法监督" />
+<column id="6883" name="统计数据" />
+<column id="7014" name="公示公告" />
+<column id="7145" name="政策解读" />
+<column id="7276" name="其他" />
+</column>
+<column id="2953" name="突发公共事件" >
+<column id="7407" name="应急预案" />
+<column id="7538" name="应急预警" />
+<column id="7669" name="应对情况" />
+<column id="7800" name="其他" />
+</column>
+<column id="3084" name="财政信息" >
+<column id="7931" name="财政预算决算" />
+<column id="8062" name="专项资金" />
+<column id="8193" name="政府采购与招投标" />
+<column id="8324" name="其他" />
+</column>
+<column id="3215" name="重大项目" >
+<column id="8455" name="项目审批及实施情况" />
+<column id="8586" name="其他" />
+</column>
+<column id="3346" name="行政权力" >
+<column id="8717" name="办事指南" />
+<column id="8848" name="行政事业性收费" />
+<column id="8979" name="办理情况" />
+<column id="9110" name="其他" />
+</column>
+<column id="3477" name="便民服务" />
+<column id="3608" name="其他" />
+</column>
+<column id="2430" name="08Z其他" >
+<column id="2692" name="政府文件" >
+<column id="4395" name="命令" />
+<column id="4526" name="决定" />
+<column id="4657" name="公告" />
+<column id="5050" name="通告" />
+<column id="5181" name="通知" />
+<column id="5312" name="通报" />
+<column id="5443" name="议案" />
+<column id="5574" name="报告" />
+<column id="5705" name="请示" />
+<column id="5836" name="批复" />
+<column id="5967" name="意见" />
+<column id="6098" name="函" />
+<column id="6229" name="会议纪要" />
+</column>
+<column id="2823" name="动态信息" >
+<column id="6491" name="工作动态" />
+<column id="6622" name="重要会议" />
+<column id="6753" name="执法监督" />
+<column id="6884" name="统计数据" />
+<column id="7015" name="公示公告" />
+<column id="7146" name="政策解读" />
+<column id="7277" name="其他" />
+</column>
+<column id="2954" name="突发公共事件" >
+<column id="7408" name="应急预案" />
+<column id="7539" name="应急预警" />
+<column id="7670" name="应对情况" />
+<column id="7801" name="其他" />
+</column>
+<column id="3085" name="财政信息" >
+<column id="7932" name="财政预算决算" />
+<column id="8063" name="专项资金" />
+<column id="8194" name="政府采购与招投标" />
+<column id="8325" name="其他" />
+</column>
+<column id="3216" name="重大项目" >
+<column id="8456" name="项目审批及实施情况" />
+<column id="8587" name="其他" />
+</column>
+<column id="3347" name="行政权力" >
+<column id="8718" name="办事指南" />
+<column id="8849" name="行政事业性收费" />
+<column id="8980" name="办理情况" />
+<column id="9111" name="其他" />
+</column>
+<column id="3478" name="便民服务" />
+<column id="3609" name="其他" />
+</column>
+<column id="9251" name="08F博览事务" >
+<column id="9252" name="政府文件" >
+<column id="9260" name="命令" />
+<column id="9261" name="决定" />
+<column id="9262" name="公告" />
+<column id="9263" name="通告" />
+<column id="9264" name="通知" />
+<column id="9265" name="通报" />
+<column id="9266" name="议案" />
+<column id="9267" name="报告" />
+<column id="9268" name="请示" />
+<column id="9269" name="批复" />
+<column id="9270" name="意见" />
+<column id="9271" name="函" />
+<column id="9272" name="会议纪要" />
+</column>
+<column id="9253" name="动态信息" >
+<column id="9273" name="工作动态" />
+<column id="9274" name="重要会议" />
+<column id="9275" name="执法监督" />
+<column id="9276" name="统计数据" />
+<column id="9277" name="公示公告" />
+<column id="9278" name="政策解读" />
+<column id="9279" name="其他" />
+</column>
+<column id="9254" name="突发公共事件" >
+<column id="9280" name="应急预案" />
+<column id="9281" name="应急预警" />
+<column id="9282" name="应对情况" />
+<column id="9283" name="其他" />
+</column>
+<column id="9255" name="财政信息" >
+<column id="9284" name="财政预算决算" />
+<column id="9285" name="专项资金" />
+<column id="9286" name="政府采购与招投标" />
+<column id="9287" name="其他" />
+</column>
+<column id="9256" name="重大项目" >
+<column id="9288" name="项目审批及实施情况" />
+<column id="9289" name="其他" />
+</column>
+<column id="9257" name="行政权力" >
+<column id="9290" name="办事指南" />
+<column id="9291" name="行政事业性收费" />
+<column id="9292" name="办理情况" />
+<column id="9293" name="其他" />
+</column>
+<column id="9258" name="便民服务" />
+<column id="9259" name="其他" />
+</column>
+<column id="9295" name="08G 招商引资、区域合作" >
+<column id="9296" name="政府文件" >
+<column id="9304" name="命令" />
+<column id="9305" name="决定" />
+<column id="9306" name="公告" />
+<column id="9307" name="通告" />
+<column id="9308" name="通知" />
+<column id="9309" name="通报" />
+<column id="9310" name="议案" />
+<column id="9311" name="报告" />
+<column id="9312" name="请示" />
+<column id="9313" name="批复" />
+<column id="9314" name="意见" />
+<column id="9315" name="函" />
+<column id="9316" name="会议纪要" />
+</column>
+<column id="9297" name="动态信息" >
+<column id="9317" name="工作动态" />
+<column id="9318" name="重要会议" />
+<column id="9319" name="执法监督" />
+<column id="9320" name="统计数据" />
+<column id="9321" name="公示公告" />
+<column id="9322" name="政策解读" />
+<column id="9323" name="其他" />
+</column>
+<column id="9298" name="突发公共事件" >
+<column id="9324" name="应急预案" />
+<column id="9325" name="应急预警" />
+<column id="9326" name="应对情况" />
+<column id="9327" name="其他" />
+</column>
+<column id="9299" name="财政信息" >
+<column id="9328" name="财政预算决算" />
+<column id="9329" name="专项资金" />
+<column id="9330" name="政府采购与招投标" />
+<column id="9331" name="其他" />
+</column>
+<column id="9300" name="重大项目" >
+<column id="9332" name="项目审批及实施情况" />
+<column id="9333" name="其他" />
+</column>
+<column id="9301" name="行政权力" >
+<column id="9334" name="办事指南" />
+<column id="9335" name="行政事业性收费" />
+<column id="9336" name="办理情况" />
+<column id="9337" name="其他" />
+</column>
+<column id="9302" name="便民服务" />
+<column id="9303" name="其他" />
+</column>
+</column>
+<column id="129" name="市场监管、安全生产监管" >
+<column id="130" name="09A工商" >
+<column id="2645" name="政府文件" >
+<column id="4348" name="命令" />
+<column id="4479" name="决定" />
+<column id="4610" name="公告" />
+<column id="5003" name="通告" />
+<column id="5134" name="通知" />
+<column id="5265" name="通报" />
+<column id="5396" name="议案" />
+<column id="5527" name="报告" />
+<column id="5658" name="请示" />
+<column id="5789" name="批复" />
+<column id="5920" name="意见" />
+<column id="6051" name="函" />
+<column id="6182" name="会议纪要" />
+</column>
+<column id="2776" name="动态信息" >
+<column id="6444" name="工作动态" />
+<column id="6575" name="重要会议" />
+<column id="6706" name="执法监督" />
+<column id="6837" name="统计数据" />
+<column id="6968" name="公示公告" />
+<column id="7099" name="政策解读" />
+<column id="7230" name="其他" />
+</column>
+<column id="2907" name="突发公共事件" >
+<column id="7361" name="应急预案" />
+<column id="7492" name="应急预警" />
+<column id="7623" name="应对情况" />
+<column id="7754" name="其他" />
+</column>
+<column id="3038" name="财政信息" >
+<column id="7885" name="财政预算决算" />
+<column id="8016" name="专项资金" />
+<column id="8147" name="政府采购与招投标" />
+<column id="8278" name="其他" />
+</column>
+<column id="3169" name="重大项目" >
+<column id="8409" name="项目审批及实施情况" />
+<column id="8540" name="其他" />
+</column>
+<column id="3300" name="行政权力" >
+<column id="8671" name="办事指南" />
+<column id="8802" name="行政事业性收费" />
+<column id="8933" name="办理情况" />
+<column id="9064" name="其他" />
+</column>
+<column id="3431" name="便民服务" />
+<column id="3562" name="其他" />
+</column>
+<column id="2431" name="09B质量监督" >
+<column id="2693" name="政府文件" >
+<column id="4396" name="命令" />
+<column id="4527" name="决定" />
+<column id="4658" name="公告" />
+<column id="5051" name="通告" />
+<column id="5182" name="通知" />
+<column id="5313" name="通报" />
+<column id="5444" name="议案" />
+<column id="5575" name="报告" />
+<column id="5706" name="请示" />
+<column id="5837" name="批复" />
+<column id="5968" name="意见" />
+<column id="6099" name="函" />
+<column id="6230" name="会议纪要" />
+</column>
+<column id="2824" name="动态信息" >
+<column id="6492" name="工作动态" />
+<column id="6623" name="重要会议" />
+<column id="6754" name="执法监督" />
+<column id="6885" name="统计数据" />
+<column id="7016" name="公示公告" />
+<column id="7147" name="政策解读" />
+<column id="7278" name="其他" />
+</column>
+<column id="2955" name="突发公共事件" >
+<column id="7409" name="应急预案" />
+<column id="7540" name="应急预警" />
+<column id="7671" name="应对情况" />
+<column id="7802" name="其他" />
+</column>
+<column id="3086" name="财政信息" >
+<column id="7933" name="财政预算决算" />
+<column id="8064" name="专项资金" />
+<column id="8195" name="政府采购与招投标" />
+<column id="8326" name="其他" />
+</column>
+<column id="3217" name="重大项目" >
+<column id="8457" name="项目审批及实施情况" />
+<column id="8588" name="其他" />
+</column>
+<column id="3348" name="行政权力" >
+<column id="8719" name="办事指南" />
+<column id="8850" name="行政事业性收费" />
+<column id="8981" name="办理情况" />
+<column id="9112" name="其他" />
+</column>
+<column id="3479" name="便民服务" />
+<column id="3610" name="其他" />
+</column>
+<column id="2432" name="09C标准" >
+<column id="2694" name="政府文件" >
+<column id="4397" name="命令" />
+<column id="4528" name="决定" />
+<column id="4659" name="公告" />
+<column id="5052" name="通告" />
+<column id="5183" name="通知" />
+<column id="5314" name="通报" />
+<column id="5445" name="议案" />
+<column id="5576" name="报告" />
+<column id="5707" name="请示" />
+<column id="5838" name="批复" />
+<column id="5969" name="意见" />
+<column id="6100" name="函" />
+<column id="6231" name="会议纪要" />
+</column>
+<column id="2825" name="动态信息" >
+<column id="6493" name="工作动态" />
+<column id="6624" name="重要会议" />
+<column id="6755" name="执法监督" />
+<column id="6886" name="统计数据" />
+<column id="7017" name="公示公告" />
+<column id="7148" name="政策解读" />
+<column id="7279" name="其他" />
+</column>
+<column id="2956" name="突发公共事件" >
+<column id="7410" name="应急预案" />
+<column id="7541" name="应急预警" />
+<column id="7672" name="应对情况" />
+<column id="7803" name="其他" />
+</column>
+<column id="3087" name="财政信息" >
+<column id="7934" name="财政预算决算" />
+<column id="8065" name="专项资金" />
+<column id="8196" name="政府采购与招投标" />
+<column id="8327" name="其他" />
+</column>
+<column id="3218" name="重大项目" >
+<column id="8458" name="项目审批及实施情况" />
+<column id="8589" name="其他" />
+</column>
+<column id="3349" name="行政权力" >
+<column id="8720" name="办事指南" />
+<column id="8851" name="行政事业性收费" />
+<column id="8982" name="办理情况" />
+<column id="9113" name="其他" />
+</column>
+<column id="3480" name="便民服务" />
+<column id="3611" name="其他" />
+</column>
+<column id="2433" name="09D食品药品监管" >
+<column id="2695" name="政府文件" >
+<column id="4398" name="命令" />
+<column id="4529" name="决定" />
+<column id="4660" name="公告" />
+<column id="5053" name="通告" />
+<column id="5184" name="通知" />
+<column id="5315" name="通报" />
+<column id="5446" name="议案" />
+<column id="5577" name="报告" />
+<column id="5708" name="请示" />
+<column id="5839" name="批复" />
+<column id="5970" name="意见" />
+<column id="6101" name="函" />
+<column id="6232" name="会议纪要" />
+</column>
+<column id="2826" name="动态信息" >
+<column id="6494" name="工作动态" />
+<column id="6625" name="重要会议" />
+<column id="6756" name="执法监督" />
+<column id="6887" name="统计数据" />
+<column id="7018" name="公示公告" />
+<column id="7149" name="政策解读" />
+<column id="7280" name="其他" />
+</column>
+<column id="2957" name="突发公共事件" >
+<column id="7411" name="应急预案" />
+<column id="7542" name="应急预警" />
+<column id="7673" name="应对情况" />
+<column id="7804" name="其他" />
+</column>
+<column id="3088" name="财政信息" >
+<column id="7935" name="财政预算决算" />
+<column id="8066" name="专项资金" />
+<column id="8197" name="政府采购与招投标" />
+<column id="8328" name="其他" />
+</column>
+<column id="3219" name="重大项目" >
+<column id="8459" name="项目审批及实施情况" />
+<column id="8590" name="其他" />
+</column>
+<column id="3350" name="行政权力" >
+<column id="8721" name="办事指南" />
+<column id="8852" name="行政事业性收费" />
+<column id="8983" name="办理情况" />
+<column id="9114" name="其他" />
+</column>
+<column id="3481" name="便民服务" />
+<column id="3612" name="其他" />
+</column>
+<column id="2434" name="09E安全生产监管" >
+<column id="2696" name="政府文件" >
+<column id="4399" name="命令" />
+<column id="4530" name="决定" />
+<column id="4661" name="公告" />
+<column id="5054" name="通告" />
+<column id="5185" name="通知" />
+<column id="5316" name="通报" />
+<column id="5447" name="议案" />
+<column id="5578" name="报告" />
+<column id="5709" name="请示" />
+<column id="5840" name="批复" />
+<column id="5971" name="意见" />
+<column id="6102" name="函" />
+<column id="6233" name="会议纪要" />
+</column>
+<column id="2827" name="动态信息" >
+<column id="6495" name="工作动态" />
+<column id="6626" name="重要会议" />
+<column id="6757" name="执法监督" />
+<column id="6888" name="统计数据" />
+<column id="7019" name="公示公告" />
+<column id="7150" name="政策解读" />
+<column id="7281" name="其他" />
+</column>
+<column id="2958" name="突发公共事件" >
+<column id="7412" name="应急预案" />
+<column id="7543" name="应急预警" />
+<column id="7674" name="应对情况" />
+<column id="7805" name="其他" />
+</column>
+<column id="3089" name="财政信息" >
+<column id="7936" name="财政预算决算" />
+<column id="8067" name="专项资金" />
+<column id="8198" name="政府采购与招投标" />
+<column id="8329" name="其他" />
+</column>
+<column id="3220" name="重大项目" >
+<column id="8460" name="项目审批及实施情况" />
+<column id="8591" name="其他" />
+</column>
+<column id="3351" name="行政权力" >
+<column id="8722" name="办事指南" />
+<column id="8853" name="行政事业性收费" />
+<column id="8984" name="办理情况" />
+<column id="9115" name="其他" />
+</column>
+<column id="3482" name="便民服务" />
+<column id="3613" name="其他" />
+</column>
+<column id="2435" name="09Z其他" >
+<column id="2697" name="政府文件" >
+<column id="4400" name="命令" />
+<column id="4531" name="决定" />
+<column id="4662" name="公告" />
+<column id="5055" name="通告" />
+<column id="5186" name="通知" />
+<column id="5317" name="通报" />
+<column id="5448" name="议案" />
+<column id="5579" name="报告" />
+<column id="5710" name="请示" />
+<column id="5841" name="批复" />
+<column id="5972" name="意见" />
+<column id="6103" name="函" />
+<column id="6234" name="会议纪要" />
+</column>
+<column id="2828" name="动态信息" >
+<column id="6496" name="工作动态" />
+<column id="6627" name="重要会议" />
+<column id="6758" name="执法监督" />
+<column id="6889" name="统计数据" />
+<column id="7020" name="公示公告" />
+<column id="7151" name="政策解读" />
+<column id="7282" name="其他" />
+</column>
+<column id="2959" name="突发公共事件" >
+<column id="7413" name="应急预案" />
+<column id="7544" name="应急预警" />
+<column id="7675" name="应对情况" />
+<column id="7806" name="其他" />
+</column>
+<column id="3090" name="财政信息" >
+<column id="7937" name="财政预算决算" />
+<column id="8068" name="专项资金" />
+<column id="8199" name="政府采购与招投标" />
+<column id="8330" name="其他" />
+</column>
+<column id="3221" name="重大项目" >
+<column id="8461" name="项目审批及实施情况" />
+<column id="8592" name="其他" />
+</column>
+<column id="3352" name="行政权力" >
+<column id="8723" name="办事指南" />
+<column id="8854" name="行政事业性收费" />
+<column id="8985" name="办理情况" />
+<column id="9116" name="其他" />
+</column>
+<column id="3483" name="便民服务" />
+<column id="3614" name="其他" />
+</column>
+</column>
+<column id="131" name="城乡建设、环境保护" >
+<column id="132" name="10A建设规划" >
+<column id="2646" name="政府文件" >
+<column id="4349" name="命令" />
+<column id="4480" name="决定" />
+<column id="4611" name="公告" />
+<column id="5004" name="通告" />
+<column id="5135" name="通知" />
+<column id="5266" name="通报" />
+<column id="5397" name="议案" />
+<column id="5528" name="报告" />
+<column id="5659" name="请示" />
+<column id="5790" name="批复" />
+<column id="5921" name="意见" />
+<column id="6052" name="函" />
+<column id="6183" name="会议纪要" />
+</column>
+<column id="2777" name="动态信息" >
+<column id="6445" name="工作动态" />
+<column id="6576" name="重要会议" />
+<column id="6707" name="执法监督" />
+<column id="6838" name="统计数据" />
+<column id="6969" name="公示公告" />
+<column id="7100" name="政策解读" />
+<column id="7231" name="其他" />
+</column>
+<column id="2908" name="突发公共事件" >
+<column id="7362" name="应急预案" />
+<column id="7493" name="应急预警" />
+<column id="7624" name="应对情况" />
+<column id="7755" name="其他" />
+</column>
+<column id="3039" name="财政信息" >
+<column id="7886" name="财政预算决算" />
+<column id="8017" name="专项资金" />
+<column id="8148" name="政府采购与招投标" />
+<column id="8279" name="其他" />
+</column>
+<column id="3170" name="重大项目" >
+<column id="8410" name="项目审批及实施情况" />
+<column id="8541" name="其他" />
+</column>
+<column id="3301" name="行政权力" >
+<column id="8672" name="办事指南" />
+<column id="8803" name="行政事业性收费" />
+<column id="8934" name="办理情况" />
+<column id="9065" name="其他" />
+</column>
+<column id="3432" name="便民服务" />
+<column id="3563" name="其他" />
+</column>
+<column id="2436" name="10B城乡建设（含住房）" >
+<column id="2698" name="政府文件" >
+<column id="4401" name="命令" />
+<column id="4532" name="决定" />
+<column id="4663" name="公告" />
+<column id="5056" name="通告" />
+<column id="5187" name="通知" />
+<column id="5318" name="通报" />
+<column id="5449" name="议案" />
+<column id="5580" name="报告" />
+<column id="5711" name="请示" />
+<column id="5842" name="批复" />
+<column id="5973" name="意见" />
+<column id="6104" name="函" />
+<column id="6235" name="会议纪要" />
+</column>
+<column id="2829" name="动态信息" >
+<column id="6497" name="工作动态" />
+<column id="6628" name="重要会议" />
+<column id="6759" name="执法监督" />
+<column id="6890" name="统计数据" />
+<column id="7021" name="公示公告" />
+<column id="7152" name="政策解读" />
+<column id="7283" name="其他" />
+</column>
+<column id="2960" name="突发公共事件" >
+<column id="7414" name="应急预案" />
+<column id="7545" name="应急预警" />
+<column id="7676" name="应对情况" />
+<column id="7807" name="其他" />
+</column>
+<column id="3091" name="财政信息" >
+<column id="7938" name="财政预算决算" />
+<column id="8069" name="专项资金" />
+<column id="8200" name="政府采购与招投标" />
+<column id="8331" name="其他" />
+</column>
+<column id="3222" name="重大项目" >
+<column id="8462" name="项目审批及实施情况" />
+<column id="8593" name="其他" />
+</column>
+<column id="3353" name="行政权力" >
+<column id="8724" name="办事指南" />
+<column id="8855" name="行政事业性收费" />
+<column id="8986" name="办理情况" />
+<column id="9117" name="其他" />
+</column>
+<column id="3484" name="便民服务" />
+<column id="3615" name="其他" />
+</column>
+<column id="2437" name="10C环境监测、保护与治理" >
+<column id="2699" name="政府文件" >
+<column id="4402" name="命令" />
+<column id="4533" name="决定" />
+<column id="4664" name="公告" />
+<column id="5057" name="通告" />
+<column id="5188" name="通知" />
+<column id="5319" name="通报" />
+<column id="5450" name="议案" />
+<column id="5581" name="报告" />
+<column id="5712" name="请示" />
+<column id="5843" name="批复" />
+<column id="5974" name="意见" />
+<column id="6105" name="函" />
+<column id="6236" name="会议纪要" />
+</column>
+<column id="2830" name="动态信息" >
+<column id="6498" name="工作动态" />
+<column id="6629" name="重要会议" />
+<column id="6760" name="执法监督" />
+<column id="6891" name="统计数据" />
+<column id="7022" name="公示公告" />
+<column id="7153" name="政策解读" />
+<column id="7284" name="其他" />
+</column>
+<column id="2961" name="突发公共事件" >
+<column id="7415" name="应急预案" />
+<column id="7546" name="应急预警" />
+<column id="7677" name="应对情况" />
+<column id="7808" name="其他" />
+</column>
+<column id="3092" name="财政信息" >
+<column id="7939" name="财政预算决算" />
+<column id="8070" name="专项资金" />
+<column id="8201" name="政府采购与招投标" />
+<column id="8332" name="其他" />
+</column>
+<column id="3223" name="重大项目" >
+<column id="8463" name="项目审批及实施情况" />
+<column id="8594" name="其他" />
+</column>
+<column id="3354" name="行政权力" >
+<column id="8725" name="办事指南" />
+<column id="8856" name="行政事业性收费" />
+<column id="8987" name="办理情况" />
+<column id="9118" name="其他" />
+</column>
+<column id="3485" name="便民服务" />
+<column id="3616" name="其他" />
+</column>
+<column id="2438" name="10D节能与资源综合利用" >
+<column id="2700" name="政府文件" >
+<column id="4403" name="命令" />
+<column id="4534" name="决定" />
+<column id="4665" name="公告" />
+<column id="5058" name="通告" />
+<column id="5189" name="通知" />
+<column id="5320" name="通报" />
+<column id="5451" name="议案" />
+<column id="5582" name="报告" />
+<column id="5713" name="请示" />
+<column id="5844" name="批复" />
+<column id="5975" name="意见" />
+<column id="6106" name="函" />
+<column id="6237" name="会议纪要" />
+</column>
+<column id="2831" name="动态信息" >
+<column id="6499" name="工作动态" />
+<column id="6630" name="重要会议" />
+<column id="6761" name="执法监督" />
+<column id="6892" name="统计数据" />
+<column id="7023" name="公示公告" />
+<column id="7154" name="政策解读" />
+<column id="7285" name="其他" />
+</column>
+<column id="2962" name="突发公共事件" >
+<column id="7416" name="应急预案" />
+<column id="7547" name="应急预警" />
+<column id="7678" name="应对情况" />
+<column id="7809" name="其他" />
+</column>
+<column id="3093" name="财政信息" >
+<column id="7940" name="财政预算决算" />
+<column id="8071" name="专项资金" />
+<column id="8202" name="政府采购与招投标" />
+<column id="8333" name="其他" />
+</column>
+<column id="3224" name="重大项目" >
+<column id="8464" name="项目审批及实施情况" />
+<column id="8595" name="其他" />
+</column>
+<column id="3355" name="行政权力" >
+<column id="8726" name="办事指南" />
+<column id="8857" name="行政事业性收费" />
+<column id="8988" name="办理情况" />
+<column id="9119" name="其他" />
+</column>
+<column id="3486" name="便民服务" />
+<column id="3617" name="其他" />
+</column>
+<column id="2439" name="10E气象、水文、测绘、地震" >
+<column id="2701" name="政府文件" >
+<column id="4404" name="命令" />
+<column id="4535" name="决定" />
+<column id="4666" name="公告" />
+<column id="5059" name="通告" />
+<column id="5190" name="通知" />
+<column id="5321" name="通报" />
+<column id="5452" name="议案" />
+<column id="5583" name="报告" />
+<column id="5714" name="请示" />
+<column id="5845" name="批复" />
+<column id="5976" name="意见" />
+<column id="6107" name="函" />
+<column id="6238" name="会议纪要" />
+</column>
+<column id="2832" name="动态信息" >
+<column id="6500" name="工作动态" />
+<column id="6631" name="重要会议" />
+<column id="6762" name="执法监督" />
+<column id="6893" name="统计数据" />
+<column id="7024" name="公示公告" />
+<column id="7155" name="政策解读" />
+<column id="7286" name="其他" />
+</column>
+<column id="2963" name="突发公共事件" >
+<column id="7417" name="应急预案" />
+<column id="7548" name="应急预警" />
+<column id="7679" name="应对情况" />
+<column id="7810" name="其他" />
+</column>
+<column id="3094" name="财政信息" >
+<column id="7941" name="财政预算决算" />
+<column id="8072" name="专项资金" />
+<column id="8203" name="政府采购与招投标" />
+<column id="8334" name="其他" />
+</column>
+<column id="3225" name="重大项目" >
+<column id="8465" name="项目审批及实施情况" />
+<column id="8596" name="其他" />
+</column>
+<column id="3356" name="行政权力" >
+<column id="8727" name="办事指南" />
+<column id="8858" name="行政事业性收费" />
+<column id="8989" name="办理情况" />
+<column id="9120" name="其他" />
+</column>
+<column id="3487" name="便民服务" />
+<column id="3618" name="其他" />
+</column>
+<column id="2440" name="10Z其他" >
+<column id="2702" name="政府文件" >
+<column id="4405" name="命令" />
+<column id="4536" name="决定" />
+<column id="4667" name="公告" />
+<column id="5060" name="通告" />
+<column id="5191" name="通知" />
+<column id="5322" name="通报" />
+<column id="5453" name="议案" />
+<column id="5584" name="报告" />
+<column id="5715" name="请示" />
+<column id="5846" name="批复" />
+<column id="5977" name="意见" />
+<column id="6108" name="函" />
+<column id="6239" name="会议纪要" />
+</column>
+<column id="2833" name="动态信息" >
+<column id="6501" name="工作动态" />
+<column id="6632" name="重要会议" />
+<column id="6763" name="执法监督" />
+<column id="6894" name="统计数据" />
+<column id="7025" name="公示公告" />
+<column id="7156" name="政策解读" />
+<column id="7287" name="其他" />
+</column>
+<column id="2964" name="突发公共事件" >
+<column id="7418" name="应急预案" />
+<column id="7549" name="应急预警" />
+<column id="7680" name="应对情况" />
+<column id="7811" name="其他" />
+</column>
+<column id="3095" name="财政信息" >
+<column id="7942" name="财政预算决算" />
+<column id="8073" name="专项资金" />
+<column id="8204" name="政府采购与招投标" />
+<column id="8335" name="其他" />
+</column>
+<column id="3226" name="重大项目" >
+<column id="8466" name="项目审批及实施情况" />
+<column id="8597" name="其他" />
+</column>
+<column id="3357" name="行政权力" >
+<column id="8728" name="办事指南" />
+<column id="8859" name="行政事业性收费" />
+<column id="8990" name="办理情况" />
+<column id="9121" name="其他" />
+</column>
+<column id="3488" name="便民服务" />
+<column id="3619" name="其他" />
+</column>
+</column>
+<column id="133" name="科技、教育" >
+<column id="134" name="11A科技" >
+<column id="2647" name="政府文件" >
+<column id="4350" name="命令" />
+<column id="4481" name="决定" />
+<column id="4612" name="公告" />
+<column id="5005" name="通告" />
+<column id="5136" name="通知" />
+<column id="5267" name="通报" />
+<column id="5398" name="议案" />
+<column id="5529" name="报告" />
+<column id="5660" name="请示" />
+<column id="5791" name="批复" />
+<column id="5922" name="意见" />
+<column id="6053" name="函" />
+<column id="6184" name="会议纪要" />
+</column>
+<column id="2778" name="动态信息" >
+<column id="6446" name="工作动态" />
+<column id="6577" name="重要会议" />
+<column id="6708" name="执法监督" />
+<column id="6839" name="统计数据" />
+<column id="6970" name="公示公告" />
+<column id="7101" name="政策解读" />
+<column id="7232" name="其他" />
+</column>
+<column id="2909" name="突发公共事件" >
+<column id="7363" name="应急预案" />
+<column id="7494" name="应急预警" />
+<column id="7625" name="应对情况" />
+<column id="7756" name="其他" />
+</column>
+<column id="3040" name="财政信息" >
+<column id="7887" name="财政预算决算" />
+<column id="8018" name="专项资金" />
+<column id="8149" name="政府采购与招投标" />
+<column id="8280" name="其他" />
+</column>
+<column id="3171" name="重大项目" >
+<column id="8411" name="项目审批及实施情况" />
+<column id="8542" name="其他" />
+</column>
+<column id="3302" name="行政权力" >
+<column id="8673" name="办事指南" />
+<column id="8804" name="行政事业性收费" />
+<column id="8935" name="办理情况" />
+<column id="9066" name="其他" />
+</column>
+<column id="3433" name="便民服务" />
+<column id="3564" name="其他" />
+</column>
+<column id="2442" name="11B教育" >
+<column id="2704" name="政府文件" >
+<column id="4407" name="命令" />
+<column id="4538" name="决定" />
+<column id="4669" name="公告" />
+<column id="5062" name="通告" />
+<column id="5193" name="通知" />
+<column id="5324" name="通报" />
+<column id="5455" name="议案" />
+<column id="5586" name="报告" />
+<column id="5717" name="请示" />
+<column id="5848" name="批复" />
+<column id="5979" name="意见" />
+<column id="6110" name="函" />
+<column id="6241" name="会议纪要" />
+</column>
+<column id="2835" name="动态信息" >
+<column id="6503" name="工作动态" />
+<column id="6634" name="重要会议" />
+<column id="6765" name="执法监督" />
+<column id="6896" name="统计数据" />
+<column id="7027" name="公示公告" />
+<column id="7158" name="政策解读" />
+<column id="7289" name="其他" />
+</column>
+<column id="2966" name="突发公共事件" >
+<column id="7420" name="应急预案" />
+<column id="7551" name="应急预警" />
+<column id="7682" name="应对情况" />
+<column id="7813" name="其他" />
+</column>
+<column id="3097" name="财政信息" >
+<column id="7944" name="财政预算决算" />
+<column id="8075" name="专项资金" />
+<column id="8206" name="政府采购与招投标" />
+<column id="8337" name="其他" />
+</column>
+<column id="3228" name="重大项目" >
+<column id="8468" name="项目审批及实施情况" />
+<column id="8599" name="其他" />
+</column>
+<column id="3359" name="行政权力" >
+<column id="8730" name="办事指南" />
+<column id="8861" name="行政事业性收费" />
+<column id="8992" name="办理情况" />
+<column id="9123" name="其他" />
+</column>
+<column id="3490" name="便民服务" />
+<column id="3621" name="其他" />
+</column>
+<column id="2444" name="11Z其他" >
+<column id="2706" name="政府文件" >
+<column id="4409" name="命令" />
+<column id="4540" name="决定" />
+<column id="4671" name="公告" />
+<column id="5064" name="通告" />
+<column id="5195" name="通知" />
+<column id="5326" name="通报" />
+<column id="5457" name="议案" />
+<column id="5588" name="报告" />
+<column id="5719" name="请示" />
+<column id="5850" name="批复" />
+<column id="5981" name="意见" />
+<column id="6112" name="函" />
+<column id="6243" name="会议纪要" />
+</column>
+<column id="2837" name="动态信息" >
+<column id="6505" name="工作动态" />
+<column id="6636" name="重要会议" />
+<column id="6767" name="执法监督" />
+<column id="6898" name="统计数据" />
+<column id="7029" name="公示公告" />
+<column id="7160" name="政策解读" />
+<column id="7291" name="其他" />
+</column>
+<column id="2968" name="突发公共事件" >
+<column id="7422" name="应急预案" />
+<column id="7553" name="应急预警" />
+<column id="7684" name="应对情况" />
+<column id="7815" name="其他" />
+</column>
+<column id="3099" name="财政信息" >
+<column id="7946" name="财政预算决算" />
+<column id="8077" name="专项资金" />
+<column id="8208" name="政府采购与招投标" />
+<column id="8339" name="其他" />
+</column>
+<column id="3230" name="重大项目" >
+<column id="8470" name="项目审批及实施情况" />
+<column id="8601" name="其他" />
+</column>
+<column id="3361" name="行政权力" >
+<column id="8732" name="办事指南" />
+<column id="8863" name="行政事业性收费" />
+<column id="8994" name="办理情况" />
+<column id="9125" name="其他" />
+</column>
+<column id="3492" name="便民服务" />
+<column id="3623" name="其他" />
+</column>
+<column id="9338" name="11C 知识产权" >
+<column id="9339" name="政府文件" >
+<column id="9347" name="命令" />
+<column id="9348" name="决定" />
+<column id="9349" name="公告" />
+<column id="9350" name="通告" />
+<column id="9351" name="通知" />
+<column id="9352" name="通报" />
+<column id="9353" name="议案" />
+<column id="9354" name="报告" />
+<column id="9355" name="请示" />
+<column id="9356" name="批复" />
+<column id="9357" name="意见" />
+<column id="9358" name="函" />
+<column id="9359" name="会议纪要" />
+</column>
+<column id="9340" name="动态信息" >
+<column id="9360" name="工作动态" />
+<column id="9361" name="重要会议" />
+<column id="9362" name="执法监督" />
+<column id="9363" name="统计数据" />
+<column id="9364" name="公示公告" />
+<column id="9365" name="政策解读" />
+<column id="9366" name="其他" />
+</column>
+<column id="9341" name="突发公共事件" >
+<column id="9367" name="应急预案" />
+<column id="9368" name="应急预警" />
+<column id="9369" name="应对情况" />
+<column id="9370" name="其他" />
+</column>
+<column id="9342" name="财政信息" >
+<column id="9371" name="财政预算决算" />
+<column id="9372" name="专项资金" />
+<column id="9373" name="政府采购与招投标" />
+<column id="9374" name="其他" />
+</column>
+<column id="9343" name="重大项目" >
+<column id="9375" name="项目审批及实施情况" />
+<column id="9376" name="其他" />
+</column>
+<column id="9344" name="行政权力" >
+<column id="9377" name="办事指南" />
+<column id="9378" name="行政事业性收费" />
+<column id="9379" name="办理情况" />
+<column id="9380" name="其他" />
+</column>
+<column id="9345" name="便民服务" />
+<column id="9346" name="其他" />
+</column>
+</column>
+<column id="135" name="文化、广电、新闻出版" >
+<column id="136" name="12A文化" >
+<column id="2648" name="政府文件" >
+<column id="4351" name="命令" />
+<column id="4482" name="决定" />
+<column id="4613" name="公告" />
+<column id="5006" name="通告" />
+<column id="5137" name="通知" />
+<column id="5268" name="通报" />
+<column id="5399" name="议案" />
+<column id="5530" name="报告" />
+<column id="5661" name="请示" />
+<column id="5792" name="批复" />
+<column id="5923" name="意见" />
+<column id="6054" name="函" />
+<column id="6185" name="会议纪要" />
+</column>
+<column id="2779" name="动态信息" >
+<column id="6447" name="工作动态" />
+<column id="6578" name="重要会议" />
+<column id="6709" name="执法监督" />
+<column id="6840" name="统计数据" />
+<column id="6971" name="公示公告" />
+<column id="7102" name="政策解读" />
+<column id="7233" name="其他" />
+</column>
+<column id="2910" name="突发公共事件" >
+<column id="7364" name="应急预案" />
+<column id="7495" name="应急预警" />
+<column id="7626" name="应对情况" />
+<column id="7757" name="其他" />
+</column>
+<column id="3041" name="财政信息" >
+<column id="7888" name="财政预算决算" />
+<column id="8019" name="专项资金" />
+<column id="8150" name="政府采购与招投标" />
+<column id="8281" name="其他" />
+</column>
+<column id="3172" name="重大项目" >
+<column id="8412" name="项目审批及实施情况" />
+<column id="8543" name="其他" />
+</column>
+<column id="3303" name="行政权力" >
+<column id="8674" name="办事指南" />
+<column id="8805" name="行政事业性收费" />
+<column id="8936" name="办理情况" />
+<column id="9067" name="其他" />
+</column>
+<column id="3434" name="便民服务" />
+<column id="3565" name="其他" />
+</column>
+<column id="2453" name="12B文物" >
+<column id="2715" name="政府文件" >
+<column id="4418" name="命令" />
+<column id="4549" name="决定" />
+<column id="4680" name="公告" />
+<column id="5073" name="通告" />
+<column id="5204" name="通知" />
+<column id="5335" name="通报" />
+<column id="5466" name="议案" />
+<column id="5597" name="报告" />
+<column id="5728" name="请示" />
+<column id="5859" name="批复" />
+<column id="5990" name="意见" />
+<column id="6121" name="函" />
+<column id="6252" name="会议纪要" />
+</column>
+<column id="2846" name="动态信息" >
+<column id="6514" name="工作动态" />
+<column id="6645" name="重要会议" />
+<column id="6776" name="执法监督" />
+<column id="6907" name="统计数据" />
+<column id="7038" name="公示公告" />
+<column id="7169" name="政策解读" />
+<column id="7300" name="其他" />
+</column>
+<column id="2977" name="突发公共事件" >
+<column id="7431" name="应急预案" />
+<column id="7562" name="应急预警" />
+<column id="7693" name="应对情况" />
+<column id="7824" name="其他" />
+</column>
+<column id="3108" name="财政信息" >
+<column id="7955" name="财政预算决算" />
+<column id="8086" name="专项资金" />
+<column id="8217" name="政府采购与招投标" />
+<column id="8348" name="其他" />
+</column>
+<column id="3239" name="重大项目" >
+<column id="8479" name="项目审批及实施情况" />
+<column id="8610" name="其他" />
+</column>
+<column id="3370" name="行政权力" >
+<column id="8741" name="办事指南" />
+<column id="8872" name="行政事业性收费" />
+<column id="9003" name="办理情况" />
+<column id="9134" name="其他" />
+</column>
+<column id="3501" name="便民服务" />
+<column id="3632" name="其他" />
+</column>
+<column id="2454" name="12C新闻出版" >
+<column id="2716" name="政府文件" >
+<column id="4419" name="命令" />
+<column id="4550" name="决定" />
+<column id="4681" name="公告" />
+<column id="5074" name="通告" />
+<column id="5205" name="通知" />
+<column id="5336" name="通报" />
+<column id="5467" name="议案" />
+<column id="5598" name="报告" />
+<column id="5729" name="请示" />
+<column id="5860" name="批复" />
+<column id="5991" name="意见" />
+<column id="6122" name="函" />
+<column id="6253" name="会议纪要" />
+</column>
+<column id="2847" name="动态信息" >
+<column id="6515" name="工作动态" />
+<column id="6646" name="重要会议" />
+<column id="6777" name="执法监督" />
+<column id="6908" name="统计数据" />
+<column id="7039" name="公示公告" />
+<column id="7170" name="政策解读" />
+<column id="7301" name="其他" />
+</column>
+<column id="2978" name="突发公共事件" >
+<column id="7432" name="应急预案" />
+<column id="7563" name="应急预警" />
+<column id="7694" name="应对情况" />
+<column id="7825" name="其他" />
+</column>
+<column id="3109" name="财政信息" >
+<column id="7956" name="财政预算决算" />
+<column id="8087" name="专项资金" />
+<column id="8218" name="政府采购与招投标" />
+<column id="8349" name="其他" />
+</column>
+<column id="3240" name="重大项目" >
+<column id="8480" name="项目审批及实施情况" />
+<column id="8611" name="其他" />
+</column>
+<column id="3371" name="行政权力" >
+<column id="8742" name="办事指南" />
+<column id="8873" name="行政事业性收费" />
+<column id="9004" name="办理情况" />
+<column id="9135" name="其他" />
+</column>
+<column id="3502" name="便民服务" />
+<column id="3633" name="其他" />
+</column>
+<column id="2455" name="12D广播、电影、电视" >
+<column id="2717" name="政府文件" >
+<column id="4420" name="命令" />
+<column id="4551" name="决定" />
+<column id="4682" name="公告" />
+<column id="5075" name="通告" />
+<column id="5206" name="通知" />
+<column id="5337" name="通报" />
+<column id="5468" name="议案" />
+<column id="5599" name="报告" />
+<column id="5730" name="请示" />
+<column id="5861" name="批复" />
+<column id="5992" name="意见" />
+<column id="6123" name="函" />
+<column id="6254" name="会议纪要" />
+</column>
+<column id="2848" name="动态信息" >
+<column id="6516" name="工作动态" />
+<column id="6647" name="重要会议" />
+<column id="6778" name="执法监督" />
+<column id="6909" name="统计数据" />
+<column id="7040" name="公示公告" />
+<column id="7171" name="政策解读" />
+<column id="7302" name="其他" />
+</column>
+<column id="2979" name="突发公共事件" >
+<column id="7433" name="应急预案" />
+<column id="7564" name="应急预警" />
+<column id="7695" name="应对情况" />
+<column id="7826" name="其他" />
+</column>
+<column id="3110" name="财政信息" >
+<column id="7957" name="财政预算决算" />
+<column id="8088" name="专项资金" />
+<column id="8219" name="政府采购与招投标" />
+<column id="8350" name="其他" />
+</column>
+<column id="3241" name="重大项目" >
+<column id="8481" name="项目审批及实施情况" />
+<column id="8612" name="其他" />
+</column>
+<column id="3372" name="行政权力" >
+<column id="8743" name="办事指南" />
+<column id="8874" name="行政事业性收费" />
+<column id="9005" name="办理情况" />
+<column id="9136" name="其他" />
+</column>
+<column id="3503" name="便民服务" />
+<column id="3634" name="其他" />
+</column>
+<column id="2456" name="12Z其他" >
+<column id="2718" name="政府文件" >
+<column id="4421" name="命令" />
+<column id="4552" name="决定" />
+<column id="4683" name="公告" />
+<column id="5076" name="通告" />
+<column id="5207" name="通知" />
+<column id="5338" name="通报" />
+<column id="5469" name="议案" />
+<column id="5600" name="报告" />
+<column id="5731" name="请示" />
+<column id="5862" name="批复" />
+<column id="5993" name="意见" />
+<column id="6124" name="函" />
+<column id="6255" name="会议纪要" />
+</column>
+<column id="2849" name="动态信息" >
+<column id="6517" name="工作动态" />
+<column id="6648" name="重要会议" />
+<column id="6779" name="执法监督" />
+<column id="6910" name="统计数据" />
+<column id="7041" name="公示公告" />
+<column id="7172" name="政策解读" />
+<column id="7303" name="其他" />
+</column>
+<column id="2980" name="突发公共事件" >
+<column id="7434" name="应急预案" />
+<column id="7565" name="应急预警" />
+<column id="7696" name="应对情况" />
+<column id="7827" name="其他" />
+</column>
+<column id="3111" name="财政信息" >
+<column id="7958" name="财政预算决算" />
+<column id="8089" name="专项资金" />
+<column id="8220" name="政府采购与招投标" />
+<column id="8351" name="其他" />
+</column>
+<column id="3242" name="重大项目" >
+<column id="8482" name="项目审批及实施情况" />
+<column id="8613" name="其他" />
+</column>
+<column id="3373" name="行政权力" >
+<column id="8744" name="办事指南" />
+<column id="8875" name="行政事业性收费" />
+<column id="9006" name="办理情况" />
+<column id="9137" name="其他" />
+</column>
+<column id="3504" name="便民服务" />
+<column id="3635" name="其他" />
+</column>
+</column>
+<column id="137" name="卫生、体育" >
+<column id="138" name="13A卫生" >
+<column id="2649" name="政府文件" >
+<column id="4352" name="命令" />
+<column id="4483" name="决定" />
+<column id="4614" name="公告" />
+<column id="5007" name="通告" />
+<column id="5138" name="通知" />
+<column id="5269" name="通报" />
+<column id="5400" name="议案" />
+<column id="5531" name="报告" />
+<column id="5662" name="请示" />
+<column id="5793" name="批复" />
+<column id="5924" name="意见" />
+<column id="6055" name="函" />
+<column id="6186" name="会议纪要" />
+</column>
+<column id="2780" name="动态信息" >
+<column id="6448" name="工作动态" />
+<column id="6579" name="重要会议" />
+<column id="6710" name="执法监督" />
+<column id="6841" name="统计数据" />
+<column id="6972" name="公示公告" />
+<column id="7103" name="政策解读" />
+<column id="7234" name="其他" />
+</column>
+<column id="2911" name="突发公共事件" >
+<column id="7365" name="应急预案" />
+<column id="7496" name="应急预警" />
+<column id="7627" name="应对情况" />
+<column id="7758" name="其他" />
+</column>
+<column id="3042" name="财政信息" >
+<column id="7889" name="财政预算决算" />
+<column id="8020" name="专项资金" />
+<column id="8151" name="政府采购与招投标" />
+<column id="8282" name="其他" />
+</column>
+<column id="3173" name="重大项目" >
+<column id="8413" name="项目审批及实施情况" />
+<column id="8544" name="其他" />
+</column>
+<column id="3304" name="行政权力" >
+<column id="8675" name="办事指南" />
+<column id="8806" name="行政事业性收费" />
+<column id="8937" name="办理情况" />
+<column id="9068" name="其他" />
+</column>
+<column id="3435" name="便民服务" />
+<column id="3566" name="其他" />
+</column>
+<column id="2449" name="13B医药管理" >
+<column id="2711" name="政府文件" >
+<column id="4414" name="命令" />
+<column id="4545" name="决定" />
+<column id="4676" name="公告" />
+<column id="5069" name="通告" />
+<column id="5200" name="通知" />
+<column id="5331" name="通报" />
+<column id="5462" name="议案" />
+<column id="5593" name="报告" />
+<column id="5724" name="请示" />
+<column id="5855" name="批复" />
+<column id="5986" name="意见" />
+<column id="6117" name="函" />
+<column id="6248" name="会议纪要" />
+</column>
+<column id="2842" name="动态信息" >
+<column id="6510" name="工作动态" />
+<column id="6641" name="重要会议" />
+<column id="6772" name="执法监督" />
+<column id="6903" name="统计数据" />
+<column id="7034" name="公示公告" />
+<column id="7165" name="政策解读" />
+<column id="7296" name="其他" />
+</column>
+<column id="2973" name="突发公共事件" >
+<column id="7427" name="应急预案" />
+<column id="7558" name="应急预警" />
+<column id="7689" name="应对情况" />
+<column id="7820" name="其他" />
+</column>
+<column id="3104" name="财政信息" >
+<column id="7951" name="财政预算决算" />
+<column id="8082" name="专项资金" />
+<column id="8213" name="政府采购与招投标" />
+<column id="8344" name="其他" />
+</column>
+<column id="3235" name="重大项目" >
+<column id="8475" name="项目审批及实施情况" />
+<column id="8606" name="其他" />
+</column>
+<column id="3366" name="行政权力" >
+<column id="8737" name="办事指南" />
+<column id="8868" name="行政事业性收费" />
+<column id="8999" name="办理情况" />
+<column id="9130" name="其他" />
+</column>
+<column id="3497" name="便民服务" />
+<column id="3628" name="其他" />
+</column>
+<column id="2450" name="13C体育" >
+<column id="2712" name="政府文件" >
+<column id="4415" name="命令" />
+<column id="4546" name="决定" />
+<column id="4677" name="公告" />
+<column id="5070" name="通告" />
+<column id="5201" name="通知" />
+<column id="5332" name="通报" />
+<column id="5463" name="议案" />
+<column id="5594" name="报告" />
+<column id="5725" name="请示" />
+<column id="5856" name="批复" />
+<column id="5987" name="意见" />
+<column id="6118" name="函" />
+<column id="6249" name="会议纪要" />
+</column>
+<column id="2843" name="动态信息" >
+<column id="6511" name="工作动态" />
+<column id="6642" name="重要会议" />
+<column id="6773" name="执法监督" />
+<column id="6904" name="统计数据" />
+<column id="7035" name="公示公告" />
+<column id="7166" name="政策解读" />
+<column id="7297" name="其他" />
+</column>
+<column id="2974" name="突发公共事件" >
+<column id="7428" name="应急预案" />
+<column id="7559" name="应急预警" />
+<column id="7690" name="应对情况" />
+<column id="7821" name="其他" />
+</column>
+<column id="3105" name="财政信息" >
+<column id="7952" name="财政预算决算" />
+<column id="8083" name="专项资金" />
+<column id="8214" name="政府采购与招投标" />
+<column id="8345" name="其他" />
+</column>
+<column id="3236" name="重大项目" >
+<column id="8476" name="项目审批及实施情况" />
+<column id="8607" name="其他" />
+</column>
+<column id="3367" name="行政权力" >
+<column id="8738" name="办事指南" />
+<column id="8869" name="行政事业性收费" />
+<column id="9000" name="办理情况" />
+<column id="9131" name="其他" />
+</column>
+<column id="3498" name="便民服务" />
+<column id="3629" name="其他" />
+</column>
+<column id="2451" name="13Z其他" >
+<column id="2713" name="政府文件" >
+<column id="4416" name="命令" />
+<column id="4547" name="决定" />
+<column id="4678" name="公告" />
+<column id="5071" name="通告" />
+<column id="5202" name="通知" />
+<column id="5333" name="通报" />
+<column id="5464" name="议案" />
+<column id="5595" name="报告" />
+<column id="5726" name="请示" />
+<column id="5857" name="批复" />
+<column id="5988" name="意见" />
+<column id="6119" name="函" />
+<column id="6250" name="会议纪要" />
+</column>
+<column id="2844" name="动态信息" >
+<column id="6512" name="工作动态" />
+<column id="6643" name="重要会议" />
+<column id="6774" name="执法监督" />
+<column id="6905" name="统计数据" />
+<column id="7036" name="公示公告" />
+<column id="7167" name="政策解读" />
+<column id="7298" name="其他" />
+</column>
+<column id="2975" name="突发公共事件" >
+<column id="7429" name="应急预案" />
+<column id="7560" name="应急预警" />
+<column id="7691" name="应对情况" />
+<column id="7822" name="其他" />
+</column>
+<column id="3106" name="财政信息" >
+<column id="7953" name="财政预算决算" />
+<column id="8084" name="专项资金" />
+<column id="8215" name="政府采购与招投标" />
+<column id="8346" name="其他" />
+</column>
+<column id="3237" name="重大项目" >
+<column id="8477" name="项目审批及实施情况" />
+<column id="8608" name="其他" />
+</column>
+<column id="3368" name="行政权力" >
+<column id="8739" name="办事指南" />
+<column id="8870" name="行政事业性收费" />
+<column id="9001" name="办理情况" />
+<column id="9132" name="其他" />
+</column>
+<column id="3499" name="便民服务" />
+<column id="3630" name="其他" />
+</column>
+</column>
+<column id="139" name="人口和计划生育、妇女儿童工作" >
+<column id="140" name="14A人口和计划生育" >
+<column id="2650" name="政府文件" >
+<column id="4353" name="命令" />
+<column id="4484" name="决定" />
+<column id="4615" name="公告" />
+<column id="5008" name="通告" />
+<column id="5139" name="通知" />
+<column id="5270" name="通报" />
+<column id="5401" name="议案" />
+<column id="5532" name="报告" />
+<column id="5663" name="请示" />
+<column id="5794" name="批复" />
+<column id="5925" name="意见" />
+<column id="6056" name="函" />
+<column id="6187" name="会议纪要" />
+</column>
+<column id="2781" name="动态信息" >
+<column id="6449" name="工作动态" />
+<column id="6580" name="重要会议" />
+<column id="6711" name="执法监督" />
+<column id="6842" name="统计数据" />
+<column id="6973" name="公示公告" />
+<column id="7104" name="政策解读" />
+<column id="7235" name="其他" />
+</column>
+<column id="2912" name="突发公共事件" >
+<column id="7366" name="应急预案" />
+<column id="7497" name="应急预警" />
+<column id="7628" name="应对情况" />
+<column id="7759" name="其他" />
+</column>
+<column id="3043" name="财政信息" >
+<column id="7890" name="财政预算决算" />
+<column id="8021" name="专项资金" />
+<column id="8152" name="政府采购与招投标" />
+<column id="8283" name="其他" />
+</column>
+<column id="3174" name="重大项目" >
+<column id="8414" name="项目审批及实施情况" />
+<column id="8545" name="其他" />
+</column>
+<column id="3305" name="行政权力" >
+<column id="8676" name="办事指南" />
+<column id="8807" name="行政事业性收费" />
+<column id="8938" name="办理情况" />
+<column id="9069" name="其他" />
+</column>
+<column id="3436" name="便民服务" />
+<column id="3567" name="其他" />
+</column>
+<column id="2459" name="14Z其他" >
+<column id="2721" name="政府文件" >
+<column id="4424" name="命令" />
+<column id="4555" name="决定" />
+<column id="4686" name="公告" />
+<column id="5079" name="通告" />
+<column id="5210" name="通知" />
+<column id="5341" name="通报" />
+<column id="5472" name="议案" />
+<column id="5603" name="报告" />
+<column id="5734" name="请示" />
+<column id="5865" name="批复" />
+<column id="5996" name="意见" />
+<column id="6127" name="函" />
+<column id="6258" name="会议纪要" />
+</column>
+<column id="2852" name="动态信息" >
+<column id="6520" name="工作动态" />
+<column id="6651" name="重要会议" />
+<column id="6782" name="执法监督" />
+<column id="6913" name="统计数据" />
+<column id="7044" name="公示公告" />
+<column id="7175" name="政策解读" />
+<column id="7306" name="其他" />
+</column>
+<column id="2983" name="突发公共事件" >
+<column id="7437" name="应急预案" />
+<column id="7568" name="应急预警" />
+<column id="7699" name="应对情况" />
+<column id="7830" name="其他" />
+</column>
+<column id="3114" name="财政信息" >
+<column id="7961" name="财政预算决算" />
+<column id="8092" name="专项资金" />
+<column id="8223" name="政府采购与招投标" />
+<column id="8354" name="其他" />
+</column>
+<column id="3245" name="重大项目" >
+<column id="8485" name="项目审批及实施情况" />
+<column id="8616" name="其他" />
+</column>
+<column id="3376" name="行政权力" >
+<column id="8747" name="办事指南" />
+<column id="8878" name="行政事业性收费" />
+<column id="9009" name="办理情况" />
+<column id="9140" name="其他" />
+</column>
+<column id="3507" name="便民服务" />
+<column id="3638" name="其他" />
+</column>
+</column>
+<column id="141" name="劳动、人事、监察" >
+<column id="142" name="15A劳动就业" >
+<column id="2651" name="政府文件" >
+<column id="4354" name="命令" />
+<column id="4485" name="决定" />
+<column id="4616" name="公告" />
+<column id="5009" name="通告" />
+<column id="5140" name="通知" />
+<column id="5271" name="通报" />
+<column id="5402" name="议案" />
+<column id="5533" name="报告" />
+<column id="5664" name="请示" />
+<column id="5795" name="批复" />
+<column id="5926" name="意见" />
+<column id="6057" name="函" />
+<column id="6188" name="会议纪要" />
+</column>
+<column id="2782" name="动态信息" >
+<column id="6450" name="工作动态" />
+<column id="6581" name="重要会议" />
+<column id="6712" name="执法监督" />
+<column id="6843" name="统计数据" />
+<column id="6974" name="公示公告" />
+<column id="7105" name="政策解读" />
+<column id="7236" name="其他" />
+</column>
+<column id="2913" name="突发公共事件" >
+<column id="7367" name="应急预案" />
+<column id="7498" name="应急预警" />
+<column id="7629" name="应对情况" />
+<column id="7760" name="其他" />
+</column>
+<column id="3044" name="财政信息" >
+<column id="7891" name="财政预算决算" />
+<column id="8022" name="专项资金" />
+<column id="8153" name="政府采购与招投标" />
+<column id="8284" name="其他" />
+</column>
+<column id="3175" name="重大项目" >
+<column id="8415" name="项目审批及实施情况" />
+<column id="8546" name="其他" />
+</column>
+<column id="3306" name="行政权力" >
+<column id="8677" name="办事指南" />
+<column id="8808" name="行政事业性收费" />
+<column id="8939" name="办理情况" />
+<column id="9070" name="其他" />
+</column>
+<column id="3437" name="便民服务" />
+<column id="3568" name="其他" />
+</column>
+<column id="2460" name="15B社会保障" >
+<column id="2722" name="政府文件" >
+<column id="4425" name="命令" />
+<column id="4556" name="决定" />
+<column id="4687" name="公告" />
+<column id="5080" name="通告" />
+<column id="5211" name="通知" />
+<column id="5342" name="通报" />
+<column id="5473" name="议案" />
+<column id="5604" name="报告" />
+<column id="5735" name="请示" />
+<column id="5866" name="批复" />
+<column id="5997" name="意见" />
+<column id="6128" name="函" />
+<column id="6259" name="会议纪要" />
+</column>
+<column id="2853" name="动态信息" >
+<column id="6521" name="工作动态" />
+<column id="6652" name="重要会议" />
+<column id="6783" name="执法监督" />
+<column id="6914" name="统计数据" />
+<column id="7045" name="公示公告" />
+<column id="7176" name="政策解读" />
+<column id="7307" name="其他" />
+</column>
+<column id="2984" name="突发公共事件" >
+<column id="7438" name="应急预案" />
+<column id="7569" name="应急预警" />
+<column id="7700" name="应对情况" />
+<column id="7831" name="其他" />
+</column>
+<column id="3115" name="财政信息" >
+<column id="7962" name="财政预算决算" />
+<column id="8093" name="专项资金" />
+<column id="8224" name="政府采购与招投标" />
+<column id="8355" name="其他" />
+</column>
+<column id="3246" name="重大项目" >
+<column id="8486" name="项目审批及实施情况" />
+<column id="8617" name="其他" />
+</column>
+<column id="3377" name="行政权力" >
+<column id="8748" name="办事指南" />
+<column id="8879" name="行政事业性收费" />
+<column id="9010" name="办理情况" />
+<column id="9141" name="其他" />
+</column>
+<column id="3508" name="便民服务" />
+<column id="3639" name="其他" />
+</column>
+<column id="2461" name="15C人事工作" >
+<column id="2723" name="政府文件" >
+<column id="4426" name="命令" />
+<column id="4557" name="决定" />
+<column id="4688" name="公告" />
+<column id="5081" name="通告" />
+<column id="5212" name="通知" />
+<column id="5343" name="通报" />
+<column id="5474" name="议案" />
+<column id="5605" name="报告" />
+<column id="5736" name="请示" />
+<column id="5867" name="批复" />
+<column id="5998" name="意见" />
+<column id="6129" name="函" />
+<column id="6260" name="会议纪要" />
+</column>
+<column id="2854" name="动态信息" >
+<column id="6522" name="工作动态" />
+<column id="6653" name="重要会议" />
+<column id="6784" name="执法监督" />
+<column id="6915" name="统计数据" />
+<column id="7046" name="公示公告" />
+<column id="7177" name="政策解读" />
+<column id="7308" name="其他" />
+</column>
+<column id="2985" name="突发公共事件" >
+<column id="7439" name="应急预案" />
+<column id="7570" name="应急预警" />
+<column id="7701" name="应对情况" />
+<column id="7832" name="其他" />
+</column>
+<column id="3116" name="财政信息" >
+<column id="7963" name="财政预算决算" />
+<column id="8094" name="专项资金" />
+<column id="8225" name="政府采购与招投标" />
+<column id="8356" name="其他" />
+</column>
+<column id="3247" name="重大项目" >
+<column id="8487" name="项目审批及实施情况" />
+<column id="8618" name="其他" />
+</column>
+<column id="3378" name="行政权力" >
+<column id="8749" name="办事指南" />
+<column id="8880" name="行政事业性收费" />
+<column id="9011" name="办理情况" />
+<column id="9142" name="其他" />
+</column>
+<column id="3509" name="便民服务" />
+<column id="3640" name="其他" />
+</column>
+<column id="2463" name="15E监察" >
+<column id="2725" name="政府文件" >
+<column id="4428" name="命令" />
+<column id="4559" name="决定" />
+<column id="4690" name="公告" />
+<column id="5083" name="通告" />
+<column id="5214" name="通知" />
+<column id="5345" name="通报" />
+<column id="5476" name="议案" />
+<column id="5607" name="报告" />
+<column id="5738" name="请示" />
+<column id="5869" name="批复" />
+<column id="6000" name="意见" />
+<column id="6131" name="函" />
+<column id="6262" name="会议纪要" />
+</column>
+<column id="2856" name="动态信息" >
+<column id="6524" name="工作动态" />
+<column id="6655" name="重要会议" />
+<column id="6786" name="执法监督" />
+<column id="6917" name="统计数据" />
+<column id="7048" name="公示公告" />
+<column id="7179" name="政策解读" />
+<column id="7310" name="其他" />
+</column>
+<column id="2987" name="突发公共事件" >
+<column id="7441" name="应急预案" />
+<column id="7572" name="应急预警" />
+<column id="7703" name="应对情况" />
+<column id="7834" name="其他" />
+</column>
+<column id="3118" name="财政信息" >
+<column id="7965" name="财政预算决算" />
+<column id="8096" name="专项资金" />
+<column id="8227" name="政府采购与招投标" />
+<column id="8358" name="其他" />
+</column>
+<column id="3249" name="重大项目" >
+<column id="8489" name="项目审批及实施情况" />
+<column id="8620" name="其他" />
+</column>
+<column id="3380" name="行政权力" >
+<column id="8751" name="办事指南" />
+<column id="8882" name="行政事业性收费" />
+<column id="9013" name="办理情况" />
+<column id="9144" name="其他" />
+</column>
+<column id="3511" name="便民服务" />
+<column id="3642" name="其他" />
+</column>
+<column id="2464" name="15F纠正行业不正之风" >
+<column id="2726" name="政府文件" >
+<column id="4429" name="命令" />
+<column id="4560" name="决定" />
+<column id="4691" name="公告" />
+<column id="5084" name="通告" />
+<column id="5215" name="通知" />
+<column id="5346" name="通报" />
+<column id="5477" name="议案" />
+<column id="5608" name="报告" />
+<column id="5739" name="请示" />
+<column id="5870" name="批复" />
+<column id="6001" name="意见" />
+<column id="6132" name="函" />
+<column id="6263" name="会议纪要" />
+</column>
+<column id="2857" name="动态信息" >
+<column id="6525" name="工作动态" />
+<column id="6656" name="重要会议" />
+<column id="6787" name="执法监督" />
+<column id="6918" name="统计数据" />
+<column id="7049" name="公示公告" />
+<column id="7180" name="政策解读" />
+<column id="7311" name="其他" />
+</column>
+<column id="2988" name="突发公共事件" >
+<column id="7442" name="应急预案" />
+<column id="7573" name="应急预警" />
+<column id="7704" name="应对情况" />
+<column id="7835" name="其他" />
+</column>
+<column id="3119" name="财政信息" >
+<column id="7966" name="财政预算决算" />
+<column id="8097" name="专项资金" />
+<column id="8228" name="政府采购与招投标" />
+<column id="8359" name="其他" />
+</column>
+<column id="3250" name="重大项目" >
+<column id="8490" name="项目审批及实施情况" />
+<column id="8621" name="其他" />
+</column>
+<column id="3381" name="行政权力" >
+<column id="8752" name="办事指南" />
+<column id="8883" name="行政事业性收费" />
+<column id="9014" name="办理情况" />
+<column id="9145" name="其他" />
+</column>
+<column id="3512" name="便民服务" />
+<column id="3643" name="其他" />
+</column>
+<column id="2465" name="15Z其他" >
+<column id="2727" name="政府文件" >
+<column id="4430" name="命令" />
+<column id="4561" name="决定" />
+<column id="4692" name="公告" />
+<column id="5085" name="通告" />
+<column id="5216" name="通知" />
+<column id="5347" name="通报" />
+<column id="5478" name="议案" />
+<column id="5609" name="报告" />
+<column id="5740" name="请示" />
+<column id="5871" name="批复" />
+<column id="6002" name="意见" />
+<column id="6133" name="函" />
+<column id="6264" name="会议纪要" />
+</column>
+<column id="2858" name="动态信息" >
+<column id="6526" name="工作动态" />
+<column id="6657" name="重要会议" />
+<column id="6788" name="执法监督" />
+<column id="6919" name="统计数据" />
+<column id="7050" name="公示公告" />
+<column id="7181" name="政策解读" />
+<column id="7312" name="其他" />
+</column>
+<column id="2989" name="突发公共事件" >
+<column id="7443" name="应急预案" />
+<column id="7574" name="应急预警" />
+<column id="7705" name="应对情况" />
+<column id="7836" name="其他" />
+</column>
+<column id="3120" name="财政信息" >
+<column id="7967" name="财政预算决算" />
+<column id="8098" name="专项资金" />
+<column id="8229" name="政府采购与招投标" />
+<column id="8360" name="其他" />
+</column>
+<column id="3251" name="重大项目" >
+<column id="8491" name="项目审批及实施情况" />
+<column id="8622" name="其他" />
+</column>
+<column id="3382" name="行政权力" >
+<column id="8753" name="办事指南" />
+<column id="8884" name="行政事业性收费" />
+<column id="9015" name="办理情况" />
+<column id="9146" name="其他" />
+</column>
+<column id="3513" name="便民服务" />
+<column id="3644" name="其他" />
+</column>
+</column>
+<column id="143" name="公安、安全、司法" >
+<column id="148" name="16A公安" >
+<column id="2654" name="政府文件" >
+<column id="4357" name="命令" />
+<column id="4488" name="决定" />
+<column id="4619" name="公告" />
+<column id="5012" name="通告" />
+<column id="5143" name="通知" />
+<column id="5274" name="通报" />
+<column id="5405" name="议案" />
+<column id="5536" name="报告" />
+<column id="5667" name="请示" />
+<column id="5798" name="批复" />
+<column id="5929" name="意见" />
+<column id="6060" name="函" />
+<column id="6191" name="会议纪要" />
+</column>
+<column id="2785" name="动态信息" >
+<column id="6453" name="工作动态" />
+<column id="6584" name="重要会议" />
+<column id="6715" name="执法监督" />
+<column id="6846" name="统计数据" />
+<column id="6977" name="公示公告" />
+<column id="7108" name="政策解读" />
+<column id="7239" name="其他" />
+</column>
+<column id="2916" name="突发公共事件" >
+<column id="7370" name="应急预案" />
+<column id="7501" name="应急预警" />
+<column id="7632" name="应对情况" />
+<column id="7763" name="其他" />
+</column>
+<column id="3047" name="财政信息" >
+<column id="7894" name="财政预算决算" />
+<column id="8025" name="专项资金" />
+<column id="8156" name="政府采购与招投标" />
+<column id="8287" name="其他" />
+</column>
+<column id="3178" name="重大项目" >
+<column id="8418" name="项目审批及实施情况" />
+<column id="8549" name="其他" />
+</column>
+<column id="3309" name="行政权力" >
+<column id="8680" name="办事指南" />
+<column id="8811" name="行政事业性收费" />
+<column id="8942" name="办理情况" />
+<column id="9073" name="其他" />
+</column>
+<column id="3440" name="便民服务" />
+<column id="3571" name="其他" />
+</column>
+<column id="2466" name="16B国家安全" >
+<column id="2728" name="政府文件" >
+<column id="4431" name="命令" />
+<column id="4562" name="决定" />
+<column id="4693" name="公告" />
+<column id="5086" name="通告" />
+<column id="5217" name="通知" />
+<column id="5348" name="通报" />
+<column id="5479" name="议案" />
+<column id="5610" name="报告" />
+<column id="5741" name="请示" />
+<column id="5872" name="批复" />
+<column id="6003" name="意见" />
+<column id="6134" name="函" />
+<column id="6265" name="会议纪要" />
+</column>
+<column id="2859" name="动态信息" >
+<column id="6527" name="工作动态" />
+<column id="6658" name="重要会议" />
+<column id="6789" name="执法监督" />
+<column id="6920" name="统计数据" />
+<column id="7051" name="公示公告" />
+<column id="7182" name="政策解读" />
+<column id="7313" name="其他" />
+</column>
+<column id="2990" name="突发公共事件" >
+<column id="7444" name="应急预案" />
+<column id="7575" name="应急预警" />
+<column id="7706" name="应对情况" />
+<column id="7837" name="其他" />
+</column>
+<column id="3121" name="财政信息" >
+<column id="7968" name="财政预算决算" />
+<column id="8099" name="专项资金" />
+<column id="8230" name="政府采购与招投标" />
+<column id="8361" name="其他" />
+</column>
+<column id="3252" name="重大项目" >
+<column id="8492" name="项目审批及实施情况" />
+<column id="8623" name="其他" />
+</column>
+<column id="3383" name="行政权力" >
+<column id="8754" name="办事指南" />
+<column id="8885" name="行政事业性收费" />
+<column id="9016" name="办理情况" />
+<column id="9147" name="其他" />
+</column>
+<column id="3514" name="便民服务" />
+<column id="3645" name="其他" />
+</column>
+<column id="2467" name="16C司法" >
+<column id="2729" name="政府文件" >
+<column id="4432" name="命令" />
+<column id="4563" name="决定" />
+<column id="4694" name="公告" />
+<column id="5087" name="通告" />
+<column id="5218" name="通知" />
+<column id="5349" name="通报" />
+<column id="5480" name="议案" />
+<column id="5611" name="报告" />
+<column id="5742" name="请示" />
+<column id="5873" name="批复" />
+<column id="6004" name="意见" />
+<column id="6135" name="函" />
+<column id="6266" name="会议纪要" />
+</column>
+<column id="2860" name="动态信息" >
+<column id="6528" name="工作动态" />
+<column id="6659" name="重要会议" />
+<column id="6790" name="执法监督" />
+<column id="6921" name="统计数据" />
+<column id="7052" name="公示公告" />
+<column id="7183" name="政策解读" />
+<column id="7314" name="其他" />
+</column>
+<column id="2991" name="突发公共事件" >
+<column id="7445" name="应急预案" />
+<column id="7576" name="应急预警" />
+<column id="7707" name="应对情况" />
+<column id="7838" name="其他" />
+</column>
+<column id="3122" name="财政信息" >
+<column id="7969" name="财政预算决算" />
+<column id="8100" name="专项资金" />
+<column id="8231" name="政府采购与招投标" />
+<column id="8362" name="其他" />
+</column>
+<column id="3253" name="重大项目" >
+<column id="8493" name="项目审批及实施情况" />
+<column id="8624" name="其他" />
+</column>
+<column id="3384" name="行政权力" >
+<column id="8755" name="办事指南" />
+<column id="8886" name="行政事业性收费" />
+<column id="9017" name="办理情况" />
+<column id="9148" name="其他" />
+</column>
+<column id="3515" name="便民服务" />
+<column id="3646" name="其他" />
+</column>
+<column id="2468" name="16Z其他" >
+<column id="2730" name="政府文件" >
+<column id="4433" name="命令" />
+<column id="4564" name="决定" />
+<column id="4695" name="公告" />
+<column id="5088" name="通告" />
+<column id="5219" name="通知" />
+<column id="5350" name="通报" />
+<column id="5481" name="议案" />
+<column id="5612" name="报告" />
+<column id="5743" name="请示" />
+<column id="5874" name="批复" />
+<column id="6005" name="意见" />
+<column id="6136" name="函" />
+<column id="6267" name="会议纪要" />
+</column>
+<column id="2861" name="动态信息" >
+<column id="6529" name="工作动态" />
+<column id="6660" name="重要会议" />
+<column id="6791" name="执法监督" />
+<column id="6922" name="统计数据" />
+<column id="7053" name="公示公告" />
+<column id="7184" name="政策解读" />
+<column id="7315" name="其他" />
+</column>
+<column id="2992" name="突发公共事件" >
+<column id="7446" name="应急预案" />
+<column id="7577" name="应急预警" />
+<column id="7708" name="应对情况" />
+<column id="7839" name="其他" />
+</column>
+<column id="3123" name="财政信息" >
+<column id="7970" name="财政预算决算" />
+<column id="8101" name="专项资金" />
+<column id="8232" name="政府采购与招投标" />
+<column id="8363" name="其他" />
+</column>
+<column id="3254" name="重大项目" >
+<column id="8494" name="项目审批及实施情况" />
+<column id="8625" name="其他" />
+</column>
+<column id="3385" name="行政权力" >
+<column id="8756" name="办事指南" />
+<column id="8887" name="行政事业性收费" />
+<column id="9018" name="办理情况" />
+<column id="9149" name="其他" />
+</column>
+<column id="3516" name="便民服务" />
+<column id="3647" name="其他" />
+</column>
+</column>
+<column id="144" name="民政、扶贫、救灾" >
+<column id="147" name="17A减灾救灾" >
+<column id="2653" name="政府文件" >
+<column id="4356" name="命令" />
+<column id="4487" name="决定" />
+<column id="4618" name="公告" />
+<column id="5011" name="通告" />
+<column id="5142" name="通知" />
+<column id="5273" name="通报" />
+<column id="5404" name="议案" />
+<column id="5535" name="报告" />
+<column id="5666" name="请示" />
+<column id="5797" name="批复" />
+<column id="5928" name="意见" />
+<column id="6059" name="函" />
+<column id="6190" name="会议纪要" />
+</column>
+<column id="2784" name="动态信息" >
+<column id="6452" name="工作动态" />
+<column id="6583" name="重要会议" />
+<column id="6714" name="执法监督" />
+<column id="6845" name="统计数据" />
+<column id="6976" name="公示公告" />
+<column id="7107" name="政策解读" />
+<column id="7238" name="其他" />
+</column>
+<column id="2915" name="突发公共事件" >
+<column id="7369" name="应急预案" />
+<column id="7500" name="应急预警" />
+<column id="7631" name="应对情况" />
+<column id="7762" name="其他" />
+</column>
+<column id="3046" name="财政信息" >
+<column id="7893" name="财政预算决算" />
+<column id="8024" name="专项资金" />
+<column id="8155" name="政府采购与招投标" />
+<column id="8286" name="其他" />
+</column>
+<column id="3177" name="重大项目" >
+<column id="8417" name="项目审批及实施情况" />
+<column id="8548" name="其他" />
+</column>
+<column id="3308" name="行政权力" >
+<column id="8679" name="办事指南" />
+<column id="8810" name="行政事业性收费" />
+<column id="8941" name="办理情况" />
+<column id="9072" name="其他" />
+</column>
+<column id="3439" name="便民服务" />
+<column id="3570" name="其他" />
+</column>
+<column id="2469" name="17B优抚安置" >
+<column id="2731" name="政府文件" >
+<column id="4434" name="命令" />
+<column id="4565" name="决定" />
+<column id="4696" name="公告" />
+<column id="5089" name="通告" />
+<column id="5220" name="通知" />
+<column id="5351" name="通报" />
+<column id="5482" name="议案" />
+<column id="5613" name="报告" />
+<column id="5744" name="请示" />
+<column id="5875" name="批复" />
+<column id="6006" name="意见" />
+<column id="6137" name="函" />
+<column id="6268" name="会议纪要" />
+</column>
+<column id="2862" name="动态信息" >
+<column id="6530" name="工作动态" />
+<column id="6661" name="重要会议" />
+<column id="6792" name="执法监督" />
+<column id="6923" name="统计数据" />
+<column id="7054" name="公示公告" />
+<column id="7185" name="政策解读" />
+<column id="7316" name="其他" />
+</column>
+<column id="2993" name="突发公共事件" >
+<column id="7447" name="应急预案" />
+<column id="7578" name="应急预警" />
+<column id="7709" name="应对情况" />
+<column id="7840" name="其他" />
+</column>
+<column id="3124" name="财政信息" >
+<column id="7971" name="财政预算决算" />
+<column id="8102" name="专项资金" />
+<column id="8233" name="政府采购与招投标" />
+<column id="8364" name="其他" />
+</column>
+<column id="3255" name="重大项目" >
+<column id="8495" name="项目审批及实施情况" />
+<column id="8626" name="其他" />
+</column>
+<column id="3386" name="行政权力" >
+<column id="8757" name="办事指南" />
+<column id="8888" name="行政事业性收费" />
+<column id="9019" name="办理情况" />
+<column id="9150" name="其他" />
+</column>
+<column id="3517" name="便民服务" />
+<column id="3648" name="其他" />
+</column>
+<column id="2470" name="17C社会福利与慈善事业" >
+<column id="2732" name="政府文件" >
+<column id="4435" name="命令" />
+<column id="4566" name="决定" />
+<column id="4697" name="公告" />
+<column id="5090" name="通告" />
+<column id="5221" name="通知" />
+<column id="5352" name="通报" />
+<column id="5483" name="议案" />
+<column id="5614" name="报告" />
+<column id="5745" name="请示" />
+<column id="5876" name="批复" />
+<column id="6007" name="意见" />
+<column id="6138" name="函" />
+<column id="6269" name="会议纪要" />
+</column>
+<column id="2863" name="动态信息" >
+<column id="6531" name="工作动态" />
+<column id="6662" name="重要会议" />
+<column id="6793" name="执法监督" />
+<column id="6924" name="统计数据" />
+<column id="7055" name="公示公告" />
+<column id="7186" name="政策解读" />
+<column id="7317" name="其他" />
+</column>
+<column id="2994" name="突发公共事件" >
+<column id="7448" name="应急预案" />
+<column id="7579" name="应急预警" />
+<column id="7710" name="应对情况" />
+<column id="7841" name="其他" />
+</column>
+<column id="3125" name="财政信息" >
+<column id="7972" name="财政预算决算" />
+<column id="8103" name="专项资金" />
+<column id="8234" name="政府采购与招投标" />
+<column id="8365" name="其他" />
+</column>
+<column id="3256" name="重大项目" >
+<column id="8496" name="项目审批及实施情况" />
+<column id="8627" name="其他" />
+</column>
+<column id="3387" name="行政权力" >
+<column id="8758" name="办事指南" />
+<column id="8889" name="行政事业性收费" />
+<column id="9020" name="办理情况" />
+<column id="9151" name="其他" />
+</column>
+<column id="3518" name="便民服务" />
+<column id="3649" name="其他" />
+</column>
+<column id="2471" name="17D行政区划与地名" >
+<column id="2733" name="政府文件" >
+<column id="4436" name="命令" />
+<column id="4567" name="决定" />
+<column id="4698" name="公告" />
+<column id="5091" name="通告" />
+<column id="5222" name="通知" />
+<column id="5353" name="通报" />
+<column id="5484" name="议案" />
+<column id="5615" name="报告" />
+<column id="5746" name="请示" />
+<column id="5877" name="批复" />
+<column id="6008" name="意见" />
+<column id="6139" name="函" />
+<column id="6270" name="会议纪要" />
+</column>
+<column id="2864" name="动态信息" >
+<column id="6532" name="工作动态" />
+<column id="6663" name="重要会议" />
+<column id="6794" name="执法监督" />
+<column id="6925" name="统计数据" />
+<column id="7056" name="公示公告" />
+<column id="7187" name="政策解读" />
+<column id="7318" name="其他" />
+</column>
+<column id="2995" name="突发公共事件" >
+<column id="7449" name="应急预案" />
+<column id="7580" name="应急预警" />
+<column id="7711" name="应对情况" />
+<column id="7842" name="其他" />
+</column>
+<column id="3126" name="财政信息" >
+<column id="7973" name="财政预算决算" />
+<column id="8104" name="专项资金" />
+<column id="8235" name="政府采购与招投标" />
+<column id="8366" name="其他" />
+</column>
+<column id="3257" name="重大项目" >
+<column id="8497" name="项目审批及实施情况" />
+<column id="8628" name="其他" />
+</column>
+<column id="3388" name="行政权力" >
+<column id="8759" name="办事指南" />
+<column id="8890" name="行政事业性收费" />
+<column id="9021" name="办理情况" />
+<column id="9152" name="其他" />
+</column>
+<column id="3519" name="便民服务" />
+<column id="3650" name="其他" />
+</column>
+<column id="2472" name="17E民间组织管理" >
+<column id="2734" name="政府文件" >
+<column id="4437" name="命令" />
+<column id="4568" name="决定" />
+<column id="4699" name="公告" />
+<column id="5092" name="通告" />
+<column id="5223" name="通知" />
+<column id="5354" name="通报" />
+<column id="5485" name="议案" />
+<column id="5616" name="报告" />
+<column id="5747" name="请示" />
+<column id="5878" name="批复" />
+<column id="6009" name="意见" />
+<column id="6140" name="函" />
+<column id="6271" name="会议纪要" />
+</column>
+<column id="2865" name="动态信息" >
+<column id="6533" name="工作动态" />
+<column id="6664" name="重要会议" />
+<column id="6795" name="执法监督" />
+<column id="6926" name="统计数据" />
+<column id="7057" name="公示公告" />
+<column id="7188" name="政策解读" />
+<column id="7319" name="其他" />
+</column>
+<column id="2996" name="突发公共事件" >
+<column id="7450" name="应急预案" />
+<column id="7581" name="应急预警" />
+<column id="7712" name="应对情况" />
+<column id="7843" name="其他" />
+</column>
+<column id="3127" name="财政信息" >
+<column id="7974" name="财政预算决算" />
+<column id="8105" name="专项资金" />
+<column id="8236" name="政府采购与招投标" />
+<column id="8367" name="其他" />
+</column>
+<column id="3258" name="重大项目" >
+<column id="8498" name="项目审批及实施情况" />
+<column id="8629" name="其他" />
+</column>
+<column id="3389" name="行政权力" >
+<column id="8760" name="办事指南" />
+<column id="8891" name="行政事业性收费" />
+<column id="9022" name="办理情况" />
+<column id="9153" name="其他" />
+</column>
+<column id="3520" name="便民服务" />
+<column id="3651" name="其他" />
+</column>
+<column id="2474" name="17Z其他" >
+<column id="2736" name="政府文件" >
+<column id="4439" name="命令" />
+<column id="4570" name="决定" />
+<column id="4701" name="公告" />
+<column id="5094" name="通告" />
+<column id="5225" name="通知" />
+<column id="5356" name="通报" />
+<column id="5487" name="议案" />
+<column id="5618" name="报告" />
+<column id="5749" name="请示" />
+<column id="5880" name="批复" />
+<column id="6011" name="意见" />
+<column id="6142" name="函" />
+<column id="6273" name="会议纪要" />
+</column>
+<column id="2867" name="动态信息" >
+<column id="6535" name="工作动态" />
+<column id="6666" name="重要会议" />
+<column id="6797" name="执法监督" />
+<column id="6928" name="统计数据" />
+<column id="7059" name="公示公告" />
+<column id="7190" name="政策解读" />
+<column id="7321" name="其他" />
+</column>
+<column id="2998" name="突发公共事件" >
+<column id="7452" name="应急预案" />
+<column id="7583" name="应急预警" />
+<column id="7714" name="应对情况" />
+<column id="7845" name="其他" />
+</column>
+<column id="3129" name="财政信息" >
+<column id="7976" name="财政预算决算" />
+<column id="8107" name="专项资金" />
+<column id="8238" name="政府采购与招投标" />
+<column id="8369" name="其他" />
+</column>
+<column id="3260" name="重大项目" >
+<column id="8500" name="项目审批及实施情况" />
+<column id="8631" name="其他" />
+</column>
+<column id="3391" name="行政权力" >
+<column id="8762" name="办事指南" />
+<column id="8893" name="行政事业性收费" />
+<column id="9024" name="办理情况" />
+<column id="9155" name="其他" />
+</column>
+<column id="3522" name="便民服务" />
+<column id="3653" name="其他" />
+</column>
+<column id="9510" name="17G社会救助" >
+<column id="9511" name="政府文件" >
+<column id="9519" name="命令" />
+<column id="9520" name="决定" />
+<column id="9521" name="公告" />
+<column id="9522" name="通告" />
+<column id="9523" name="通知" />
+<column id="9524" name="通报" />
+<column id="9525" name="议案" />
+<column id="9526" name="报告" />
+<column id="9527" name="请示" />
+<column id="9528" name="批复" />
+<column id="9529" name="意见" />
+<column id="9530" name="函" />
+<column id="9531" name="会议纪要" />
+</column>
+<column id="9512" name="动态信息" >
+<column id="9532" name="工作动态" />
+<column id="9533" name="重要会议" />
+<column id="9534" name="执法监督" />
+<column id="9535" name="统计数据" />
+<column id="9536" name="公示公告" />
+<column id="9537" name="政策解读" />
+<column id="9538" name="其他" />
+</column>
+<column id="9513" name="突发公共事件" >
+<column id="9539" name="应急预案" />
+<column id="9540" name="应急预警" />
+<column id="9541" name="应对情况" />
+<column id="9542" name="其他" />
+</column>
+<column id="9514" name="财政信息" >
+<column id="9543" name="财政预算决算" />
+<column id="9544" name="专项资金" />
+<column id="9545" name="政府采购与招投标" />
+<column id="9546" name="其他" />
+</column>
+<column id="9515" name="重大项目" >
+<column id="9547" name="项目审批及实施情况" />
+<column id="9548" name="其他" />
+</column>
+<column id="9516" name="行政权力" >
+<column id="9549" name="办事指南" />
+<column id="9550" name="行政事业性收费" />
+<column id="9551" name="办理情况" />
+<column id="9552" name="其他" />
+</column>
+<column id="9517" name="便民服务" />
+<column id="9518" name="其他" />
+</column>
+<column id="9553" name="17H基层政权与社区建设" >
+<column id="9554" name="政府文件" >
+<column id="9562" name="命令" />
+<column id="9563" name="决定" />
+<column id="9564" name="公告" />
+<column id="9565" name="通告" />
+<column id="9566" name="通知" />
+<column id="9567" name="通报" />
+<column id="9568" name="议案" />
+<column id="9569" name="报告" />
+<column id="9570" name="请示" />
+<column id="9571" name="批复" />
+<column id="9572" name="意见" />
+<column id="9573" name="函" />
+<column id="9574" name="会议纪要" />
+</column>
+<column id="9555" name="动态信息" >
+<column id="9575" name="工作动态" />
+<column id="9576" name="重要会议" />
+<column id="9577" name="执法监督" />
+<column id="9578" name="统计数据" />
+<column id="9579" name="公示公告" />
+<column id="9580" name="政策解读" />
+<column id="9581" name="其他" />
+</column>
+<column id="9556" name="突发公共事件" >
+<column id="9582" name="应急预案" />
+<column id="9583" name="应急预警" />
+<column id="9584" name="应对情况" />
+<column id="9585" name="其他" />
+</column>
+<column id="9557" name="财政信息" >
+<column id="9586" name="财政预算决算" />
+<column id="9587" name="专项资金" />
+<column id="9588" name="政府采购与招投标" />
+<column id="9589" name="其他" />
+</column>
+<column id="9558" name="重大项目" >
+<column id="9590" name="项目审批及实施情况" />
+<column id="9591" name="其他" />
+</column>
+<column id="9559" name="行政权力" >
+<column id="9592" name="办事指南" />
+<column id="9593" name="行政事业性收费" />
+<column id="9594" name="办理情况" />
+<column id="9595" name="其他" />
+</column>
+<column id="9560" name="便民服务" />
+<column id="9561" name="其他" />
+</column>
+<column id="9596" name="17J社会事务管理" >
+<column id="9597" name="政府文件" >
+<column id="9605" name="命令" />
+<column id="9606" name="决定" />
+<column id="9607" name="公告" />
+<column id="9608" name="通告" />
+<column id="9609" name="通知" />
+<column id="9610" name="通报" />
+<column id="9611" name="议案" />
+<column id="9612" name="报告" />
+<column id="9613" name="请示" />
+<column id="9614" name="批复" />
+<column id="9615" name="意见" />
+<column id="9616" name="函" />
+<column id="9617" name="会议纪要" />
+</column>
+<column id="9598" name="动态信息" >
+<column id="9618" name="工作动态" />
+<column id="9619" name="重要会议" />
+<column id="9620" name="执法监督" />
+<column id="9621" name="统计数据" />
+<column id="9622" name="公示公告" />
+<column id="9623" name="政策解读" />
+<column id="9624" name="其他" />
+</column>
+<column id="9599" name="突发公共事件" >
+<column id="9625" name="应急预案" />
+<column id="9626" name="应急预警" />
+<column id="9627" name="应对情况" />
+<column id="9628" name="其他" />
+</column>
+<column id="9600" name="财政信息" >
+<column id="9629" name="财政预算决算" />
+<column id="9630" name="专项资金" />
+<column id="9631" name="政府采购与招投标" />
+<column id="9632" name="其他" />
+</column>
+<column id="9601" name="重大项目" >
+<column id="9633" name="项目审批及实施情况" />
+<column id="9634" name="其他" />
+</column>
+<column id="9602" name="行政权力" >
+<column id="9635" name="办事指南" />
+<column id="9636" name="行政事业性收费" />
+<column id="9637" name="办理情况" />
+<column id="9638" name="其他" />
+</column>
+<column id="9603" name="便民服务" />
+<column id="9604" name="其他" />
+</column>
+</column>
+<column id="145" name="民族、宗教" >
+<column id="146" name="18A民族事务" >
+<column id="2652" name="政府文件" >
+<column id="4355" name="命令" />
+<column id="4486" name="决定" />
+<column id="4617" name="公告" />
+<column id="5010" name="通告" />
+<column id="5141" name="通知" />
+<column id="5272" name="通报" />
+<column id="5403" name="议案" />
+<column id="5534" name="报告" />
+<column id="5665" name="请示" />
+<column id="5796" name="批复" />
+<column id="5927" name="意见" />
+<column id="6058" name="函" />
+<column id="6189" name="会议纪要" />
+</column>
+<column id="2783" name="动态信息" >
+<column id="6451" name="工作动态" />
+<column id="6582" name="重要会议" />
+<column id="6713" name="执法监督" />
+<column id="6844" name="统计数据" />
+<column id="6975" name="公示公告" />
+<column id="7106" name="政策解读" />
+<column id="7237" name="其他" />
+</column>
+<column id="2914" name="突发公共事件" >
+<column id="7368" name="应急预案" />
+<column id="7499" name="应急预警" />
+<column id="7630" name="应对情况" />
+<column id="7761" name="其他" />
+</column>
+<column id="3045" name="财政信息" >
+<column id="7892" name="财政预算决算" />
+<column id="8023" name="专项资金" />
+<column id="8154" name="政府采购与招投标" />
+<column id="8285" name="其他" />
+</column>
+<column id="3176" name="重大项目" >
+<column id="8416" name="项目审批及实施情况" />
+<column id="8547" name="其他" />
+</column>
+<column id="3307" name="行政权力" >
+<column id="8678" name="办事指南" />
+<column id="8809" name="行政事业性收费" />
+<column id="8940" name="办理情况" />
+<column id="9071" name="其他" />
+</column>
+<column id="3438" name="便民服务" />
+<column id="3569" name="其他" />
+</column>
+<column id="2475" name="18B宗教事务" >
+<column id="2737" name="政府文件" >
+<column id="4440" name="命令" />
+<column id="4571" name="决定" />
+<column id="4702" name="公告" />
+<column id="5095" name="通告" />
+<column id="5226" name="通知" />
+<column id="5357" name="通报" />
+<column id="5488" name="议案" />
+<column id="5619" name="报告" />
+<column id="5750" name="请示" />
+<column id="5881" name="批复" />
+<column id="6012" name="意见" />
+<column id="6143" name="函" />
+<column id="6274" name="会议纪要" />
+</column>
+<column id="2868" name="动态信息" >
+<column id="6536" name="工作动态" />
+<column id="6667" name="重要会议" />
+<column id="6798" name="执法监督" />
+<column id="6929" name="统计数据" />
+<column id="7060" name="公示公告" />
+<column id="7191" name="政策解读" />
+<column id="7322" name="其他" />
+</column>
+<column id="2999" name="突发公共事件" >
+<column id="7453" name="应急预案" />
+<column id="7584" name="应急预警" />
+<column id="7715" name="应对情况" />
+<column id="7846" name="其他" />
+</column>
+<column id="3130" name="财政信息" >
+<column id="7977" name="财政预算决算" />
+<column id="8108" name="专项资金" />
+<column id="8239" name="政府采购与招投标" />
+<column id="8370" name="其他" />
+</column>
+<column id="3261" name="重大项目" >
+<column id="8501" name="项目审批及实施情况" />
+<column id="8632" name="其他" />
+</column>
+<column id="3392" name="行政权力" >
+<column id="8763" name="办事指南" />
+<column id="8894" name="行政事业性收费" />
+<column id="9025" name="办理情况" />
+<column id="9156" name="其他" />
+</column>
+<column id="3523" name="便民服务" />
+<column id="3654" name="其他" />
+</column>
+<column id="2476" name="18Z其他" >
+<column id="2738" name="政府文件" >
+<column id="4441" name="命令" />
+<column id="4572" name="决定" />
+<column id="4703" name="公告" />
+<column id="5096" name="通告" />
+<column id="5227" name="通知" />
+<column id="5358" name="通报" />
+<column id="5489" name="议案" />
+<column id="5620" name="报告" />
+<column id="5751" name="请示" />
+<column id="5882" name="批复" />
+<column id="6013" name="意见" />
+<column id="6144" name="函" />
+<column id="6275" name="会议纪要" />
+</column>
+<column id="2869" name="动态信息" >
+<column id="6537" name="工作动态" />
+<column id="6668" name="重要会议" />
+<column id="6799" name="执法监督" />
+<column id="6930" name="统计数据" />
+<column id="7061" name="公示公告" />
+<column id="7192" name="政策解读" />
+<column id="7323" name="其他" />
+</column>
+<column id="3000" name="突发公共事件" >
+<column id="7454" name="应急预案" />
+<column id="7585" name="应急预警" />
+<column id="7716" name="应对情况" />
+<column id="7847" name="其他" />
+</column>
+<column id="3131" name="财政信息" >
+<column id="7978" name="财政预算决算" />
+<column id="8109" name="专项资金" />
+<column id="8240" name="政府采购与招投标" />
+<column id="8371" name="其他" />
+</column>
+<column id="3262" name="重大项目" >
+<column id="8502" name="项目审批及实施情况" />
+<column id="8633" name="其他" />
+</column>
+<column id="3393" name="行政权力" >
+<column id="8764" name="办事指南" />
+<column id="8895" name="行政事业性收费" />
+<column id="9026" name="办理情况" />
+<column id="9157" name="其他" />
+</column>
+<column id="3524" name="便民服务" />
+<column id="3655" name="其他" />
+</column>
+</column>
+<column id="149" name="对外事务" >
+<column id="151" name="19A外交、外事" >
+<column id="2655" name="政府文件" >
+<column id="4358" name="命令" />
+<column id="4489" name="决定" />
+<column id="4620" name="公告" />
+<column id="5013" name="通告" />
+<column id="5144" name="通知" />
+<column id="5275" name="通报" />
+<column id="5406" name="议案" />
+<column id="5537" name="报告" />
+<column id="5668" name="请示" />
+<column id="5799" name="批复" />
+<column id="5930" name="意见" />
+<column id="6061" name="函" />
+<column id="6192" name="会议纪要" />
+</column>
+<column id="2786" name="动态信息" >
+<column id="6454" name="工作动态" />
+<column id="6585" name="重要会议" />
+<column id="6716" name="执法监督" />
+<column id="6847" name="统计数据" />
+<column id="6978" name="公示公告" />
+<column id="7109" name="政策解读" />
+<column id="7240" name="其他" />
+</column>
+<column id="2917" name="突发公共事件" >
+<column id="7371" name="应急预案" />
+<column id="7502" name="应急预警" />
+<column id="7633" name="应对情况" />
+<column id="7764" name="其他" />
+</column>
+<column id="3048" name="财政信息" >
+<column id="7895" name="财政预算决算" />
+<column id="8026" name="专项资金" />
+<column id="8157" name="政府采购与招投标" />
+<column id="8288" name="其他" />
+</column>
+<column id="3179" name="重大项目" >
+<column id="8419" name="项目审批及实施情况" />
+<column id="8550" name="其他" />
+</column>
+<column id="3310" name="行政权力" >
+<column id="8681" name="办事指南" />
+<column id="8812" name="行政事业性收费" />
+<column id="8943" name="办理情况" />
+<column id="9074" name="其他" />
+</column>
+<column id="3441" name="便民服务" />
+<column id="3572" name="其他" />
+</column>
+<column id="2478" name="19Z其他" >
+<column id="2740" name="政府文件" >
+<column id="4443" name="命令" />
+<column id="4574" name="决定" />
+<column id="4705" name="公告" />
+<column id="5098" name="通告" />
+<column id="5229" name="通知" />
+<column id="5360" name="通报" />
+<column id="5491" name="议案" />
+<column id="5622" name="报告" />
+<column id="5753" name="请示" />
+<column id="5884" name="批复" />
+<column id="6015" name="意见" />
+<column id="6146" name="函" />
+<column id="6277" name="会议纪要" />
+</column>
+<column id="2871" name="动态信息" >
+<column id="6539" name="工作动态" />
+<column id="6670" name="重要会议" />
+<column id="6801" name="执法监督" />
+<column id="6932" name="统计数据" />
+<column id="7063" name="公示公告" />
+<column id="7194" name="政策解读" />
+<column id="7325" name="其他" />
+</column>
+<column id="3002" name="突发公共事件" >
+<column id="7456" name="应急预案" />
+<column id="7587" name="应急预警" />
+<column id="7718" name="应对情况" />
+<column id="7849" name="其他" />
+</column>
+<column id="3133" name="财政信息" >
+<column id="7980" name="财政预算决算" />
+<column id="8111" name="专项资金" />
+<column id="8242" name="政府采购与招投标" />
+<column id="8373" name="其他" />
+</column>
+<column id="3264" name="重大项目" >
+<column id="8504" name="项目审批及实施情况" />
+<column id="8635" name="其他" />
+</column>
+<column id="3395" name="行政权力" >
+<column id="8766" name="办事指南" />
+<column id="8897" name="行政事业性收费" />
+<column id="9028" name="办理情况" />
+<column id="9159" name="其他" />
+</column>
+<column id="3526" name="便民服务" />
+<column id="3657" name="其他" />
+</column>
+</column>
+<column id="152" name="港澳台侨工作" >
+<column id="153" name="20A港澳工作" >
+<column id="2656" name="政府文件" >
+<column id="4359" name="命令" />
+<column id="4490" name="决定" />
+<column id="4621" name="公告" />
+<column id="5014" name="通告" />
+<column id="5145" name="通知" />
+<column id="5276" name="通报" />
+<column id="5407" name="议案" />
+<column id="5538" name="报告" />
+<column id="5669" name="请示" />
+<column id="5800" name="批复" />
+<column id="5931" name="意见" />
+<column id="6062" name="函" />
+<column id="6193" name="会议纪要" />
+</column>
+<column id="2787" name="动态信息" >
+<column id="6455" name="工作动态" />
+<column id="6586" name="重要会议" />
+<column id="6717" name="执法监督" />
+<column id="6848" name="统计数据" />
+<column id="6979" name="公示公告" />
+<column id="7110" name="政策解读" />
+<column id="7241" name="其他" />
+</column>
+<column id="2918" name="突发公共事件" >
+<column id="7372" name="应急预案" />
+<column id="7503" name="应急预警" />
+<column id="7634" name="应对情况" />
+<column id="7765" name="其他" />
+</column>
+<column id="3049" name="财政信息" >
+<column id="7896" name="财政预算决算" />
+<column id="8027" name="专项资金" />
+<column id="8158" name="政府采购与招投标" />
+<column id="8289" name="其他" />
+</column>
+<column id="3180" name="重大项目" >
+<column id="8420" name="项目审批及实施情况" />
+<column id="8551" name="其他" />
+</column>
+<column id="3311" name="行政权力" >
+<column id="8682" name="办事指南" />
+<column id="8813" name="行政事业性收费" />
+<column id="8944" name="办理情况" />
+<column id="9075" name="其他" />
+</column>
+<column id="3442" name="便民服务" />
+<column id="3573" name="其他" />
+</column>
+<column id="2479" name="20B对台工作" >
+<column id="2741" name="政府文件" >
+<column id="4444" name="命令" />
+<column id="4575" name="决定" />
+<column id="4706" name="公告" />
+<column id="5099" name="通告" />
+<column id="5230" name="通知" />
+<column id="5361" name="通报" />
+<column id="5492" name="议案" />
+<column id="5623" name="报告" />
+<column id="5754" name="请示" />
+<column id="5885" name="批复" />
+<column id="6016" name="意见" />
+<column id="6147" name="函" />
+<column id="6278" name="会议纪要" />
+</column>
+<column id="2872" name="动态信息" >
+<column id="6540" name="工作动态" />
+<column id="6671" name="重要会议" />
+<column id="6802" name="执法监督" />
+<column id="6933" name="统计数据" />
+<column id="7064" name="公示公告" />
+<column id="7195" name="政策解读" />
+<column id="7326" name="其他" />
+</column>
+<column id="3003" name="突发公共事件" >
+<column id="7457" name="应急预案" />
+<column id="7588" name="应急预警" />
+<column id="7719" name="应对情况" />
+<column id="7850" name="其他" />
+</column>
+<column id="3134" name="财政信息" >
+<column id="7981" name="财政预算决算" />
+<column id="8112" name="专项资金" />
+<column id="8243" name="政府采购与招投标" />
+<column id="8374" name="其他" />
+</column>
+<column id="3265" name="重大项目" >
+<column id="8505" name="项目审批及实施情况" />
+<column id="8636" name="其他" />
+</column>
+<column id="3396" name="行政权力" >
+<column id="8767" name="办事指南" />
+<column id="8898" name="行政事业性收费" />
+<column id="9029" name="办理情况" />
+<column id="9160" name="其他" />
+</column>
+<column id="3527" name="便民服务" />
+<column id="3658" name="其他" />
+</column>
+<column id="2480" name="20C侨务工作" >
+<column id="2742" name="政府文件" >
+<column id="4445" name="命令" />
+<column id="4576" name="决定" />
+<column id="4707" name="公告" />
+<column id="5100" name="通告" />
+<column id="5231" name="通知" />
+<column id="5362" name="通报" />
+<column id="5493" name="议案" />
+<column id="5624" name="报告" />
+<column id="5755" name="请示" />
+<column id="5886" name="批复" />
+<column id="6017" name="意见" />
+<column id="6148" name="函" />
+<column id="6279" name="会议纪要" />
+</column>
+<column id="2873" name="动态信息" >
+<column id="6541" name="工作动态" />
+<column id="6672" name="重要会议" />
+<column id="6803" name="执法监督" />
+<column id="6934" name="统计数据" />
+<column id="7065" name="公示公告" />
+<column id="7196" name="政策解读" />
+<column id="7327" name="其他" />
+</column>
+<column id="3004" name="突发公共事件" >
+<column id="7458" name="应急预案" />
+<column id="7589" name="应急预警" />
+<column id="7720" name="应对情况" />
+<column id="7851" name="其他" />
+</column>
+<column id="3135" name="财政信息" >
+<column id="7982" name="财政预算决算" />
+<column id="8113" name="专项资金" />
+<column id="8244" name="政府采购与招投标" />
+<column id="8375" name="其他" />
+</column>
+<column id="3266" name="重大项目" >
+<column id="8506" name="项目审批及实施情况" />
+<column id="8637" name="其他" />
+</column>
+<column id="3397" name="行政权力" >
+<column id="8768" name="办事指南" />
+<column id="8899" name="行政事业性收费" />
+<column id="9030" name="办理情况" />
+<column id="9161" name="其他" />
+</column>
+<column id="3528" name="便民服务" />
+<column id="3659" name="其他" />
+</column>
+<column id="2481" name="20Z其他" >
+<column id="2743" name="政府文件" >
+<column id="4446" name="命令" />
+<column id="4577" name="决定" />
+<column id="4708" name="公告" />
+<column id="5101" name="通告" />
+<column id="5232" name="通知" />
+<column id="5363" name="通报" />
+<column id="5494" name="议案" />
+<column id="5625" name="报告" />
+<column id="5756" name="请示" />
+<column id="5887" name="批复" />
+<column id="6018" name="意见" />
+<column id="6149" name="函" />
+<column id="6280" name="会议纪要" />
+</column>
+<column id="2874" name="动态信息" >
+<column id="6542" name="工作动态" />
+<column id="6673" name="重要会议" />
+<column id="6804" name="执法监督" />
+<column id="6935" name="统计数据" />
+<column id="7066" name="公示公告" />
+<column id="7197" name="政策解读" />
+<column id="7328" name="其他" />
+</column>
+<column id="3005" name="突发公共事件" >
+<column id="7459" name="应急预案" />
+<column id="7590" name="应急预警" />
+<column id="7721" name="应对情况" />
+<column id="7852" name="其他" />
+</column>
+<column id="3136" name="财政信息" >
+<column id="7983" name="财政预算决算" />
+<column id="8114" name="专项资金" />
+<column id="8245" name="政府采购与招投标" />
+<column id="8376" name="其他" />
+</column>
+<column id="3267" name="重大项目" >
+<column id="8507" name="项目审批及实施情况" />
+<column id="8638" name="其他" />
+</column>
+<column id="3398" name="行政权力" >
+<column id="8769" name="办事指南" />
+<column id="8900" name="行政事业性收费" />
+<column id="9031" name="办理情况" />
+<column id="9162" name="其他" />
+</column>
+<column id="3529" name="便民服务" />
+<column id="3660" name="其他" />
+</column>
+</column>
+<column id="154" name="国防" >
+<column id="155" name="21A国防建设" >
+<column id="2657" name="政府文件" >
+<column id="4360" name="命令" />
+<column id="4491" name="决定" />
+<column id="4622" name="公告" />
+<column id="5015" name="通告" />
+<column id="5146" name="通知" />
+<column id="5277" name="通报" />
+<column id="5408" name="议案" />
+<column id="5539" name="报告" />
+<column id="5670" name="请示" />
+<column id="5801" name="批复" />
+<column id="5932" name="意见" />
+<column id="6063" name="函" />
+<column id="6194" name="会议纪要" />
+</column>
+<column id="2788" name="动态信息" >
+<column id="6456" name="工作动态" />
+<column id="6587" name="重要会议" />
+<column id="6718" name="执法监督" />
+<column id="6849" name="统计数据" />
+<column id="6980" name="公示公告" />
+<column id="7111" name="政策解读" />
+<column id="7242" name="其他" />
+</column>
+<column id="2919" name="突发公共事件" >
+<column id="7373" name="应急预案" />
+<column id="7504" name="应急预警" />
+<column id="7635" name="应对情况" />
+<column id="7766" name="其他" />
+</column>
+<column id="3050" name="财政信息" >
+<column id="7897" name="财政预算决算" />
+<column id="8028" name="专项资金" />
+<column id="8159" name="政府采购与招投标" />
+<column id="8290" name="其他" />
+</column>
+<column id="3181" name="重大项目" >
+<column id="8421" name="项目审批及实施情况" />
+<column id="8552" name="其他" />
+</column>
+<column id="3312" name="行政权力" >
+<column id="8683" name="办事指南" />
+<column id="8814" name="行政事业性收费" />
+<column id="8945" name="办理情况" />
+<column id="9076" name="其他" />
+</column>
+<column id="3443" name="便民服务" />
+<column id="3574" name="其他" />
+</column>
+<column id="2482" name="21B国防动员" >
+<column id="2744" name="政府文件" >
+<column id="4447" name="命令" />
+<column id="4578" name="决定" />
+<column id="4709" name="公告" />
+<column id="5102" name="通告" />
+<column id="5233" name="通知" />
+<column id="5364" name="通报" />
+<column id="5495" name="议案" />
+<column id="5626" name="报告" />
+<column id="5757" name="请示" />
+<column id="5888" name="批复" />
+<column id="6019" name="意见" />
+<column id="6150" name="函" />
+<column id="6281" name="会议纪要" />
+</column>
+<column id="2875" name="动态信息" >
+<column id="6543" name="工作动态" />
+<column id="6674" name="重要会议" />
+<column id="6805" name="执法监督" />
+<column id="6936" name="统计数据" />
+<column id="7067" name="公示公告" />
+<column id="7198" name="政策解读" />
+<column id="7329" name="其他" />
+</column>
+<column id="3006" name="突发公共事件" >
+<column id="7460" name="应急预案" />
+<column id="7591" name="应急预警" />
+<column id="7722" name="应对情况" />
+<column id="7853" name="其他" />
+</column>
+<column id="3137" name="财政信息" >
+<column id="7984" name="财政预算决算" />
+<column id="8115" name="专项资金" />
+<column id="8246" name="政府采购与招投标" />
+<column id="8377" name="其他" />
+</column>
+<column id="3268" name="重大项目" >
+<column id="8508" name="项目审批及实施情况" />
+<column id="8639" name="其他" />
+</column>
+<column id="3399" name="行政权力" >
+<column id="8770" name="办事指南" />
+<column id="8901" name="行政事业性收费" />
+<column id="9032" name="办理情况" />
+<column id="9163" name="其他" />
+</column>
+<column id="3530" name="便民服务" />
+<column id="3661" name="其他" />
+</column>
+<column id="2483" name="21Z其他" >
+<column id="2745" name="政府文件" >
+<column id="4448" name="命令" />
+<column id="4579" name="决定" />
+<column id="4710" name="公告" />
+<column id="5103" name="通告" />
+<column id="5234" name="通知" />
+<column id="5365" name="通报" />
+<column id="5496" name="议案" />
+<column id="5627" name="报告" />
+<column id="5758" name="请示" />
+<column id="5889" name="批复" />
+<column id="6020" name="意见" />
+<column id="6151" name="函" />
+<column id="6282" name="会议纪要" />
+</column>
+<column id="2876" name="动态信息" >
+<column id="6544" name="工作动态" />
+<column id="6675" name="重要会议" />
+<column id="6806" name="执法监督" />
+<column id="6937" name="统计数据" />
+<column id="7068" name="公示公告" />
+<column id="7199" name="政策解读" />
+<column id="7330" name="其他" />
+</column>
+<column id="3007" name="突发公共事件" >
+<column id="7461" name="应急预案" />
+<column id="7592" name="应急预警" />
+<column id="7723" name="应对情况" />
+<column id="7854" name="其他" />
+</column>
+<column id="3138" name="财政信息" >
+<column id="7985" name="财政预算决算" />
+<column id="8116" name="专项资金" />
+<column id="8247" name="政府采购与招投标" />
+<column id="8378" name="其他" />
+</column>
+<column id="3269" name="重大项目" >
+<column id="8509" name="项目审批及实施情况" />
+<column id="8640" name="其他" />
+</column>
+<column id="3400" name="行政权力" >
+<column id="8771" name="办事指南" />
+<column id="8902" name="行政事业性收费" />
+<column id="9033" name="办理情况" />
+<column id="9164" name="其他" />
+</column>
+<column id="3531" name="便民服务" />
+<column id="3662" name="其他" />
+</column>
+</column>
+</column>
+</root>

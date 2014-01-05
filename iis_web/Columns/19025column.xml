@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="gb2312"?>
+<root>
+<column id="74" name="省广电局" path="10954/gpimsg1/" level="1" gpi="101"><column id="91" name="组织机构简介" path="10954/gpimsg1/" level="2" gpi="91">
+<column id="96" name="01E政府直属机构" path="10954/gpimsg1/" level="3" gpi="96">
+<column id="2488" name="概况信息" path="10954/gpimsg1/" level="4" gpi="2488">
+<column id="3667" name="机构职能" path="10954/gpimsg1/" level="5" gpi="3667">
+</column>
+<column id="3798" name="领导简介及分工" path="10954/gpimsg1/" level="5" gpi="3798">
+</column>
+<column id="3929" name="内设机构" path="10954/gpimsg1/" level="5" gpi="3929">
+</column>
+<column id="4191" name="其他" path="10954/gpimsg1/" level="5" gpi="4191">
+</column>
+</column>
+</column>
+</column>
+<column id="135" name="文化、广电、新闻出版" path="10954/gpimsg1/" level="2" gpi="135">
+<column id="2455" name="12D广播、电影、电视" path="10954/gpimsg1/" level="3" gpi="2455">
+<column id="2717" name="政府文件" path="10954/gpimsg1/" level="4" gpi="2717">
+<column id="4420" name="命令" path="10954/gpimsg1/" level="5" gpi="4420">
+</column>
+<column id="4551" name="决定" path="10954/gpimsg1/" level="5" gpi="4551">
+</column>
+<column id="4682" name="公告" path="10954/gpimsg1/" level="5" gpi="4682">
+</column>
+<column id="5075" name="通告" path="10954/gpimsg1/" level="5" gpi="5075">
+</column>
+<column id="5206" name="通知" path="10954/gpimsg1/" level="5" gpi="5206">
+</column>
+<column id="5337" name="通报" path="10954/gpimsg1/" level="5" gpi="5337">
+</column>
+<column id="5468" name="议案" path="10954/gpimsg1/" level="5" gpi="5468">
+</column>
+<column id="5599" name="报告" path="10954/gpimsg1/" level="5" gpi="5599">
+</column>
+<column id="5730" name="请示" path="10954/gpimsg1/" level="5" gpi="5730">
+</column>
+<column id="5861" name="批复" path="10954/gpimsg1/" level="5" gpi="5861">
+</column>
+<column id="5992" name="意见" path="10954/gpimsg1/" level="5" gpi="5992">
+</column>
+<column id="6123" name="函" path="10954/gpimsg1/" level="5" gpi="6123">
+</column>
+<column id="6254" name="会议纪要" path="10954/gpimsg1/" level="5" gpi="6254">
+</column>
+<column id="6385" name="其他" path="10954/gpimsg1/" level="5" gpi="6385">
+</column>
+</column>
+<column id="2848" name="动态信息" path="10954/gpimsg1/" level="4" gpi="2848">
+<column id="6516" name="工作动态" path="10954/gpimsg1/" level="5" gpi="6516">
+</column>
+<column id="6647" name="重要会议" path="10954/gpimsg1/" level="5" gpi="6647">
+</column>
+<column id="6778" name="执法监督" path="10954/gpimsg1/" level="5" gpi="6778">
+</column>
+<column id="7040" name="公示公告" path="10954/gpimsg1/" level="5" gpi="7040">
+</column>
+<column id="7302" name="其他" path="10954/gpimsg1/" level="5" gpi="7302">
+</column>
+</column>
+<column id="2979" name="突发公共事件" path="10954/gpimsg1/" level="4" gpi="2979">
+<column id="7433" name="应急预案" path="10954/gpimsg1/" level="5" gpi="7433">
+</column>
+<column id="7695" name="应对情况" path="10954/gpimsg1/" level="5" gpi="7695">
+</column>
+<column id="7826" name="其他" path="10954/gpimsg1/" level="5" gpi="7826">
+</column>
+</column>
+<column id="3110" name="财政信息" path="10954/gpimsg1/" level="4" gpi="3110">
+<column id="7957" name="财政预算决算" path="10954/gpimsg1/" level="5" gpi="7957">
+</column>
+<column id="8219" name="政府采购与招投标" path="10954/gpimsg1/" level="5" gpi="8219">
+</column>
+<column id="8350" name="其他" path="10954/gpimsg1/" level="5" gpi="8350">
+</column>
+</column>
+<column id="3241" name="重大项目" path="10954/gpimsg1/" level="4" gpi="3241">
+<column id="8481" name="项目审批及实施情况" path="10954/gpimsg1/" level="5" gpi="8481">
+</column>
+<column id="8612" name="其他" path="10954/gpimsg1/" level="5" gpi="8612">
+</column>
+</column>
+<column id="3372" name="行政权力" path="10954/gpimsg1/" level="4" gpi="3372">
+<column id="8743" name="办事指南" path="10954/gpimsg1/" level="5" gpi="8743">
+</column>
+<column id="9005" name="办理情况" path="10954/gpimsg1/" level="5" gpi="9005">
+</column>
+</column>
+<column id="3503" name="便民服务" path="10954/gpimsg1/" level="4" gpi="3503">
+</column>
+<column id="3634" name="其他" path="10954/gpimsg1/" level="4" gpi="3634">
+</column>
+</column>
+</column>
+</column>
+</root>

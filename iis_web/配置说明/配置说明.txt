@@ -1,0 +1,28 @@
+1、打开Web.config文件，修改这个部分的地区代码部分：
+<configuration>
+<appSettings/>
+  <connectionStrings>
+    <add connectionString="server=59.213.213.51;uid=infosend;pwd=system;database=infosendsystem;" name="Connection"/>
+    <add connectionString="信息填报目录" name="GPItitle"></add>
+    <add connectionString="83496569" name="RegionId"></add>
+    <add connectionString="74" name="roleId"/>
+</connectionStrings>
+将83496569修改成为本县的地区RegionId
+
+
+2、将页面中的其它部分修改成为本县部分，比如政府办对应的链接
+http://10.21.56.55:1200/GPI/index.aspx?dept=92337799
+将92337799修改为本县政府办的部门ID
+
+
+3、主页的其他部分自己修改
+
+
+备注：RegionId和部门ID自己在EXCEL文件中查找。
+
+
+
+
+
+
+
