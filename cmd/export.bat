@@ -1,0 +1,1 @@
+exp xdd/xdd@ora1020_ip file=%date:~0,10%.dmp owner=xdd

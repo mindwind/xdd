@@ -1,0 +1,1 @@
+imp xdd/xddpass@ora1020 file=data_prod(xdd-xddpass).dmp fromuser=xdd touser=xdd ignore=y
