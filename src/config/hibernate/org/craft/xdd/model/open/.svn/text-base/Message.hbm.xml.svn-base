@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE hibernate-mapping PUBLIC
+    "-//Hibernate/Hibernate Mapping DTD 3.0//EN" 
+    "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping
+>
+    <class
+        name="org.craft.xdd.model.open.Message"
+        table="XDD_MESSAGE"
+        dynamic-update="true"
+        dynamic-insert="true"
+    >
+
+        <id
+            name="id"
+            column="ID"
+            type="java.lang.String"
+        >
+            <generator class="uuid.hex">
+              <!--  
+                  To add non XDoclet generator parameters, create a file named 
+                  hibernate-generator-params-Message.xml 
+                  containing the additional parameters and place it in your merge dir. 
+              --> 
+            </generator>
+        </id>
+
+        <property
+            name="from"
+            type="string"
+            update="true"
+            insert="true"
+            column="FROMNAME"
+            length="10"
+            not-null="true"
+        />
+
+        <property
+            name="title"
+            type="string"
+            update="true"
+            insert="true"
+            column="TITLE"
+            length="64"
+            not-null="true"
+        />
+
+        <property
+            name="email"
+            type="string"
+            update="true"
+            insert="true"
+            column="EMAIL"
+            length="64"
+            not-null="true"
+        />
+
+        <property
+            name="address"
+            type="string"
+            update="true"
+            insert="true"
+            column="ADDRESS"
+            length="128"
+            not-null="true"
+        />
+
+        <property
+            name="tel"
+            type="string"
+            update="true"
+            insert="true"
+            column="TEL"
+            length="16"
+            not-null="true"
+        />
+
+        <property
+            name="fax"
+            type="string"
+            update="true"
+            insert="true"
+            column="FAX"
+            length="16"
+            not-null="false"
+        />
+
+        <property
+            name="content"
+            type="string"
+            update="true"
+            insert="true"
+            column="CONTENT"
+            length="4000"
+            not-null="true"
+        />
+
+        <property
+            name="result"
+            type="string"
+            update="true"
+            insert="true"
+            column="RESULT"
+            length="4000"
+            not-null="false"
+        />
+
+        <property
+            name="datetime"
+            type="string"
+            update="true"
+            insert="true"
+            column="DATETIME"
+            length="17"
+            not-null="true"
+        />
+
+        <property
+            name="state"
+            type="int"
+            update="true"
+            insert="true"
+            column="STATE"
+            not-null="true"
+        />
+
+        <many-to-one
+            name="messageType"
+            class="org.craft.xdd.model.open.MessageType"
+            cascade="save-update"
+            outer-join="auto"
+            update="true"
+            insert="true"
+            column="MESSAGE_TYPE_ID"
+            not-null="false"
+        />
+
+        <!--
+            To add non XDoclet property mappings, create a file named
+                hibernate-properties-Message.xml
+            containing the additional properties and place it in your merge dir.
+        -->
+
+    </class>
+
+</hibernate-mapping>

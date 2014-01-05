@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/61/trunk/xdd/web/js/user
+END
+password_reset.js
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/61/trunk/xdd/web/js/user/password_reset.js
+END
+user_modify.js
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/61/trunk/xdd/web/js/user/user_modify.js
+END
+role_del.js
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/61/trunk/xdd/web/js/user/role_del.js
+END
+user_login.js
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/61/trunk/xdd/web/js/user/user_login.js
+END
+user_manage.js
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/61/trunk/xdd/web/js/user/user_manage.js
+END
+role_modify.js
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/61/trunk/xdd/web/js/user/role_modify.js
+END
+role_manage.js
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/61/trunk/xdd/web/js/user/role_manage.js
+END
+password_modify.js
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/61/trunk/xdd/web/js/user/password_modify.js
+END
+privilege_assign.js
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/61/trunk/xdd/web/js/user/privilege_assign.js
+END
+auth.js
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/61/trunk/xdd/web/js/user/auth.js
+END
+privilege_callback.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/61/trunk/xdd/web/js/user/privilege_callback.js
+END
+user_del.js
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/61/trunk/xdd/web/js/user/user_del.js
+END

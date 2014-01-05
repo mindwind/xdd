@@ -1,0 +1,135 @@
+/* ----------------------------------------------------------------------------
+ * 主页导航栏 样式
+ *
+ * @author Hu Feng
+ * @version 1.0, 2009/9/4
+ * -------------------------------------------------------------------------- */
+#weather {
+	float: right;
+	margin-top: 2px;
+	margin-left: 5px;
+	font-family: "宋体", "arial";
+	font-size: 12px;
+	vertical-align: bottom;;
+	font-family: "宋体", "arial";
+}
+
+#weather a {
+	color: #1a3c84;
+	text-decoration: none;
+	vertical-align: bottom;
+}
+
+#weather a:hover {
+	color: #a80505;
+	text-decoration: underline;
+}
+
+.mnavigator {
+	border-top-width: 3px;
+	float: left;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	width: 100%;
+	height: 25px;
+	border-top-color: #ffcc66;
+	border-bottom: #ffcc66 3px solid;
+	background-color: #a80505;
+	background-repeat: repeat-x;
+	text-align: center
+}
+
+.mnavigator a {
+	font-weight: bold;
+	font-size: 12px;
+	color: #faf8e1;
+	line-height: normal;
+	font-family: "宋体", "arial";
+	text-align: center;
+	text-decoration: none;
+	vertical-align: bottom;
+}
+
+.linkout1 span {
+	display: none
+}
+
+.linkout1 div {
+	z-index: 100;
+	position: relative;
+	top: -14px;
+}
+
+.linkin1 span {
+	display: block;
+	border: #ffcc66 1px solid;
+	padding-right: 15px;
+	padding-left: 15px;
+	padding-bottom: 6px;
+	padding-top: 6px;
+	font-size: 12px;
+	z-index: 100;
+	background: #ffffe1;
+	filter: progid :               dximagetransform .              
+		microsoft . 
+		     
+		  
+		 
+		  shadow(color =               #333333, direction =               120,
+		strength =   
+		           5);
+	white-space: nowrap;
+	position: absolute;
+	top: 12px;
+	text-align: left
+}
+
+.linkin1 div {
+	z-index: 100;
+	position: relative;
+	top: -14px;
+}
+
+.linkout1 {
+	clear: right;
+	border-right: #1c7dce 1px solid;
+	font-weight: bold;
+	font-size: medium;
+	filter: shadow(color =               black, direction =               270)
+		;
+	float: left;
+	margin: 0px;
+	border-left: #ffcc66 1px solid;
+	width: 80px;
+	cursor: pointer;
+	line-height: 24px;
+	height: 23px
+}
+
+.linkin1 {
+	clear: right;
+	border-right: #1c7dce 1px solid;
+	font-weight: bold;
+	font-size: medium;
+	filter: shadow(color =               black, direction =               270)
+		;
+	float: left;
+	margin: 0px;
+	border-left: #ffcc66 1px solid;
+	width: 80px;
+	cursor: pointer;
+	line-height: 24px;
+	height: 23px;
+	background-position: left top;
+	background-repeat: repeat-x
+}
+
+.linkin1 a:hover {
+	color: #ff6600;
+	text-decoration: none
+}
+
+.linkin1 span a {
+	font-weight: normal;
+	color: #000000
+}

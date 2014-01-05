@@ -1,0 +1,40 @@
+/* title 样式 */
+.x-panel-tl,.x-panel-tr,.x-panel-bl,.x-panel-br {
+	background-image: url("no.gif");
+	background: #FFFFFF;
+	text-align: center;
+}
+
+.x-panel-tl,.x-panel-tr,.x-panel-bl,.x-panel-br {
+	border-bottom-color: #FFFFFF;
+}
+
+.x-panel-tc {
+	background-image: url("no.gif");
+}
+
+.x-panel-tl .x-panel-header {
+	color: #000000;
+}
+
+/* body 样式 */
+.x-panel-ml {
+	background-color: #FFFFFF;
+	background-image: url("no.gif");
+	border: 1px solid #FFCC66;
+	padding : 10 0 10 0;
+}
+
+.x-panel-mr {
+	background-image: url("no.gif");
+}
+
+.x-panel-mc {
+	background-color: #FFFFFF;
+}
+
+/* button 区样式 */
+.x-panel-bc {
+    background-image: url("no.gif");
+}
+

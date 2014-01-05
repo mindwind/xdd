@@ -1,0 +1,22 @@
+/* ----------------------------------------------------------------------------
+ * 后台主界面 样式��̨������ ��ʽ
+ *
+ * @author Hu Feng
+ * @version 1.0, 2009/8/29
+ * -------------------------------------------------------------------------- */
+ 
+#welcome {
+	margin-top: 28px;
+	margin-right: 25px;
+	margin-bottom: 25px;
+	margin-left: 140px;
+	padding-top: 210px;
+	font-size: 16px;
+	font-family: "����宋体", "arial";
+	font-weight: bold;
+	text-align: center;
+	color: black;
+	width: 597;
+	height: 420;
+	background-image: url(../images/welcome.jpg);
+}

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE hibernate-mapping PUBLIC
+    "-//Hibernate/Hibernate Mapping DTD 3.0//EN" 
+    "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping
+>
+    <class
+        name="org.craft.xdd.model.info.InfoGroup"
+        table="XDD_INFO_GROUP"
+        dynamic-update="true"
+        dynamic-insert="true"
+    >
+
+        <id
+            name="id"
+            column="ID"
+            type="java.lang.String"
+        >
+            <generator class="assigned">
+              <!--  
+                  To add non XDoclet generator parameters, create a file named 
+                  hibernate-generator-params-InfoGroup.xml 
+                  containing the additional parameters and place it in your merge dir. 
+              --> 
+            </generator>
+        </id>
+
+        <property
+            name="groupLevel"
+            type="int"
+            update="true"
+            insert="true"
+            column="GROUP_LEVEL"
+            not-null="true"
+        />
+
+        <property
+            name="name"
+            type="string"
+            update="true"
+            insert="true"
+            column="NAME"
+            length="50"
+            not-null="true"
+        />
+
+        <property
+            name="type"
+            type="string"
+            update="true"
+            insert="true"
+            column="TYPE"
+            length="10"
+            not-null="true"
+        />
+
+        <property
+            name="link"
+            type="string"
+            update="true"
+            insert="true"
+            column="LINK"
+            length="100"
+            not-null="false"
+        />
+
+        <set
+            name="children"
+            table="XDD_INFO_GROUP"
+            lazy="true"
+            inverse="true"
+            cascade="all"
+            sort="unsorted"
+            order-by="ID ASC"
+        >
+
+            <key
+                column="PARENT_ID"
+            >
+            </key>
+
+            <one-to-many
+                  class="org.craft.xdd.model.info.InfoGroup"
+            />
+
+        </set>
+
+        <many-to-one
+            name="parentGroup"
+            class="org.craft.xdd.model.info.InfoGroup"
+            cascade="save-update"
+            outer-join="auto"
+            update="true"
+            insert="true"
+            column="PARENT_ID"
+            not-null="true"
+        />
+
+        <!--
+            To add non XDoclet property mappings, create a file named
+                hibernate-properties-InfoGroup.xml
+            containing the additional properties and place it in your merge dir.
+        -->
+
+    </class>
+
+</hibernate-mapping>

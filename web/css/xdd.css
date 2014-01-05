@@ -1,0 +1,339 @@
+/* ----------------------------------------------------------------------------
+ * 主页 样式
+ *
+ * @author Hu Feng
+ * @version 1.0, 2009/9/4
+ * -------------------------------------------------------------------------- */
+#daily {
+	font-size: 25px;
+	font-family: "黑体";
+	font-weight: bolder;
+	margin-bottom: 20px;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 10px;
+}
+
+#daily a {
+	color: black;
+	text-decoration: none
+}
+
+#daily a:hover {
+	color: #a80505;
+	text-decoration: underline
+}
+
+#east {
+	float: right;
+}
+
+#ft_link {
+	margin-top: 5px;
+}
+
+#ft_link a {
+	text-decoration: none
+}
+
+#groupInfoList {
+	width: 80%;
+	font-size: 12px;
+	font-family: "宋体", "arial";
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 30px;
+	overflow: hidden;
+}
+
+#groupInfoList a {
+	background-image: url(../images/info.jpg);
+	background-repeat: no-repeat;
+	padding-left: 20px;
+	float: left;
+	clear: left;
+	vertical-align: bottom;
+	color: black;
+	text-decoration: none;
+	vertical-align: bottom;
+}
+
+#groupInfoList a:hover {
+	color: #a80505;
+	text-decoration: underline
+}
+
+#groupInfoList span {
+	float: right;
+	clear: right;
+}
+
+#in {
+	border-left: 2px solid #ffcc66;
+	border-right: 2px solid #ffcc66;
+	width: 997px;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#mfooter {
+	text-align: center;
+	background-color: #ffffcc;
+	font-size: 12px;
+	font-family: "宋体", "arial";
+	margin-top: 30px;
+	padding-top: 0px;
+	padding-bottom: 20px;
+	background-image: url(../images/mfoot.gif);
+	background-repeat: repeat-x;
+	clear: both;
+}
+
+#out {
+	width: 100%;
+	text-align: center;
+}
+
+#west {
+	float: left;
+}
+
+.box {
+	border: 1px solid #ffcc66;
+	padding-top: 10px;
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-bottom: 10px;
+	vertical-align: top;
+	text-align: center;
+}
+
+.box1 {
+	border: 1px solid #ffcc66;
+	padding-top: 10px;
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-bottom: 10px;
+	vertical-align: top;
+	text-align: left;
+}
+
+.box2 {
+	background: #ffcc66;
+	padding-left: 3px;
+	padding-right: 3px;
+	padding-bottom: 3px;
+	margin-bottom: 5px;
+	margin-top: 5px;
+	padding-right: 3px;
+	padding-bottom: 3px;
+	margin-bottom: 5px;
+	margin-top: 5px;
+	width: 100%;
+}
+
+.box3 {
+	background: white;
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-bottom: 5px;
+	padding-top: 5px;
+	width: 100%;
+}
+
+.box4 {
+	border-top: 1px solid #ffcc66;
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-bottom: 5px;
+	padding-top: 5px;
+	width: 100%;
+}
+
+.box5 {
+	margin: 10 10 0 0;
+	border-bottom: 1px solid #ffcc66;
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-bottom: 5px;
+	padding-top: 5px;
+	width: 630;
+}
+
+.clear {
+	clear: both;
+}
+
+.content {
+	text-align: left;
+	line-height: 30px;
+}
+
+.info {
+	width: 740px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+.info_box {
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 10px;
+	font-size: 12px;
+	font-family: "宋体", "arial";
+	border-bottom: 1px dashed gray;
+	vertical-align: bottom;
+	clear: both;
+	overflow: hidden;
+}
+
+.info_box a {
+	background-image: url(../images/info.jpg);
+	background-repeat: no-repeat;
+	padding-left: 20px;
+	float: left;
+	vertical-align: bottom;
+	color: black;
+	text-decoration: none
+}
+
+.info_box a:hover {
+	color: #a80505;
+	text-decoration: underline
+}
+
+.info_box span {
+	float: right;
+}
+
+.info_attr {
+	border-top: black 1px solid;
+	background-color: #ffffcc;
+	font-size: 12px;
+	font-family: "宋体", "arial";
+	text-align: center;
+	margin-bottom: 15px;
+}
+
+.info_group {
+	
+}
+
+.info_group h2 {
+	margin-left: 10px;
+	float: left;
+	font-size: 18px;
+	font-family: "宋体";
+	font-weight: bold;
+}
+
+.info_group span {
+	float: right;
+	clear: right;
+}
+
+}
+.info_group a:hover {
+	color: #a80505;
+	text-decoration: underline
+}
+
+.mlink {
+	font-size: 12px;
+	font-family: "宋体", "arial";
+	margin-left: 8px;
+	margin-right: 8px;
+}
+
+.mlink a {
+	color: #1a3c84;
+	text-decoration: none;
+}
+
+.mlink a:hover {
+	color: #a80505;
+	text-decoration: underline
+}
+
+.more {
+	font-size: 12px;
+	font-family: "宋体", "arial";
+	float: right;
+	clear: right;
+	margin-top: 5px;
+	margin-right: 10px;
+}
+
+.more a {
+	color: #cccccc;
+	text-decoration: none;
+}
+
+.more a:hover {
+	color: #a80505;
+	text-decoration: underline
+}
+
+.title {
+	font-size: 25px;
+	font-weight: bold;
+	font-family: "宋体", "arial";
+	text-align: center;
+	margin-top: 30px;
+}
+
+.usertip {
+	background-color: #fbfffa;
+	border: 1px solid #97e490;
+	font-size: 12px;
+	font-family: "宋体", "arial";
+	color: #1d6402;
+	padding: 10px 20px 10px 20px;
+}
+
+.table {
+	border-color: #C1DAD7;
+    border-width: 0 0 1px 1px;
+    border-style: solid;
+}
+
+.th {
+	font: bold 12px "宋体", "arial";
+	color: #4f6b72;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+	text-align: center;
+	padding: 6px 6px 6px 12px;
+	background: #f5fafa;
+	border-color: #C1DAD7;
+    border-width: 1px 1px 0 0;
+    border-style: solid;
+}
+
+.td {
+	background: #ffffff;
+	color: #797268;
+	font: 12px "宋体", "arial";
+	padding: 6px 6px 6px 12px;
+	border-color: #C1DAD7;
+    border-width: 1px 1px 0 0;
+    border-style: solid
+}
+
+body {
+	width: 100%;
+	margin: 0 auto;
+	padding: 0;
+	font-size: 12px;
+	font-family: "宋体", "arial";
+	height: auto;
+}
+
+h2 {
+	font-size: 27px;
+	font-weight: bold;
+	font-family: "黑体", "arial";
+	text-align: center;
+}

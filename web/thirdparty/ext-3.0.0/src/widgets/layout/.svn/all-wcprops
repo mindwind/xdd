@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/61/trunk/xdd/web/thirdparty/ext-3.0.0/src/widgets/layout
+END
+TableLayout.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/61/trunk/xdd/web/thirdparty/ext-3.0.0/src/widgets/layout/TableLayout.js
+END
+BoxLayout.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/61/trunk/xdd/web/thirdparty/ext-3.0.0/src/widgets/layout/BoxLayout.js
+END
+CardLayout.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/61/trunk/xdd/web/thirdparty/ext-3.0.0/src/widgets/layout/CardLayout.js
+END
+AnchorLayout.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/61/trunk/xdd/web/thirdparty/ext-3.0.0/src/widgets/layout/AnchorLayout.js
+END
+BorderLayout.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/61/trunk/xdd/web/thirdparty/ext-3.0.0/src/widgets/layout/BorderLayout.js
+END
+ColumnLayout.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/61/trunk/xdd/web/thirdparty/ext-3.0.0/src/widgets/layout/ColumnLayout.js
+END
+AbsoluteLayout.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/61/trunk/xdd/web/thirdparty/ext-3.0.0/src/widgets/layout/AbsoluteLayout.js
+END
+AccordionLayout.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/61/trunk/xdd/web/thirdparty/ext-3.0.0/src/widgets/layout/AccordionLayout.js
+END
+ContainerLayout.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/61/trunk/xdd/web/thirdparty/ext-3.0.0/src/widgets/layout/ContainerLayout.js
+END
+FitLayout.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/61/trunk/xdd/web/thirdparty/ext-3.0.0/src/widgets/layout/FitLayout.js
+END
+FormLayout.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/61/trunk/xdd/web/thirdparty/ext-3.0.0/src/widgets/layout/FormLayout.js
+END

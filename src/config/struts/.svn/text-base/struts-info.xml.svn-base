@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE struts PUBLIC
+    "-//Apache Software Foundation//DTD Struts Configuration 2.0//EN"
+    "http://struts.apache.org/dtds/struts-2.0.dtd">
+
+<struts>
+
+	<package name="struts-info" namespace="/info"
+		extends="struts-xdd-default">
+
+		<action name="listInfoGroup" class="infoGroupListAction">
+			<result name="json">/common/Json.jsp</result>
+		</action>
+
+		<action name="listInfo" class="infoListAction">
+			<result name="json">/common/Json.jsp</result>
+		</action>
+
+		<action name="listGroupInfo" class="groupInfoListAction2">
+			<result name="success">/info/GroupInfoList2.jsp</result>
+		</action>
+		
+		<action name="info_*" method="{1}" class="infoAction">
+			<result name="json">/common/Json.jsp</result>
+		</action>
+
+		<action name="loadInfo" class="infoLoadAction">
+			<result name="json">/common/Json.jsp</result>
+		</action>
+
+		<action name="listRollInfo" class="rollInfoListAction">
+			<result name="json">/common/Json.jsp</result>
+		</action>
+
+
+		<action name="passInfo" class="infoPassAction">
+			<result name="json">/common/Json.jsp</result>
+		</action>
+
+		<action name="denyInfo" class="infoDenyAction">
+			<result name="json">/common/Json.jsp</result>
+		</action>
+
+		<action name="copyInfo" class="infoCopyAction">
+			<result name="json">/common/Json.jsp</result>
+		</action>
+
+		<action name="viewInfo" class="infoViewAction">
+			<result name="success">/info/InfoView.jsp</result>
+		</action>
+
+		<action name="submitInfo" class="infoSubmitAction">
+			<result name="json">/common/Json.jsp</result>
+		</action>
+
+		<action name="delInfo" class="infoDelAction">
+			<result name="json">/common/Json.jsp</result>
+		</action>
+
+		<action name="pub_*" method="{1}" class="infoPubAction">
+			<result name="json">/common/Json.jsp</result>
+		</action>
+
+		<action name="editInfo" class="infoEditAction">
+			<result name="json">/common/Json.jsp</result>
+		</action>
+
+		<action name="listInfoYear" class="infoYearListAction">
+			<result name="json">/common/Json.jsp</result>
+		</action>
+
+		<action name="statInfo" class="infoStatAction">
+			<result name="json">/common/Json.jsp</result>
+		</action>
+
+		<action name="searchInfo" class="infoSearchAction">
+			<result name="success">/info/InfoSearch.jsp</result>
+		</action>
+
+		<action name="listPublicInfo" class="publicInfoListAction">
+			<result name="json">/common/Json.jsp</result>
+		</action>
+		
+		<action name="listOrgPublicInfo" class="orgPublicInfoListAction">
+			<result name="success">/info/GroupInfoList.jsp</result>
+		</action>
+
+	</package>
+
+</struts>

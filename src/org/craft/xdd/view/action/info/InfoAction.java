@@ -1,0 +1,99 @@
+package org.craft.xdd.view.action.info;
+
+import java.util.List;
+
+import net.sf.json.JSONArray;
+import net.sf.json.JSONObject;
+
+import org.craft.xdd.model.info.Info;
+import org.craft.xdd.view.action.CommonAction;
+
+import com.opensymphony.xwork2.ModelDriven;
+
+/**
+ * Info action
+ * 
+ * @author Frank Hu
+ * @version 1.0, 2011/3/25
+ */
+public class InfoAction extends CommonAction implements ModelDriven<Info> {
+
+	private static final long serialVersionUID = -1820223657822102284L;
+
+	private Info info = new Info();
+
+	private String gid;
+	private int start = 0;
+	private int limit = 20;
+
+	public InfoAction() {
+		super();
+	}
+
+	public String list() throws Exception {
+		log.debug("<action>: ====================== invoke infoAction.list()");
+		log.debug("<action>: start = " + start);
+		log.debug("<action>: limit = " + limit);
+		
+		List<Info> il = infoDao.read(gid, Info.PASS, start, limit);
+		long total = infoDao.count(gid, Info.PASS);
+		
+		log.debug("<action>: list.size = " + il.size());
+		log.debug("<action>: total = " + total);
+
+		JSONArray ja = new JSONArray();
+		for (Info info : il) {
+			JSONObject jo = new JSONObject();
+			String tlink = "<a href='viewInfo.do?infoId=" + info.getId() + "' target=\"_blank\">"
+					+ getTitle(info.getTitle()) + "</a>";
+			jo.put("title", tlink);
+			jo.put("date",
+					convertDate_db2page(info.getPublishTime().substring(0, 8)));
+			ja.add(jo);
+		}
+		String json = "{totalProperty:" + total + ",root:" + ja.toString()
+				+ "}";
+		setJson(json);
+
+		return JSON;
+	}
+
+	private String getTitle(String title) {
+		String t = null;
+		if (title.length() > 50) {
+			t = title.substring(0, 50) + "...";
+		} else {
+			t = title;
+		}
+		return t;
+	}
+
+	public Info getModel() {
+		return info;
+	}
+
+	public String getGid() {
+		return gid;
+	}
+
+	public void setGid(String gid) {
+		this.gid = gid;
+	}
+
+	public int getStart() {
+		return start;
+	}
+
+	public void setStart(int start) {
+		this.start = start;
+	}
+
+	public int getLimit() {
+		return limit;
+	}
+
+	public void setLimit(int limit) {
+		this.limit = limit;
+	}
+
+}

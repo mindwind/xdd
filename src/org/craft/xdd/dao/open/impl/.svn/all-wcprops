@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/171/trunk/xdd/src/org/craft/xdd/dao/open/impl
+END
+MessageDaoHibernateImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/171/trunk/xdd/src/org/craft/xdd/dao/open/impl/MessageDaoHibernateImpl.java
+END
+MessageTypeDaoHibernateImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/171/trunk/xdd/src/org/craft/xdd/dao/open/impl/MessageTypeDaoHibernateImpl.java
+END

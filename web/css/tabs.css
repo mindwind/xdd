@@ -1,0 +1,146 @@
+.menu1box {
+	position: relative;
+	overflow: hidden;
+	height: 22px;
+	width: 700px;
+	text-align: left;
+	background: #ffffff;
+}
+
+.menu2box {
+	position: relative;
+	overflow: hidden;
+	height: 22px;
+	width: 747px;
+	text-align: left;
+	background: #ffffff;
+}
+
+.tab {
+	clear: both;
+	text-align: center;
+	background: white;
+	margin-left: 3px;
+	margin-right: 3px;
+	margin-bottom: 3px;
+	margin-top: 3px;
+	width: 741px;
+	height: 374px;
+}
+
+.tab1 {
+	clear: both;
+	text-align: center;
+	background: white;
+	margin-left: 3px;
+	margin-right: 3px;
+	margin-bottom: 3px;
+	margin-top: 3px;
+	width: 741px;
+	height: 530px;
+	overflow:auto;	
+}
+
+.tab2 {
+	clear: both;
+	text-align: center;
+	background: white;
+	margin-left: 3px;
+	margin-right: 3px;
+	margin-bottom: 3px;
+	margin-top: 3px;
+	width: 694px;
+	height: 330px;
+	overflow:auto;	
+}
+
+#menu1 {
+	list-style: none;
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 1;
+	text-align: center;
+	width: 700px;
+	margin: 0;
+	padding: 0;
+}
+
+#menu1 li {
+	font-size: 12px;
+	font-weight: bolder;
+	font-family: "宋体", "arial";
+	display: block;
+	float: left;
+	margin-top: 4px;
+	margin-bottom: 4px;
+	margin-left: 0px;
+	margin-right: 0px;
+	width: 120px;
+	text-align: center;
+	cursor: pointer;
+}
+
+#menu2 {
+	list-style: none;
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 1;
+	text-align: center;
+	width: 747px;
+	margin: 0;
+	padding: 0;
+}
+
+#menu2 li {
+	font-size: 12px;
+	font-weight: bolder;
+	font-family: "宋体", "arial";
+	display: block;
+	float: left;
+	margin-top: 4px;
+	margin-bottom: 4px;
+	margin-left: 0px;
+	margin-right: 0px;
+	width: 120px;
+	text-align: center;
+	cursor: pointer;
+}
+
+#tabs1 {
+	height: 558px;
+	width: 747px;
+	background-color: #ffcc66;
+	margin-top: 5px;
+	margin-left: 10px;
+	margin-bottom: 10px;
+}
+
+#tabs2 {
+	height: 402px;
+	width: 747px;
+	background-color: #ffcc66;
+	margin-top: 5px;
+	margin-left: 10px;
+}
+
+#tabs3 {
+	height: 358px;
+	width: 700px;
+	background-color: #ffcc66;
+	margin-top: 5px;
+	margin-left: 10px;
+	margin-bottom: 10px;
+}
+
+#tip2 {
+	position: absolute;
+	top: 0;
+	left: 0;
+	height: 22px;
+	line-height: 22px;
+	z-index: 0;
+	width: 120px;
+	background: #ffcc66;
+}

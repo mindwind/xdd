@@ -1,0 +1,30 @@
+# file appender
+log4j.appender.file=org.apache.log4j.DailyRollingFileAppender
+log4j.appender.file.DatePattern='.'yyyy-MM-dd
+log4j.appender.file.File=D:/workspace/ecproject/past/xdd/log/xdd.log
+log4j.appender.file.layout=org.apache.log4j.PatternLayout
+log4j.appender.file.layout.ConversionPattern=%d{ABSOLUTE} %5p %c{1}:%L - %m%n
+
+# console appender
+log4j.appender.stdout=org.apache.log4j.ConsoleAppender
+log4j.appender.stdout.Target=System.out
+log4j.appender.stdout.layout=org.apache.log4j.PatternLayout
+log4j.appender.stdout.layout.ConversionPattern=%d{ABSOLUTE} %5p %c{1}:%L - %m%n
+
+# root
+log4j.rootLogger=warn,file,stdout
+#log4j.rootLogger=warn,file
+
+# hibernate
+log4j.logger.org.hibernate=warn
+log4j.logger.org.hibernate.type=warn
+log4j.logger.org.hibernate.cache=warn
+log4j.logger.org.hibernate.tool.hbm2ddl=warn
+
+
+# spring
+log4j.logger.org.springframework=warn
+
+# xdd
+log4j.logger.org.craft=debug
+

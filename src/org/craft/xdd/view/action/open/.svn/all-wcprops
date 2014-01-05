@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/60/trunk/xdd/src/org/craft/xdd/view/action/open
+END
+OnlineAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/60/trunk/xdd/src/org/craft/xdd/view/action/open/OnlineAction.java
+END
+MessageAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/185/trunk/xdd/src/org/craft/xdd/view/action/open/MessageAction.java
+END
+MessageTypeAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/171/trunk/xdd/src/org/craft/xdd/view/action/open/MessageTypeAction.java
+END
+PublicAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/60/trunk/xdd/src/org/craft/xdd/view/action/open/PublicAction.java
+END
+PartyAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/60/trunk/xdd/src/org/craft/xdd/view/action/open/PartyAction.java
+END

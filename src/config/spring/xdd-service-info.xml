@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN//EN" "http://www.springframework.org/dtd/spring-beans.dtd" >
+<beans>
+
+	<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Daos ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+
+	<bean id="infoGroupDao"
+		class="org.craft.xdd.dao.info.impl.InfoGroupDaoHibernateImpl">
+		<constructor-arg>
+			<value>org.craft.xdd.model.info.InfoGroup</value>
+		</constructor-arg>
+		<property name="hibernateTemplate" ref="hibernateTemplate" />
+	</bean>
+
+	<bean id="infoDao"
+		class="org.craft.xdd.dao.info.impl.InfoDaoHibernateImpl">
+		<constructor-arg>
+			<value>org.craft.xdd.model.info.Info</value>
+		</constructor-arg>
+		<property name="hibernateTemplate" ref="hibernateTemplate" />
+	</bean>
+
+	<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Services ~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+
+	<bean id="infoService"
+		class="org.craft.xdd.service.info.impl.InfoServiceImpl">
+		<property name="infoGroupDao" ref="infoGroupDao" />
+		<property name="infoDao" ref="infoDao" />
+		<property name="userDao" ref="userDao" />
+	</bean>
+
+	<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Actions ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+
+	<bean id="infoGroupListAction"
+		class="org.craft.xdd.view.action.info.InfoGroupListAction"
+		singleton="false">
+		<property name="infoService" ref="infoService" />
+		<property name="userDao" ref="userDao" />
+		<property name="infoGroupDao" ref="infoGroupDao" />
+	</bean>
+
+	<bean id="infoListAction"
+		class="org.craft.xdd.view.action.info.InfoListAction"
+		singleton="false">
+		<property name="infoDao" ref="infoDao" />
+		<property name="userDao" ref="userDao" />
+	</bean>
+
+	<bean id="groupInfoListAction2"
+		class="org.craft.xdd.view.action.info.GroupInfoListAction2"
+		singleton="false">
+		<property name="infoDao" ref="infoDao" />
+		<property name="infoGroupDao" ref="infoGroupDao" />
+	</bean>
+	
+	<bean id="infoAction" class="org.craft.xdd.view.action.info.InfoAction"
+		singleton="false">
+		<property name="infoDao" ref="infoDao" />
+		<property name="infoGroupDao" ref="infoGroupDao" />
+	</bean>
+
+	<bean id="infoLoadAction"
+		class="org.craft.xdd.view.action.info.InfoLoadAction"
+		singleton="false">
+		<property name="infoDao" ref="infoDao" />
+	</bean>
+
+	<bean id="rollInfoListAction"
+		class="org.craft.xdd.view.action.info.RollInfoListAction"
+		singleton="false">
+		<property name="infoDao" ref="infoDao" />
+	</bean>
+
+	<bean id="infoPubAction"
+		class="org.craft.xdd.view.action.info.InfoPubAction"
+		singleton="false">
+		<property name="infoService" ref="infoService" />
+		<property name="infoGroupDao" ref="infoGroupDao" />
+		<property name="userDao" ref="userDao" />
+	</bean>
+
+	<bean id="infoEditAction"
+		class="org.craft.xdd.view.action.info.InfoEditAction"
+		singleton="false">
+		<property name="infoService" ref="infoService" />
+		<property name="infoGroupDao" ref="infoGroupDao" />
+		<property name="infoDao" ref="infoDao" />
+	</bean>
+
+	<bean id="infoViewAction"
+		class="org.craft.xdd.view.action.info.InfoViewAction"
+		singleton="false">
+		<property name="infoGroupDao" ref="infoGroupDao" />
+		<property name="infoDao" ref="infoDao" />
+	</bean>
+
+	<bean id="infoSubmitAction"
+		class="org.craft.xdd.view.action.info.InfoSubmitAction"
+		singleton="false">
+		<property name="infoService" ref="infoService" />
+	</bean>
+
+	<bean id="infoPassAction"
+		class="org.craft.xdd.view.action.info.InfoPassAction"
+		singleton="false">
+		<property name="infoService" ref="infoService" />
+	</bean>
+
+	<bean id="infoDenyAction"
+		class="org.craft.xdd.view.action.info.InfoDenyAction"
+		singleton="false">
+		<property name="infoService" ref="infoService" />
+	</bean>
+
+	<bean id="infoCopyAction"
+		class="org.craft.xdd.view.action.info.InfoCopyAction"
+		singleton="false">
+		<property name="infoService" ref="infoService" />
+	</bean>
+
+	<bean id="infoDelAction"
+		class="org.craft.xdd.view.action.info.InfoDelAction"
+		singleton="false">
+		<property name="infoService" ref="infoService" />
+	</bean>
+
+	<bean id="infoYearListAction"
+		class="org.craft.xdd.view.action.info.InfoYearListAction"
+		singleton="false">
+		<property name="infoDao" ref="infoDao" />
+	</bean>
+
+	<bean id="infoStatAction"
+		class="org.craft.xdd.view.action.info.InfoStatAction"
+		singleton="false">
+		<property name="infoDao" ref="infoDao" />
+	</bean>
+
+	<bean id="infoSearchAction"
+		class="org.craft.xdd.view.action.info.InfoSearchAction"
+		singleton="false">
+		<property name="infoDao" ref="infoDao" />
+		<property name="infoGroupDao" ref="infoGroupDao" />
+	</bean>
+
+	<bean id="publicInfoListAction"
+		class="org.craft.xdd.view.action.info.PublicInfoListAction"
+		singleton="false">
+		<property name="infoDao" ref="infoDao" />
+	</bean>
+
+	<bean id="orgPublicInfoListAction"
+		class="org.craft.xdd.view.action.info.OrgPublicInfoListAction"
+		singleton="false">
+		<property name="infoDao" ref="infoDao" />
+		<property name="infoGroupDao" ref="infoGroupDao" />
+	</bean>
+
+</beans>

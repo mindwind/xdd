@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/60/trunk/xdd/src/config/hibernate/org/craft/xdd/model/user
+END
+User.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/60/trunk/xdd/src/config/hibernate/org/craft/xdd/model/user/User.hbm.xml
+END
+Role.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/60/trunk/xdd/src/config/hibernate/org/craft/xdd/model/user/Role.hbm.xml
+END
+Privilege.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/60/trunk/xdd/src/config/hibernate/org/craft/xdd/model/user/Privilege.hbm.xml
+END
+Org.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/60/trunk/xdd/src/config/hibernate/org/craft/xdd/model/user/Org.hbm.xml
+END

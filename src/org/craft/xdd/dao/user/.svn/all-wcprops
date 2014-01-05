@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/60/trunk/xdd/src/org/craft/xdd/dao/user
+END
+UserDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/60/trunk/xdd/src/org/craft/xdd/dao/user/UserDao.java
+END
+RoleDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/60/trunk/xdd/src/org/craft/xdd/dao/user/RoleDao.java
+END
+PrivilegeDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/60/trunk/xdd/src/org/craft/xdd/dao/user/PrivilegeDao.java
+END
+OrgDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/60/trunk/xdd/src/org/craft/xdd/dao/user/OrgDao.java
+END

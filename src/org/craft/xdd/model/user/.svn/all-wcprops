@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/60/trunk/xdd/src/org/craft/xdd/model/user
+END
+Role.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/60/trunk/xdd/src/org/craft/xdd/model/user/Role.java
+END
+Privilege.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/60/trunk/xdd/src/org/craft/xdd/model/user/Privilege.java
+END
+Org.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/60/trunk/xdd/src/org/craft/xdd/model/user/Org.java
+END
+User.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/60/trunk/xdd/src/org/craft/xdd/model/user/User.java
+END

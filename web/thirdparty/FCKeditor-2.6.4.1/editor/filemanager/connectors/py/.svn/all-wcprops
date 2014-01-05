@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/61/trunk/xdd/web/thirdparty/FCKeditor-2.6.4.1/editor/filemanager/connectors/py
+END
+wsgi.py
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/61/trunk/xdd/web/thirdparty/FCKeditor-2.6.4.1/editor/filemanager/connectors/py/wsgi.py
+END
+connector.py
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/61/trunk/xdd/web/thirdparty/FCKeditor-2.6.4.1/editor/filemanager/connectors/py/connector.py
+END
+zope.py
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/61/trunk/xdd/web/thirdparty/FCKeditor-2.6.4.1/editor/filemanager/connectors/py/zope.py
+END
+fckconnector.py
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/61/trunk/xdd/web/thirdparty/FCKeditor-2.6.4.1/editor/filemanager/connectors/py/fckconnector.py
+END
+fckutil.py
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/61/trunk/xdd/web/thirdparty/FCKeditor-2.6.4.1/editor/filemanager/connectors/py/fckutil.py
+END
+upload.py
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/61/trunk/xdd/web/thirdparty/FCKeditor-2.6.4.1/editor/filemanager/connectors/py/upload.py
+END
+fckoutput.py
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/61/trunk/xdd/web/thirdparty/FCKeditor-2.6.4.1/editor/filemanager/connectors/py/fckoutput.py
+END
+htaccess.txt
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/61/trunk/xdd/web/thirdparty/FCKeditor-2.6.4.1/editor/filemanager/connectors/py/htaccess.txt
+END
+config.py
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/61/trunk/xdd/web/thirdparty/FCKeditor-2.6.4.1/editor/filemanager/connectors/py/config.py
+END
+fckcommands.py
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/61/trunk/xdd/web/thirdparty/FCKeditor-2.6.4.1/editor/filemanager/connectors/py/fckcommands.py
+END

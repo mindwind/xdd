@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/64/trunk/xdd/src/config/spring
+END
+xdd-transaction.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/60/trunk/xdd/src/config/spring/xdd-transaction.xml
+END
+xdd-service-info.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/171/trunk/xdd/src/config/spring/xdd-service-info.xml
+END
+xdd-datasource.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/171/trunk/xdd/src/config/spring/xdd-datasource.xml
+END
+xdd-service-user.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/60/trunk/xdd/src/config/spring/xdd-service-user.xml
+END
+xdd-service-open.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/171/trunk/xdd/src/config/spring/xdd-service-open.xml
+END
+xdd-service.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/60/trunk/xdd/src/config/spring/xdd-service.xml
+END

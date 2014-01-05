@@ -1,0 +1,15 @@
+/* ----------------------------------------------------------------------------
+ * footer样式
+ *
+ * @author Hu Feng
+ * @version 1.0, 2009/4/12
+ * -------------------------------------------------------------------------- */
+#footer {
+	margin-right: 20px;
+	margin-left: 20px;
+	padding: 2px 0 2px 0;
+	font-size: 12px;
+	font-family: "宋体", "arial";
+	background: #dfe8f6;
+	text-align: center;
+}

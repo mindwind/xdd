@@ -1,0 +1,56 @@
+/* title 样式  */
+.x-window-tl {
+	background-color: #FFFFD6;
+	background-image: url("no.png");
+	border: 1px solid #E7B9D6;
+}
+
+.x-window-dlg .ext-mb-text,.x-window-dlg .x-window-header-text {
+	color: gray;
+	font-size: 12px;
+}
+
+.x-window-tr {
+	background-image: url("no.png");
+}
+
+.x-window-tc {
+	background-image: url("no.png");
+}
+
+.x-tool {
+	background-image: url("no.gif");
+}
+
+/* content 样式 */
+.x-window-ml {
+	background-image: url("no.png");
+	background-color: #F3F3F3;
+	border-left: 1px solid #E7B9D6;
+	border-right: 1px solid #E7B9D6;
+}
+
+.x-window-mr {
+	background-image: url("no.png");
+}
+
+body.x-body-masked .x-window-plain .x-window-mc {
+	background-color: #F3F3F3;
+}
+
+/* bottom 样式 */
+.x-window-bl {
+	background-color: #F3F3F3;
+	background-image: url("no.png");
+	border-bottom: 1px solid #E7B9D6;
+	border-left: 1px solid #E7B9D6;
+	border-right: 1px solid #E7B9D6;
+}
+
+.x-window-br {
+	background-image: url("no.png");
+}
+
+.x-window-bc {
+	background-image: url("no.png");
+}

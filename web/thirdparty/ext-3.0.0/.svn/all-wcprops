@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/61/trunk/xdd/web/thirdparty/ext-3.0.0
+END
+license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/61/trunk/xdd/web/thirdparty/ext-3.0.0/license.txt
+END
+ext-all.js
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/61/trunk/xdd/web/thirdparty/ext-3.0.0/ext-all.js
+END
+ext-all-debug.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/61/trunk/xdd/web/thirdparty/ext-3.0.0/ext-all-debug.js
+END
+INCLUDE_ORDER.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/61/trunk/xdd/web/thirdparty/ext-3.0.0/INCLUDE_ORDER.txt
+END

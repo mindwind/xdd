@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE struts PUBLIC
+    "-//Apache Software Foundation//DTD Struts Configuration 2.0//EN"
+    "http://struts.apache.org/dtds/struts-2.0.dtd">
+
+<struts>
+
+	<package name="struts-open" namespace="/open"
+		extends="struts-xdd-default">
+
+		<action name="online" class="onlineAction">
+			<result name="success">/open/Online.jsp</result>
+		</action>
+		
+		<action name="party" class="partyAction">
+			<result name="success">/open/Party.jsp</result>
+		</action>
+		
+		<action name="public" class="publicAction">
+			<result name="success">/open/Public.jsp</result>
+		</action>
+		
+		<action name="message_*" method="{1}" class="messageAction">
+			<result name="input" type="dispatcher">
+				/open/Message.jsp
+			</result>
+			<result name="show" type="dispatcher">
+				/open/MessageList.jsp
+			</result>
+			<result name="view" type="dispatcher">
+				/open/MessageView.jsp
+			</result>
+			<result name="json">/common/Json.jsp</result>
+		</action>
+		
+		<action name="messageType_*" method="{1}" class="messageTypeAction">
+			<result name="json">/common/Json.jsp</result>
+		</action>
+
+	</package>
+
+</struts>

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/60/trunk/xdd/src/org/craft/xdd/dao/user/impl
+END
+OrgDaoHibernateImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/60/trunk/xdd/src/org/craft/xdd/dao/user/impl/OrgDaoHibernateImpl.java
+END
+UserDaoHibernateImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/60/trunk/xdd/src/org/craft/xdd/dao/user/impl/UserDaoHibernateImpl.java
+END
+RoleDaoHibernateImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/60/trunk/xdd/src/org/craft/xdd/dao/user/impl/RoleDaoHibernateImpl.java
+END
+PrivilegeDaoHibernateImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/60/trunk/xdd/src/org/craft/xdd/dao/user/impl/PrivilegeDaoHibernateImpl.java
+END

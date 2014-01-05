@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE hibernate-mapping PUBLIC
+    "-//Hibernate/Hibernate Mapping DTD 3.0//EN" 
+    "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping
+>
+    <class
+        name="org.craft.xdd.model.info.Info"
+        table="XDD_INFO"
+        dynamic-update="true"
+        dynamic-insert="true"
+    >
+
+        <id
+            name="id"
+            column="ID"
+            type="java.lang.String"
+        >
+            <generator class="uuid.hex">
+              <!--  
+                  To add non XDoclet generator parameters, create a file named 
+                  hibernate-generator-params-Info.xml 
+                  containing the additional parameters and place it in your merge dir. 
+              --> 
+            </generator>
+        </id>
+
+        <property
+            name="auditor1"
+            type="string"
+            update="true"
+            insert="true"
+            column="AUDITOR1"
+            length="32"
+            not-null="false"
+        />
+
+        <property
+            name="auditor2"
+            type="string"
+            update="true"
+            insert="true"
+            column="AUDITOR2"
+            length="32"
+            not-null="false"
+        />
+
+        <property
+            name="author"
+            type="string"
+            update="true"
+            insert="true"
+            column="AUTHOR"
+            length="32"
+            not-null="true"
+        />
+
+        <property
+            name="content"
+            type="text"
+            update="true"
+            insert="true"
+            column="CONTENT"
+            not-null="false"
+        />
+
+        <property
+            name="imgLinkUrl"
+            type="string"
+            update="true"
+            insert="true"
+            column="IMG_LINK_URL"
+            length="150"
+            not-null="false"
+        />
+
+        <property
+            name="imgUrl"
+            type="string"
+            update="true"
+            insert="true"
+            column="IMG_URL"
+            length="100"
+            not-null="false"
+        />
+
+        <property
+            name="publishTime"
+            type="string"
+            update="true"
+            insert="true"
+            column="PUBLISH_TIME"
+            length="14"
+            not-null="true"
+        />
+
+        <property
+            name="state"
+            type="int"
+            update="true"
+            insert="true"
+            column="STATE"
+            not-null="true"
+        />
+
+        <property
+            name="title"
+            type="string"
+            update="true"
+            insert="true"
+            column="TITLE"
+            length="150"
+            not-null="true"
+        />
+
+        <many-to-one
+            name="group"
+            class="org.craft.xdd.model.info.InfoGroup"
+            cascade="save-update"
+            outer-join="auto"
+            update="true"
+            insert="true"
+            column="GROUP_ID"
+            not-null="false"
+        />
+
+        <many-to-one
+            name="org"
+            class="org.craft.xdd.model.user.Org"
+            cascade="save-update"
+            outer-join="auto"
+            update="true"
+            insert="true"
+            column="ORG_ID"
+            not-null="true"
+        />
+
+        <!--
+            To add non XDoclet property mappings, create a file named
+                hibernate-properties-Info.xml
+            containing the additional properties and place it in your merge dir.
+        -->
+
+    </class>
+
+</hibernate-mapping>

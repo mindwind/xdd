@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/64/trunk/xdd/src
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/256/trunk/xdd/src/log4j.properties
+END
+log4j_t.properties
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/60/trunk/xdd/src/log4j_t.properties
+END

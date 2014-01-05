@@ -1,0 +1,68 @@
+/* ----------------------------------------------------------------------------
+ * 通用样式
+ *
+ * @author Hu Feng
+ * @version 1.0, 2009/4/12
+ * -------------------------------------------------------------------------- */
+a {
+	font-size: 12px;
+	font-family: "宋体", "arial";
+	color: #4e6ca4;
+}
+
+body {
+	font-size: 12px;
+	font-family: "宋体", "arial";	
+}
+
+.headline {
+	margin-bottom: 10px;
+	padding-bottom: 5px;
+	font-size: 13px;
+	font-family: "宋体", "arial";
+	font-weight: bold;
+	text-align: center;
+	border-bottom: 1px solid #99bbe8;
+}
+
+.headline2 {
+	margin-top: 10px;
+	margin-bottom: 5px;
+	padding-bottom: 5px;
+	text-align: center;
+	font-size: 12px;
+	font-family: "宋体", "arial";
+	font-weight: bold;
+	border-bottom: 1px solid #99bbe8;
+}
+
+.headline3 {
+	margin-bottom: 2px;
+	padding-bottom: 2px;
+	text-align: center;
+	font-size: 12px;
+	font-family: "宋体", "arial";
+	font-weight: bold;
+}
+
+.usertip {
+	background-color: #fbfffa;
+	border: 1px solid #97e490;
+	font-size: 12px;
+	font-family: "宋体", "arial";
+	color: #1d6402;
+	padding: 10px 20px 10px 20px;
+}
+
+.errortip {
+	background:url(../images/error.gif) no-repeat left top;
+	background-color: #f0f7ff;
+	border: 1px solid #6699cc;
+	font-size: 12px;
+	font-family: "宋体", "arial";
+	font-weight: bold;
+	color: red;
+	padding: 50px 20px 10px 150px;
+	height: 130px;
+	margin: 30px 0 0 0;
+}

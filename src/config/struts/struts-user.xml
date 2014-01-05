@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE struts PUBLIC
+    "-//Apache Software Foundation//DTD Struts Configuration 2.0//EN"
+    "http://struts.apache.org/dtds/struts-2.0.dtd">
+
+<struts>
+
+	<package name="struts-user" namespace="/user"
+		extends="struts-xdd-default">
+
+		<action name="login_*" method="{1}" class="userLoginAction">
+			<result name="input" type="dispatcher">
+				/user/Login.jsp
+			</result>
+			<result name="login" type="redirectAction">
+				../welcome.do
+			</result>
+			<result name="json">/common/Json.jsp</result>
+		</action>
+
+		<action name="register" class="userRegisterAction">
+			<result name="json">/common/Json.jsp</result>
+		</action>
+
+		<action name="listUser" class="userListAction">
+			<result name="json">/common/Json.jsp</result>
+		</action>
+
+		<action name="modifyUser" class="userModifyAction">
+			<result name="json">/common/Json.jsp</result>
+		</action>
+
+		<action name="resetPassword" class="passwordResetAction">
+			<result name="json">/common/Json.jsp</result>
+		</action>
+
+		<action name="modifyPassword" class="passwordModifyAction">
+			<result name="json">/common/Json.jsp</result>
+		</action>
+
+		<action name="delUser" class="userDelAction">
+			<result name="json">/common/Json.jsp</result>
+		</action>
+		
+		<action name="addRole" class="roleAddAction">
+			<result name="json">/common/Json.jsp</result>
+		</action>
+		
+		<action name="delRole" class="roleDelAction">
+			<result name="json">/common/Json.jsp</result>
+		</action>
+		
+		<action name="modifyRole" class="roleModifyAction">
+			<result name="json">/common/Json.jsp</result>
+		</action>
+
+		<action name="listOrg" class="orgListAction">
+			<result name="json">/common/Json.jsp</result>
+		</action>
+
+		<action name="listRole" class="roleListAction">
+			<result name="json">/common/Json.jsp</result>
+		</action>
+		
+		<action name="listPrivilege" class="privilegeListAction">
+			<result name="json">/common/Json.jsp</result>
+		</action>
+		
+		<action name="assignPrivilege" class="privilegeAssignAction">
+			<result name="json">/common/Json.jsp</result>
+		</action>
+		
+		<action name="callbackPrivilege" class="privilegeCallbackAction">
+			<result name="json">/common/Json.jsp</result>
+		</action>
+
+	</package>
+
+</struts>

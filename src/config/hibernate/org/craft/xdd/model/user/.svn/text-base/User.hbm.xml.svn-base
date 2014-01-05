@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE hibernate-mapping PUBLIC
+    "-//Hibernate/Hibernate Mapping DTD 3.0//EN" 
+    "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping
+>
+    <class
+        name="org.craft.xdd.model.user.User"
+        table="XDD_USER"
+        dynamic-update="true"
+        dynamic-insert="true"
+    >
+
+        <id
+            name="id"
+            column="ID"
+            type="java.lang.String"
+        >
+            <generator class="assigned">
+              <!--  
+                  To add non XDoclet generator parameters, create a file named 
+                  hibernate-generator-params-User.xml 
+                  containing the additional parameters and place it in your merge dir. 
+              --> 
+            </generator>
+        </id>
+
+        <property
+            name="lastLoginTime"
+            type="string"
+            update="true"
+            insert="true"
+            column="LAST_LOGIN_TIME"
+            length="14"
+            not-null="false"
+        />
+
+        <property
+            name="password"
+            type="string"
+            update="true"
+            insert="true"
+            column="PASSWORD"
+            length="32"
+            not-null="true"
+        />
+
+        <property
+            name="registerTime"
+            type="string"
+            update="true"
+            insert="true"
+            column="REGISTER_TIME"
+            length="14"
+            not-null="true"
+        />
+
+        <property
+            name="state"
+            type="string"
+            update="true"
+            insert="true"
+            column="STATE"
+            length="1"
+            not-null="true"
+        />
+
+        <many-to-one
+            name="role"
+            class="org.craft.xdd.model.user.Role"
+            cascade="save-update"
+            outer-join="auto"
+            update="true"
+            insert="true"
+            column="ROLE_ID"
+            not-null="true"
+        />
+
+        <many-to-one
+            name="org"
+            class="org.craft.xdd.model.user.Org"
+            cascade="save-update"
+            outer-join="auto"
+            update="true"
+            insert="true"
+            column="ORG_ID"
+            not-null="true"
+        />
+
+        <!--
+            To add non XDoclet property mappings, create a file named
+                hibernate-properties-User.xml
+            containing the additional properties and place it in your merge dir.
+        -->
+
+    </class>
+
+</hibernate-mapping>

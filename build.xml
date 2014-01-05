@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project name="xdd" default="deploy.test" basedir=".">
+	<property name="lib" value="${basedir}/lib" />
+	<property name="src" value="${basedir}/src" />
+	<property name="classes" value="${basedir}/classes" />
+	<property name="web" value="${basedir}/web" />
+	<property name="doc" value="${basedir}/doc" />
+	<property name="release" value="${basedir}/release" />
+	<property name="version" value="1.0.0" />
+	<property name="hibernate.config" value="${src}/config/hibernate" />
+	<property name="deploy.test.dir" value="D:\software\tomcat\tomcat-6.0.14_xdd\webapps" />
+
+	<!-- 定义class path -->
+	<path id="classpath">
+		<pathelement location="${classes}" />
+		<fileset dir="${lib}">
+			<include name="*.jar" />
+		</fileset>
+	</path>
+
+	<!-- Target: clear -->
+	<target name="clear">
+		<delete>
+			<fileset dir="${classes}" includes="**/*.*" />
+		</delete>
+	</target>
+
+	<!-- Target: compile -->
+	<target name="compile">
+		<javac srcdir="${src}" destdir="${classes}" debug="on" optimize="off" deprecation="on">
+			<classpath refid="classpath" />
+		</javac>
+		<copy todir="${classes}" failonerror="false">
+			<fileset dir="${src}">
+				<include name="**/*.xml" />
+				<include name="**/*.properties" />
+			</fileset>
+		</copy>
+	</target>
+
+	<!-- Target: declare -->
+	<target name="declare">
+		<tstamp>
+			<format property="TODAY" pattern="d-MM-yy" />
+		</tstamp>
+		<taskdef name="xdoclet" classname="xdoclet.DocletTask" classpathref="classpath" />
+		<taskdef name="hibernatedoclet" classname="xdoclet.modules.hibernate.HibernateDocletTask" classpathref="classpath" />
+	</target>
+
+	<!-- Target: java2hbm -->
+	<target name="java2hbm" depends="declare" description="generate hibernate mapping files">
+		<hibernatedoclet destdir="${hibernate.config}" excludedtags="@version,@author,@todo,@see" addedtags="@xdoclet-generated at ${TODAY},@copyright The XDoclet Team,@author XDoclet,@version ${version}" verbose="false">
+			<fileset dir="${src}">
+				<include name="org/craft/xdd/model/info/*.java" />
+				<include name="org/craft/xdd/model/user/*.java" />
+				<include name="org/craft/xdd/model/open/*.java" />
+			</fileset>
+			<hibernate validatexml="true" version="3.0" />
+		</hibernatedoclet>
+	</target>
+
+	<!-- Target: Release -->
+	<target name="release" depends="compile,java2hbm">
+		<jar destfile="${release}/xdd-${version}.jar" compress="true">
+			<fileset dir="${basedir}" />
+			<manifest>
+				<attribute name="Implementation-Title" value="cowork" />
+				<attribute name="Implementation-Version" value="${version}" />
+				<attribute name="Implementation-Vendor" value="craft.org" />
+				<attribute name="xdd-version" value="${version}" />
+			</manifest>
+		</jar>
+	</target>
+
+	<!-- Target: deploy.test -->
+	<target name="deploy.test" depends="compile">
+		<copy todir="${deploy.test.dir}/xdd" failonerror="false">
+			<fileset excludes="**/Test.class" dir="${web}" />
+		</copy>
+		<copy todir="${deploy.test.dir}/xdd/WEB-INF/lib" failonerror="false">
+			<fileset excludes="**/Test.class" dir="${lib}" />
+		</copy>
+		<copy todir="${deploy.test.dir}/xdd/WEB-INF/classes" failonerror="false">
+			<fileset excludes="**/Test.class" dir="${classes}" />
+		</copy>
+	</target>
+
+
+</project>

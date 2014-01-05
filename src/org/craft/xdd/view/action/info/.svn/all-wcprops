@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/64/trunk/xdd/src/org/craft/xdd/view/action/info
+END
+InfoEditAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/60/trunk/xdd/src/org/craft/xdd/view/action/info/InfoEditAction.java
+END
+InfoPubAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/64/trunk/xdd/src/org/craft/xdd/view/action/info/InfoPubAction.java
+END
+GroupInfoListAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/60/trunk/xdd/src/org/craft/xdd/view/action/info/GroupInfoListAction.java
+END
+InfoGroupListAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/64/trunk/xdd/src/org/craft/xdd/view/action/info/InfoGroupListAction.java
+END
+InfoYearListAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/60/trunk/xdd/src/org/craft/xdd/view/action/info/InfoYearListAction.java
+END
+InfoDenyAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/60/trunk/xdd/src/org/craft/xdd/view/action/info/InfoDenyAction.java
+END
+InfoSubmitAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/60/trunk/xdd/src/org/craft/xdd/view/action/info/InfoSubmitAction.java
+END
+InfoDelAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/60/trunk/xdd/src/org/craft/xdd/view/action/info/InfoDelAction.java
+END
+RollInfoListAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/60/trunk/xdd/src/org/craft/xdd/view/action/info/RollInfoListAction.java
+END
+InfoSearchAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/60/trunk/xdd/src/org/craft/xdd/view/action/info/InfoSearchAction.java
+END
+InfoPassAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/60/trunk/xdd/src/org/craft/xdd/view/action/info/InfoPassAction.java
+END
+GroupInfoListAction2.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/171/trunk/xdd/src/org/craft/xdd/view/action/info/GroupInfoListAction2.java
+END
+InfoCopyAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/60/trunk/xdd/src/org/craft/xdd/view/action/info/InfoCopyAction.java
+END
+PublicInfoListAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/60/trunk/xdd/src/org/craft/xdd/view/action/info/PublicInfoListAction.java
+END
+InfoViewAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/60/trunk/xdd/src/org/craft/xdd/view/action/info/InfoViewAction.java
+END
+InfoListAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/60/trunk/xdd/src/org/craft/xdd/view/action/info/InfoListAction.java
+END
+InfoStatAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/60/trunk/xdd/src/org/craft/xdd/view/action/info/InfoStatAction.java
+END
+InfoLoadAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/60/trunk/xdd/src/org/craft/xdd/view/action/info/InfoLoadAction.java
+END
+InfoAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/173/trunk/xdd/src/org/craft/xdd/view/action/info/InfoAction.java
+END
+OrgPublicInfoListAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/60/trunk/xdd/src/org/craft/xdd/view/action/info/OrgPublicInfoListAction.java
+END

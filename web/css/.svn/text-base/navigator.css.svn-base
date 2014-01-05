@@ -1,0 +1,58 @@
+/* ----------------------------------------------------------------------------
+ * 后台导航栏 样式
+ *
+ * @author Hu Feng
+ * @version 1.0, 2009/4/23
+ * -------------------------------------------------------------------------- */
+#west {
+	height: 425px;
+	border-right: #99bbe8 1px solid;
+	padding: 15px 5px 20px 10px;
+	margin-top: 25px;
+}
+
+#west a {
+	font-size: 12px;
+	font-weight: bold;
+	font-family: "宋体", "arial";
+	color: #15428b;
+	margin-left: 35px;
+}
+
+#user_manage {
+	background-image: url(../images/user.gif);
+	background-repeat: no-repeat;
+}
+
+#info_pub {
+	background-image: url(../images/info_pub.gif);
+	background-repeat: no-repeat;
+	margin-top: 15px;
+}
+
+#info_audit {
+	background-image: url(../images/info_audit.gif);
+	background-repeat: no-repeat;
+	margin-top: 15px;
+	height: 24px;
+}
+
+#info_stat {
+	background-image: url(../images/info_stat.gif);
+	background-repeat: no-repeat;
+	margin-top: 15px;
+	height: 24px;
+}
+
+#man_message {
+	background-image: url(../images/message.gif);
+	background-repeat: no-repeat;
+	margin-top: 15px;
+	height: 24px;
+}
+
+.nav_item {
+	height: 20px;
+	margin-left: 35px;
+	padding-top: 5px;
+}

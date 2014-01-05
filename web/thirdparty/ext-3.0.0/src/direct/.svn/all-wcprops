@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/61/trunk/xdd/web/thirdparty/ext-3.0.0/src/direct
+END
+JsonProvider.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/61/trunk/xdd/web/thirdparty/ext-3.0.0/src/direct/JsonProvider.js
+END
+Transaction.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/61/trunk/xdd/web/thirdparty/ext-3.0.0/src/direct/Transaction.js
+END
+Provider.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/61/trunk/xdd/web/thirdparty/ext-3.0.0/src/direct/Provider.js
+END
+Direct.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/61/trunk/xdd/web/thirdparty/ext-3.0.0/src/direct/Direct.js
+END
+RemotingProvider.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/61/trunk/xdd/web/thirdparty/ext-3.0.0/src/direct/RemotingProvider.js
+END
+PollingProvider.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/61/trunk/xdd/web/thirdparty/ext-3.0.0/src/direct/PollingProvider.js
+END
+Event.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/61/trunk/xdd/web/thirdparty/ext-3.0.0/src/direct/Event.js
+END

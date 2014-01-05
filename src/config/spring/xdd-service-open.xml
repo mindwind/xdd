@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN//EN" "http://www.springframework.org/dtd/spring-beans.dtd" >
+<beans>
+
+	<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Daos ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+	
+	<bean id="messageDao"
+		class="org.craft.xdd.dao.open.impl.MessageDaoHibernateImpl">
+		<constructor-arg>
+			<value>org.craft.xdd.model.open.Message</value>
+		</constructor-arg>
+		<property name="hibernateTemplate" ref="hibernateTemplate" />
+	</bean>
+	
+	<bean id="messageTypeDao"
+		class="org.craft.xdd.dao.open.impl.MessageTypeDaoHibernateImpl">
+		<constructor-arg>
+			<value>org.craft.xdd.model.open.MessageType</value>
+		</constructor-arg>
+		<property name="hibernateTemplate" ref="hibernateTemplate" />
+	</bean>
+
+
+	<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Services ~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+
+
+
+	<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Actions ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+
+	<bean id="onlineAction"
+		class="org.craft.xdd.view.action.open.OnlineAction"
+		singleton="false">
+		<property name="infoGroupDao" ref="infoGroupDao" />
+		<property name="infoDao" ref="infoDao" />
+	</bean>
+	
+	<bean id="partyAction"
+		class="org.craft.xdd.view.action.open.PartyAction"
+		singleton="false">
+		<property name="infoGroupDao" ref="infoGroupDao" />
+		<property name="infoDao" ref="infoDao" />
+	</bean>
+	
+	<bean id="publicAction"
+		class="org.craft.xdd.view.action.open.PublicAction"
+		singleton="false">
+		<property name="infoGroupDao" ref="infoGroupDao" />
+		<property name="infoDao" ref="infoDao" />
+		<property name="orgDao" ref="orgDao" />
+	</bean>
+	
+	<bean id="messageAction"
+		class="org.craft.xdd.view.action.open.MessageAction"
+		singleton="false">
+		<property name="infoGroupDao" ref="infoGroupDao" />
+		<property name="infoDao" ref="infoDao" />
+		<property name="messageDao" ref="messageDao" />
+		<property name="messageTypeDao" ref="messageTypeDao" />
+	</bean>
+	
+	<bean id="messageTypeAction"
+		class="org.craft.xdd.view.action.open.MessageTypeAction"
+		singleton="false">
+		<property name="messageTypeDao" ref="messageTypeDao" />
+	</bean>
+
+</beans>
