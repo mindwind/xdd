@@ -9,7 +9,7 @@
 	<property name="release" value="${basedir}/release" />
 	<property name="version" value="1.0.0" />
 	<property name="hibernate.config" value="${src}/config/hibernate" />
-	<property name="deploy.test.dir" value="D:\software\tomcat\tomcat-6.0.14_xdd\webapps" />
+	<property name="deploy.test.dir" value="/workspace/project/i-xdd/target" />
 
 	<!-- 定义class path -->
 	<path id="classpath">

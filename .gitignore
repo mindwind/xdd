@@ -6,3 +6,7 @@
 *.prefs
 
 classes/*
+
+*.log
+
+target/*

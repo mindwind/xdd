@@ -31,13 +31,13 @@
 			<value>oracle.jdbc.driver.OracleDriver</value>
 		</property>
 		<property name="jdbcUrl">
-			<value>jdbc:oracle:thin:@127.0.0.1:1521:orcl</value>
+			<value>jdbc:oracle:thin:@10.211.55.6:1521:XE</value>
 		</property>
 		<property name="user">
 			<value>xdd</value>
 		</property>
 		<property name="password">
-			<value>xdd</value>
+			<value>xddpass</value>
 		</property>
 
 		<!--连接池中保留的最小连接数。-->
