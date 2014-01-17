@@ -11,7 +11,7 @@ import java.util.ResourceBundle;
 public final class XDDConstants {
 
 	private static final ResourceBundle BUNDLE = ResourceBundle
-			.getBundle("config.xdd.Constants");
+			.getBundle("config.xdd.Constants_zh_CN");
 
 	// C
 	public static final String CONTEXT_PATH = BUNDLE.getString("context.path");

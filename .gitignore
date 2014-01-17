@@ -10,3 +10,6 @@ classes/*
 *.log
 
 target/*
+log/xdd.log.*
+
+src/org/craft/xdd/view/servlet/FCKEditorUploaderServlet.java
