@@ -9,8 +9,10 @@
 		<link rel="stylesheet" type="text/css" href="css/xdd.css" />
 		<link rel="stylesheet" type="text/css" href="css/mnavigator.css" />
 		<link rel="stylesheet" type="text/css" href="css/xdd-switch.css" />
+		<link rel="stylesheet" type="text/css" href="thirdparty/tinyslider2/tinyslider2.css" />
 		
 		<script type="text/javascript" src="thirdparty/jquery-1.3.2/jquery-1.3.2.min.js"></script>
+		<script type="text/javascript" src="thirdparty/tinyslider2/tinyslider2.js"></script>
 		<script type="text/javascript" src="js/xdd.js"></script>
 		<script type="text/javascript" src="js/xdd-switch.js"></script>
 	</head>
@@ -88,6 +90,37 @@
 								</marquee>
 							</td>
 						</tr>
+						
+						<tr>
+							<td colspan="2">
+							    <div id="wrapper">
+									<div id="container">
+										<div class="sliderbutton" id="slideleft" onclick="slideshow.move(-1)"></div>
+										<div id="slider">
+											<ul>
+												<s:iterator value="clist">
+											    	<li>
+														<a href='info/viewInfo.do?infoId=<s:property value="id" />' target="_blank">
+															<img src='<s:property value="imgUrl" />' width="765" height="135" />
+														</a>
+													</li>
+												</s:iterator>
+											</ul>
+										</div>
+										<div class="sliderbutton" id="slideright" onclick="slideshow.move(1)"></div>
+										<ul id="pagination" class="pagination">
+											<li onclick="slideshow.pos(0)"></li>
+											<li onclick="slideshow.pos(1)"></li>
+											<li onclick="slideshow.pos(2)"></li>
+											<li onclick="slideshow.pos(3)"></li>
+											<li onclick="slideshow.pos(4)"></li>
+											<li onclick="slideshow.pos(5)"></li>
+										</ul>
+									</div>
+								</div>
+							</td>
+						</tr>
+						
 						<tr>
 							<td colspan="2">
 								<div id="xlist" class="box1">
@@ -244,3 +277,19 @@
 		</div>
 	</body>
 </html>
+
+<script type="text/javascript">
+	var slideshow = new TINY.slider.slide('slideshow', {
+		id : 'slider',
+		auto : 4,
+		resume : false,
+		vertical : false,
+		navid : 'pagination',
+		activeclass : 'current',
+		position : 0,
+		rewind : false,
+		elastic : true,
+		left : 'slideleft',
+		right : 'slideright'
+	});
+</script>

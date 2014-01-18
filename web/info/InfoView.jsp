@@ -7,7 +7,21 @@
 		<title><s:property value="info.title" /></title>
 		<link rel="stylesheet" type="text/css" href="../css/xdd.css" />
 		<link rel="stylesheet" type="text/css" href="../css/mnavigator.css" />
-	</head>
+		<script language="JavaScript">
+			function adjustImage(ImgD) {
+				var image = new Image();
+				image.src = ImgD.src;
+				if (image.width > 0 && image.height > 0) {
+					if (image.width > 740) {
+						ImgD.width = 740;
+					} else {
+						ImgD.width = image.width;
+						ImgD.height = image.height;
+					}
+				}
+			}
+		</script>
+</head>
 
 	<body>
 		<div id="out">
@@ -39,7 +53,7 @@
 					<!-- content -->
 					<div class="content">
 						<s:if test="info.imgUrl!=null">
-							<p style="text-align: center"><img src='/xdd<s:property value="info.imgUrl"/>'></p>
+							<p style="text-align: center"><img src='/xdd<s:property value="info.imgUrl"/>' onload="javascript:adjustImage(this);"></p>
 						</s:if>
 						<s:property value="info.content" escape="false" />
 					</div>

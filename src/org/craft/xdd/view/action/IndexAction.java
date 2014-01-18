@@ -45,6 +45,9 @@ public class IndexAction extends CommonAction {
 	
 	/** 图说喜德列表 */
 	private List<InfoView> xlist = new ArrayList<InfoView>();
+	
+	/** 专栏列表 */
+	private List<InfoView> clist = new ArrayList<InfoView>();
 
 	public IndexAction() {
 		super();
@@ -69,9 +72,23 @@ public class IndexAction extends CommonAction {
 		setNlist();
 		setElist();
 		setPlist();
+		setClist();
 		orgs1 = orgDao.read(Org.TYPE_B);
 		orgs2 = orgDao.read(Org.TYPE_X);
 		return SUCCESS;
+	}
+	
+	private void setClist() {
+		List<Info> l = infoDao.read(InfoGroup.COLUMN_ID, Info.PASS, 0, 6);
+		for (Info i : l) {
+			InfoView iv = new InfoView();
+			String t = i.getTitle();
+			iv.setId(i.getId());
+			iv.setTitle(t.length() < 22? t : t.substring(0, 22) + "...");
+			iv.setImgUrl(i.getImgUrl().substring(1));
+			iv.setImgLinkUrl("info/viewInfo.do?infoId=" + i.getId());
+			clist.add(iv);
+		}
 	}
 	
 	private void setXlist() {
@@ -237,6 +254,14 @@ public class IndexAction extends CommonAction {
 
 	public void setOrgDao(OrgDao orgDao) {
 		this.orgDao = orgDao;
+	}
+
+	public List<InfoView> getClist() {
+		return clist;
+	}
+
+	public void setClist(List<InfoView> clist) {
+		this.clist = clist;
 	}
 
 }

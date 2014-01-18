@@ -43,6 +43,9 @@ public class InfoGroup implements Comparable<InfoGroup>, Serializable {
 
 	/** 天气预报 id */
 	public static final String WEATHER_ID = "S_5";
+	
+	/** 专栏 id */
+	public static final String COLUMN_ID = "71";
 
 	// ---------------------------- entity field
 
