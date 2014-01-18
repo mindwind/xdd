@@ -92,7 +92,7 @@ function pub_info() {
 
 		group_combo.on('select', function(combo) {
 					var value = combo.getValue();
-					if (value == '22') {
+					if (value == '22' || value == '71') {
 						img.enable();
 					} else {
 						img.disable();
