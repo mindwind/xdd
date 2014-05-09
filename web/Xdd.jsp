@@ -24,7 +24,14 @@
 				<s:include value="/common/MNavigator.jsp" />
 				
 				<div style="margin-top: 2px;border-bottom: 1px solid #ffcc66">
-					<a href="http://www.zzgsc.gov.cn/info/index/513432000" target="_blank"><img src="http://www.zzgsc.gov.cn/images/urlImg.jpg" border=0/></a>
+					<table>
+						<tbody>
+							<tr>
+							<td><a href="http://www.zzgsc.gov.cn/info/index/513432000" target="_blank"><img src="http://www.zzgsc.gov.cn/images/urlImg.jpg" border=0/></a></td>
+							<td><a href="http://xdehall.lsz.gov.cn/eGovP1/portal/index_pc10000.jsp" target="_blank"><img src="images/xddzzwdt.png" width="316" border=0 /></a></td>
+							</tr>
+						</tbody>
+					</table>
 				</div>
 				<table style="margin-top: 10px;margin-left:auto;margin-right:auto">
 					<tbody>
