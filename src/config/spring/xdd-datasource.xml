@@ -37,7 +37,7 @@
 			<value>xdd</value>
 		</property>
 		<property name="password">
-			<value>xddpass</value>
+			<value>xdd</value>
 		</property>
 
 		<!--连接池中保留的最小连接数。-->
